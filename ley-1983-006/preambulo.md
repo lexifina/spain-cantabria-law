@@ -1,0 +1,2 @@
+EXPOSICIÓN DE MOTIVOS:
+De conformidad con lo establecido en el artículo 69.5 de la Constitución y el 9.h) del Estatuto de Autonomía para Cantabria, procede designar al Senador representante de la Comunidad Autónoma en las Cortes Generales. Parece conveniente y deseable que el procedimiento a seguir para tal designación, desde su alta significación, sea el encuadrado en el rango de una disposición como la presente Ley.
