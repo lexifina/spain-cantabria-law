@@ -1,0 +1,2 @@
+Disposición transitoria única. Iniciación del procedimiento.
+Se considera iniciado el procedimiento de tramitación y aprobación del Plan de Ordenación de los Recursos Naturales del Parque Natural de Collados del Asón el mismo día de la entrada en vigor de la presente Ley, a efectos de lo indicado en el apartado 2 del artículo 7 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre.
