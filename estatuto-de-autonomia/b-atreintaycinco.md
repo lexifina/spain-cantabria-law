@@ -1,0 +1,4 @@
+CAPÍTULO II
+De la Administración
+Artículo 35.
+Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública, dentro de los principios generales y normas básicas del Estado.
