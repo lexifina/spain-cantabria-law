@@ -1,0 +1,2 @@
+Disposición adicional única.
+Los bienes radicados en la Comunidad de Cantabria que hayan sido declarados Bienes de Interés Cultural o incluidos en el Inventario General de Bienes Muebles del Ministerio de Cultura al amparo de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, pasan a tener la condición, salvo aquellos en los que es competente la Administración del Estado conforme al apartado b) del artículo 6 de dicha Ley, de Bienes de Interés Cultural en las condiciones que recoge la presente Ley.
