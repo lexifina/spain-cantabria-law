@@ -1,0 +1,3 @@
+Artículo 8 bis.
+De acuerdo con el Reglamento del Parlamento, el Pleno de la Cámara resolverá sobre la posible incompatibilidad, a propuesta de la Comisión del Estatuto de los Diputados y Diputadas, que deberá ser motivada y basarse en los supuestos previstos en el artículo 7 de esta Ley. Si se declarare la incompatibilidad, el parlamentario deberá optar entre el escaño y el cargo, actividad, percepción o participación incompatible. En el caso de no ejercitarse la opción, en el plazo establecido en el Reglamento, se entenderá que el Diputado o Diputada renuncia al escaño.
+Se añade por el art. único de la Ley 1/2000, de 24 de mayo. Ref. BOE-A-2000-12604.
