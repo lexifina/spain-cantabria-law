@@ -1,3 +1,5 @@
-Disposición adicional única. Aprobación y modificación del Estatuto del Ente del Agua y Medio Ambiente de Cantabria.
-1. Se aprueba el Estatuto del Ente del Agua y Medio Ambiente de Cantabria, que se contiene en el anexo de la presente Ley.
-2. El Gobierno de Cantabria podrá modificar, mediante Decreto, el contenido de los artículos del Estatuto del Ente del Agua y Medio Ambiente de Cantabria relativos al capítulo II: Estructura y Organización, para adaptarlos a la normativa vigente así como a nuevas necesidades o situaciones no contempladas.
+Disposición adicional única. Extinción del Ente del Agua y Medio Ambiente de Cantabria.
+1. Se declara la extinción del Ente del Agua y Medio Ambiente de Cantabria, creado por la Ley 2/2002, de 29 de abril, de Saneamiento y Depuración de las Aguas Residuales de la Comunidad Autónoma de Cantabria.
+2. Los fines y objetivos del Ente del Agua y Medio Ambiente de Cantabria, así como sus bienes, derechos y obligaciones, son asumidos por la sociedad Empresa de Residuos de Cantabria, S.A., con excepción de aquellos que implican el ejercicio de autoridad pública, que son asumidos por la Dirección General de Obras Hidráulicas y Ciclo Integral del Agua.
+3. En consecuencia, la sociedad Empresa de Residuos de Cantabria, S.A., asume todas las funciones indicadas en el artículo 3 del Anexo de la Ley 2/2002, con excepción de las previstas en las letras f) y h) en todo aquello que implique el ejercicio de autoridad pública.
+Se modifica por el art. 4.9 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.

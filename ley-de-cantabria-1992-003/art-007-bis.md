@@ -1,0 +1,3 @@
+Artículo 7 bis.
+Las Entidades Municipales y la Administración Autonómica, en el ejercicio de sus respectivas competencias, podrán proceder a confiscar los animales si en ellos se detectan indicios de maltrato o tortura, presentan síntomas de agresión física o desnutrición o se encuentran en instalaciones indebidas, así como si se hubiera diagnosticado que padecen enfermedades transmisibles al hombre o a los animales, sea para someterlos a un tratamiento curativo adecuado o para sacrificarlos si fuera necesario.
+Se añade por el art. 11.1 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
