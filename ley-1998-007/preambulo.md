@@ -1,0 +1,10 @@
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2 del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 7/1998, de 5 de junio, de Artesanía de Cantabria.
+PREÁMBULO
+La Constitución Española establece, en su artículo 130.1, que «los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, en particular, de la agricultura, de la ganadería, de la pesca y de la artesanía a fin de equiparar el nivel de vida de todos los españoles».
+El Estatuto de Autonomía para Cantabria dispone, en su artículo 22.12, competencia exclusiva en materia de artesanía.
+El sector artesano requiere especial atención de los poderes públicos para modernizarse y adaptarse a las nuevas demandas del mercado al mismo tiempo que para proteger sus formas tradicionales de producción frente a la industrialización y fabricación en serie de los productos tradicionalmente artesanos.
+La artesanía constituye, además, en muchas de sus manifestaciones, la expresión formal y cultural de la historia de esta región y sus testimonios un componente fundamental del Patrimonio Etnográfico de Cantabria.
+La presente Ley se orienta a diferentes aspectos de la artesanía regional; su ordenación como actividad profesional y empresarial, su promoción, la protección de formas y usos en vías de extinción, la representación de intereses, la formación de nuevos artesanos, etc.
+La presente Ley define la actividad artesanal a la vez que regula el medio de acreditar la condición de artesano, maestro artesano y taller artesano. Dispone el marco adecuado para fomentar la actividad y formación de artesanos y talleres a través de diversos medios. Se crea, asimismo, el Consejo de Artesanía y Talleres Artesanos de Cantabria en términos similares a los contemplados en otras leyes análogas.
+Se estructura la Ley en cuatro capítulos, dieciséis artículos, dos disposiciones adicionales y una disposición final.
