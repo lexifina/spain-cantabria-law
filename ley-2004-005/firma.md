@@ -1,0 +1,3 @@
+ANEXO
+A los efectos establecidos en el apartado 2 del artículo 2 de esta Ley, tienen la consideración de puertos e instalaciones marítimo y portuarias de titularidad de la Comunidad Autónoma de Cantabria los puertos, dársenas e instalaciones portuarias o marítimas que a continuación se relacionan: Castro Urdiales, con sus instalaciones de Saltacaballo, Ontón y Mioño; Laredo; Colindres; Santoña, con sus instalaciones de Quejo; Suances, con sus instalaciones en la Ría; Comillas; y San Vicente de la Barquera, con sus instalaciones de Unquera.
+Palacio del Gobierno de Cantabria, dieciséis de noviembre de dos mil cuatro.–El Presidente, Miguel Ángel Revilla Roíz.
