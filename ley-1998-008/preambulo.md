@@ -1,0 +1,10 @@
+EL PRESIDENTE DE LA DIPUTACIÓN REGIONAL DE CANTABRIA
+Conózcase que la Asamblea Regional de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 8/1998, de 12 de junio, de Creación del Colegio Profesional de Podólogos de Cantabria.
+PREÁMBULO
+El Estatuto de Autonomía para Cantabria, aprobado por Ley Orgánica 8/1981, de 30 de diciembre, reformado por la Ley Orgánica 2/1994, de 24 de marzo, dispone, en su artículo 23.5, que corresponde a la Comunidad Autónoma la competencia de desarrollo legislativo y ejecución de la materia de corporaciones de Derecho Público representativas de intereses económicos y profesionales.
+Esta competencia estatutaria se ha hecho efectiva en virtud del Real Decreto 1379/1996, de 7 de junio, en cuanto a los Colegios Profesionales.
+Respecto de éstos, la Ley 2/1974, de 13 de febrero, modificada por la Ley 74/1978 y por la Ley 7/1997, de 14 de abril, establece que los Colegios Profesionales son tales corporaciones y contiene su regulación general.
+La creación de estos Colegios, según su artículo 4, debe hacerse por ley, a petición de los profesionales interesados, petición que ha sido hecha por la Asociación Cántabra de Podólogos, cumpliendo acuerdo de su Asamblea General extraordinaria.
+El Real Decreto 649/1988, de 24 de junio, dispone la estructuración de las enseñanzas de Podología como estudios de primer ciclo de la educación universitaria.
+Y establece, asimismo, que quienes superen dichos estudios obtendrán el título de diplomado en Podología, que tendrá carácter oficial.
+Con la creación de este Colegio Profesional se permite a estos profesionales la ordenación del ejercicio de su profesión, así como la representación y defensa de sus intereses, todo con sujeción a los principios y reglas básicas de la legislación estatal, y en todo caso, en vista del interés público que se deriva de corresponder con un área de salud.
