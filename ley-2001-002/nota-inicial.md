@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOCT núm. 161, de 21 de agosto de 2001.
+Téngase en cuenta que las referencias a la Comisión Regional de Ordenación del Territorio y a la Comisión Regional de Urbanismo se entenderán hechas a la Comisión Regional de Ordenación del Territorio y Urbanismo, por la disposición final 1 de la Ley 2/2003, de 23 de julio. Ref. BOE-A-2003-16422#dfprimera.
