@@ -1,0 +1,6 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CANTABRIA
+Conózcase que el Parlamento de Cantabria ha aprobado y yo, en nombre de Su Majestad el Rey, de acuerdo con lo dispuesto en el artículo 15.2.º del Estatuto de Autonomía para Cantabria, promulgo la siguiente Ley de Cantabria 8/1999, de 28 de abril, de Comarcas de la Comunidad Autónoma de Cantabria.
+PREÁMBULO
+El Estatuto de Autonomía para Cantabria, en el apartado 3 del artículo 2, establece que, por Ley del Parlamento, se podrá reconocer la comarca como entidad local con personalidad jurídica y demarcación propia.
+La Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, en su artículo 42, dispone que las Comunidades Autónomas podrán crear en su territorio comarcas u otras entidades que agrupen varios municipios.
+La existencia de comarcas en Cantabria, en cuanto realidades geográficas, económicas, culturales e históricas con características e intereses comunes, es un hecho que acredita los vínculos y relaciones entre los municipios de determinadas zonas en torno a diversas unidades que, espontáneamente, es sentido por sus poblaciones respectivas como bases comunes de convivencia. La comarca es, por tanto, una entidad necesaria integrante de la organización territorial de la Comunidad Autónoma de Cantabria.
