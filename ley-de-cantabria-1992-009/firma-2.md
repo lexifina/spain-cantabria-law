@@ -60,7 +60,7 @@ Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
 – De casinos: 650.000 pesetas.
 – De salas de bingo: 150.000 pesetas.
 – De salones de juego: 60.000 pesetas.
-–De salones recreativos: 30.000 pesetas.
+– De salones recreativos: 30.000 pesetas.
 – De otros locales de juego: 5.000 pesetas.
 – De rifas, tómbolas y combinaciones aleatorias: 10.000 pesetas.
 – De empresas de servicio y gestoras de salas de bingo y su inscripción: 20.000 pesetas.
@@ -72,6 +72,10 @@ Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
 – Renovación de las anteriores autorizaciones: 50 por 100 de la tarifa.
 – Solicitud de alta en el Registro de prohibidos: 5.000 pesetas.
 – Solicitud de baja en el Registro de prohibidos: 20.000 pesetas.
+– De empresas comerciales, distribuidoras y técnicas, y fabricantes, todas ellas de máquinas recreativas, y su inscripción: 20.000 pesetas.
+– De empresas de salones y su inscripción: 20.000 pesetas.
+– Inscripción de modelos de máquinas tipo A: 5.000 pesetas.
+– Inscripción de modelos de máquinas tipos B y C: 10.000 pesetas.
 2. Expedición de documentos y otros trámites:
 – Documentos profesionales: 3.000 pesetas.
 – Transmisión de autorizaciones de explotación de cada máquina: 3.000 pesetas.
@@ -111,6 +115,9 @@ Planos orográficos: 464 pesetas, incluido IVA.
 Planos catastro: 232 pesetas, incluido IVA.
 Fotocopias DIN A4: 11.60 pesetas, incluido IVA.
 Fotocopias DIN A3: 69,60 pesetas, incluido IVA.
+Fotocopias DINA4 Color: 150 pesetas, incluido IVA.
+Fotocopias DINA3 Color: 250 pesetas, incluido IVA.
+Planos Poliéster: 650 pesetas, incluido IVA.
 CONSEJERIA DE CULTURA, EDUCACION Y DEPORTE
 1. Tasa por servicios administrativos.
 Hecho imponible.‒Constituye el hecho imponible la prestación por la Consejería de Cultura, Educación y Deporte de los servicios enumerados en las tarifas.
@@ -1349,7 +1356,7 @@ Tarifa 2. Control administrativo de actividades energéticas:
 2.2 Instalaciones eléctricas en baja tensión.
 2.2.1 Instalaciones en viviendas ya existentes, por ampliaciones de potencias, cambios de titular, cambios de tensión, etc.: 300 pesetas.
 2.2.2 Edificios de viviendas o locales comerciales: Por cada vivienda o local: 500 pesetas.
-2.2.3 Instalaciones con proyecto, distintas de las anteriores: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
+2.2.3 Instalaciones con proyecto, distintas de las anteriores: Según tarifa básica 1.1.
 2.2.4 Resto de las instalaciones, según potencia total máxima admisible:
 Tasa | Potencia – Total Kw (hasta) | Pesetas
 2.2.4.1 | 3,3 | 300
@@ -1361,21 +1368,21 @@ Tasa | Potencia – Total Kw (hasta) | Pesetas
 2.2.4.7 | Cada 50 Kw más | 1.000
 2.3 Gases combustibles:
 2.3.1 Concesiones administrativas: 200 por 100 de la tarifa básica 1.1.
-2.3.2 Instalaciones de almacenamiento y distribución de gases combustibles con depósitos fijos: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
-2.3.3 Redes de distribución de gas canalizado, acometidas y centros de regulación y medida de gas: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
-2.3.4 Centros de almacenamiento y distribución de botellas de GLP: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
+2.3.2 Instalaciones de almacenamiento y distribución de gases combustibles con depósitos fijos: Según tarifa básica 1.1.
+2.3.3 Redes de distribución de gas canalizado, acometidas y criterios de regulación y medidas de gas: Según tarifa básica 1.1.
+2.3.4 Centros de almacenamiento y distribución de botellas de GLP: Según tarifa básica 1.1.
 2.3.5 Instalaciones receptoras de gas.
-2.3.5.1 En edificios de viviendas (montantes). Por cada vivienda: 500 pesetas.
+2.3.5.1 En edificios de viviendas (Montantes): según tarifa básica 1.1
 2.3.5.2 Instalaciones con botellas de GLP. Por cada botella en uso o reserva: 500 pesetas.
-2.3.6 Inspecciones periódicas: 50 por 100 de la tarifa básica 1.1 (mínimo 2.000 pesetas).
-2.3.7 Aparatos a gas tipo único: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
+2.3.6 Inspecciones periódicas: 50 por 100 de la tarifa básica 1.1.
+2.3.7 Aparatos a gas tipo único: Según tarifa básica 1.1.
 2.3.8 Ampliación de aparatos a gas en instalaciones existentes. Por cada nuevo aparato: 600 pesetas.
 2.4 Instalaciones de calefacción, climatización y agua caliente:
 2.4.1 Instalación individual en vivienda o local: 500 pesetas.
 2.4.2 Edificios de viviendas o locales comerciales. Por cada vivienda o local: 500 pesetas.
 2.4.3 Instalaciones con proyecto, distintas a las anteriores: Según tarifa básica 1.1
 2.5 Combustibles líquidos:
-2.5.1 Instalaciones de almacenamientos comunitarios en depósitos fijos: Según tarifa básica 1.1 (mínimo 2.000 pesetas).
+2.5.1 Instalaciones de almacenamiento comunitarios en depósitos fijos: Según tarifa básica 1.1.
 2.5.2 Almacenamientos individuales para una vivienda o local: 500 pesetas.
 2.6 Agua:
 2.6.1 Autorización de instalaciones distribuidoras de agua, que requieren proyecto: Según tarifa básica 1.1
@@ -1420,6 +1427,7 @@ Tarifa 3. Tasas que afectan a la inspección técnica de vehículos.
 3.19 Inspecciones técnicas de vehículos realizadas en línea móvil en sus desplazamientos a los diferentes puntos fuera de la estación: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 2.751 pesetas.
 3.20 Inspecciones técnicas por cambios de matrícula: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 2.160 pesetas.
 3.21 Inspección de vehículos históricos: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 2.160 pesetas.
+3.22 Inspecciones anuales prescritas en el ADR o TPC de las cisternas que transportan mercancías peligrosas. Las tarifas serán las correspondientes a las Inspecciones Técnicas.
 Cuando se requieran simultáneamente dos o más servicios, la tarifa resultante será la suma de las tarifas de los servicios solicitados, aplicando la correspondiente a la inspección técnica una sola vez.
 Para la segunda y sucesivas inspecciones, como consecuencia de rechazos en la primera presentación del vehículo, se establecen los siguientes dos supuestos:
 1. Si la presentación del vehículo se hace dentro de los quince días hábiles siguientes al de la primera inspección, no devengará tarifa alguna por este concepto.
@@ -1515,7 +1523,7 @@ Tarifa 7. Expropiación forzosa y servidumbre de paso.
 7.1.3 Acta de ocupación, por cada parcela: 4.000 pesetas.
 Tarifa 8. Expedición de certificados, documentos y tasas de examen.
 8.1 Expedición de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias:
-8.1.1 Expedición del carnet de instalador autorizado: 1.000 pesetas.
+8.1.1 Expedición del carné de instalador autorizado o cartilla de palista/maquinista o artillero: 1.000 pesetas.
 8.1.2 Renovaciones y prórrogas: 800 pesetas.
 8.2 Derechos de examen para la obtención de carnet de instalador autorizado: 1.000 pesetas.
 8.3 Certificaciones y otros actos administrativos:
@@ -1529,6 +1537,9 @@ Tarifa 8. Expedición de certificados, documentos y tasas de examen.
 8.6 Expedición de documento de calificación empresarial:
 8.6.1 Nuevos: 5.000 pesetas.
 8.6.2 Renovaciones: 1.000 pesetas.
+8.6.3 Obtención de datos del Registro Industrial:
+Por cada hoja: 100 pesetas.
+En soporte informático: 120 pesetas.
 8.7 Autorización de talleres para la instalación de tacógrafos, limitadores de velocidad y fabricantes de menos de 50 unidades: 10.000 pesetas.
 8.8 Habilitación de libros de registro para talleres instaladores de tacógrafos, limitadores, menos de 50 unidades y aparatos taxímetros: 1.000 pesetas.
 Tarifa 9. Control administrativo de las actuaciones de los Organismos de Control.
@@ -1539,6 +1550,11 @@ Tarifa 10. Tasa por venta de bienes.
 10.3 Libro-Registro Usuario Instalaciones Frigoríficas: 1.500 pesetas.
 10.4 Libro Mantenimiento Instalaciones de Calefacción, Climatización y ACS: 1.500 pesetas.
 10.5 Juego de impresos planes de labores: 1.500 pesetas.
+Tarifa 11. Fotocopias
+Por cada fotocopia DINA4: 30 pesetas.
+Por cada fotocopia DINA3: 50 pesetas.
+Por cada fotocopia de planos DINA 1: 300 pesetas.
+Por cada fotocopia de planos DINA 0: 600 pesetas.
 CONSEJERIA DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
 1. Tasa por prestación de servicios de salud e inspecciones sanitarias de salud pública.
 Hecho imponible. Constituye el hecho imponible la prestación de servicios de salud relativos a inspecciones sanitarias, realizados a través de los Centros o dependencias sanitarias de la Consejería de Sanidad, Consumo y Bienestar Social.
@@ -1936,6 +1952,7 @@ Exenciones y bonificaciones:
 Sobre las cuotas que resulten de las liquidaciones practicadas según las reglas contenidas en los apartados anteriores, no se concederá exención ni bonificación alguna, cualquiera que sea el titular de las explotaciones o el territorio en que se encuentren ubicados.
 Normas adicionales:
 El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea en forma directa o indirecta.
+Se modifica por los arts. 1 y 2 de la Ley 13/1998 de 23 de diciembre . Ref. BOE-A-1999-5940
 Se modifica por los arts. 1 a 9 de la Ley 7/1997, de 30 de diciembre. Ref. BOE-A-1998-2747#a1
 Se modifica por el art. 75.2 a 5 de la Ley 8/1996, de 27 de diciembre. Ref. BOE-A-1997-4275
 Se modifica por las disposiciones adicionales 6 a 8 de la Ley 5/1995, de 13 de marzo. Ref. BOE-A-1995-8772
