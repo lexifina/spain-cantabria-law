@@ -9,8 +9,10 @@ Exenciones.‒Están exentos del pago de la tasa:
 3. Los particulares por los servicios relacionados con el pago de subvenciones, donativos o becas percibidas de la Comunidad Autónoma.
 Devengo.‒La tasa se devengará en el momento en que se solicite el servicio o actividad, o cuando se preste si la actuación se produjera de oficio.
 Tarifas:
-Tarifa 1. Por expedición de certificados: 550 pesetas.
-Tarifa 2. Por compulsa de documentos: 330 pesetas.
+Tarifa 1. Por expedición de certificados: 600 pesetas.
+Tarifa 2. Por compulsa de documentos: 350 pesetas.
+Tarifa 3: Por diligencias de libros y otros documentos: 2.000 pesetas.
+Tarifa 4: Por inscripción en Registro oficial de asociaciones y modificaciones de Estatutos: 2.500 pesetas.
 2. Tasa por dirección e inspección de obras.
 Hecho imponible.‒Constituye el hecho imponible de la presente tasa la prestación por la Diputación Regional de Cantabria de trabajos facultativos de replanteo, dirección, inspección y liquidación de obras realizadas a instancia de la Diputación Regional de Cantabria, ya lo sean mediante subasta, concurso o adjudicación directa.
 No sujeción.‒No estarán sujetos a esta tasa los servicios que constituyen el hecho imponible cuando se hallen gravados por una tasa específica de cualquier Consejería.
@@ -33,15 +35,80 @@ Por la inscripción en pruebas selectivas de acceso a plazas del grupo D | 1.500
 Por la inscripción en pruebas selectivas de acceso a plazas del grupo E | 1.500
 2. Tasa del «Boletín Oficial de Cantabria».
 Hecho imponible.‒Constituye el hecho imponible de esta tasa la inserción de escritos, anuncios y textos de toda clase en el «Boletín Oficial de Cantabria».
-Sujeto pasivo.‒Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 33 de la Ley General Tributaria que soliciten la inserción de textos en el Boletín Oficial de Cantabria».
-Devengo.‒La tasa se devengará en el momento de la publicación.
+Sujeto pasivo.‒Serán sujetos pasivos, las personas físicas o jurídicas, y las entidades del artículo 33 de la Ley General Tributaria, que soliciten la inserción de textos en el "Boletín Oficial de Cantabria", o suscriban o adquieran ejemplares del mismo.
+Devengo.‒La tasa se devengará en el momento de la publicación o de la suscripción y venta.
 Tarifas.‒La tasa se exigirá de acuerdo con la siguiente tarifa:
 Por palabra: 38 pesetas.
 Por línea o fracción de línea en plana de tres columnas: 200 pesetas.
 Por línea o fracción de línea en plana de dos columnas: 338 pesetas.
 Por plana entera: 33.800 pesetas.
+Suscripción anual: 16.154 pesetas.
+Suscripción semestral: 8.017 pesetas.
+Suscripción trimestral: 4.038 pesetas.
+Número suelto del año en curso: 115 pesetas.
+Número suelto de años anteriores: 170 pesetas.
 Cuando a petición del interesado se reduzca a la mitad el plazo mínimo previsto en el artículo 9.3 del Decreto 48/1985, de 10 de junio, para la inserción de anuncios, la tarifa correspondiente se incrementará en el 50 por 100.
 Exenciones.‒Estarán exentos del pago de la tasa los edictos, anuncios y demás inserciones a las que corresponda tal exención por disposición legal estatal o autonómica.
+3. Tasa por servicios administrativos de ordenación del juego.
+Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por la Administración de la Diputación Regional de Cantabria, de servicios o la realización de actuaciones, en interés del ciudadano o peticionario, que lleva consigo el control administrativo del juego, en los casos y conforme se especifica en las tarifas.
+Devengo.–La tasa se devengará en el momento del inicio de las actuaciones administrativas constitutivas del hecho imponible.
+Sujeto pasivo.–Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas que soliciten, a quienes se presten o en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible.
+Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
+1. Autorizaciones:
+– De casinos: 650.000 pesetas.
+– De salas de bingo: 150.000 pesetas.
+– De salones de juego: 60.000 pesetas.
+–De salones recreativos: 30.000 pesetas.
+– De otros locales de juego: 5.000 pesetas.
+– De rifas, tómbolas y combinaciones aleatorias: 10.000 pesetas.
+– De empresas de servicio y gestoras de salas de bingo y su inscripción: 20.000 pesetas.
+– De empresas operadoras de máquinas tipos A y B y su inscripción: 20.000 pesetas.
+– De explotación de máquinas recreativas y de azar tipo A: 5.000 pesetas.
+– De explotación de máquinas recreativas tipos B y C: 10.000 pesetas.
+– De instalación de máquinas recreativas y de azar, tipos A, B y C: 3.000 pesetas.
+– Modificaciones de las anteriores autorizaciones: 50 por 100 de la tarifa.
+– Renovación de las anteriores autorizaciones: 50 por 100 de la tarifa.
+– Solicitud de alta en el Registro de prohibidos: 5.000 pesetas.
+– Solicitud de baja en el Registro de prohibidos: 20.000 pesetas.
+2. Expedición de documentos y otros trámites:
+– Documentos profesionales: 3.000 pesetas.
+– Transmisión de autorizaciones de explotación de cada máquina: 3.000 pesetas.
+– Diligencia de guías de circulación: 2.000 pesetas.
+– Cambio de establecimiento o canje de máquina: 3.000 pesetas.
+– Expedición de duplicados: 50 por 100 de la tarifa.
+4. Tasa por servicios administrativos de ordenación de espectáculos.
+Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por la Administración de la Diputación Regional de Cantabria, de servicios o la realización de actuaciones, que lleva consigo el control administrativo de los espectáculos públicos o actividades recreativas sometidas a autorización administrativa o comunicación previa, en los casos y conforme se especifica en las tarifas.
+Devengo.–La tasa se devengará en el momento del inicio de las actuaciones administrativas constitutivas del hecho imponible.
+Sujeto pasivo.–Son sujetos pasivos contribuyentes de la tasa las personas físicas o jurídicas que soliciten, a quienes se presten o en cuyo interés se realicen las actuaciones administrativas que constituyen el hecho imponible. Serán responsables solidarios los titulares de los establecimientos donde se hayan de celebrar los espectáculos o las actividades recreativas.
+Exenciones.–Quedan exentas del pago de la tasa, aunque no de la autorización o comunicación, los espectáculos públicos y actividades recreativas organizadas por la Comunidad Autónoma, sus organismos y empresas, y aquellos cuya recaudación esté destinada totalmente a beneficio de Cruz Roja, Cáritas, Asociación Española contra el Cáncer, UNICEF, Manos Unidas, Organizaciones No Gubernamentales dedicadas a tareas de cooperación al desarrollo y otras asociaciones oficialmente reconocidas dedicadas a finalidades benéficas o asistenciales, y así lo acrediten.
+Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
+1. Espectáculos taurinos en plazas fijas:
+– Corridas de toros: 10.000 pesetas.
+– Corridas de rejones: 8.000 pesetas.
+– Novilladas con picadores: 8.000 pesetas.
+– Novilladas sin picadores: 6.000 pesetas.
+– Becerradas: 3.000 pesetas.
+– Festivales: 8.000 pesetas.
+– Toreo cómico: 3.000 pesetas.
+– Encierros: 5.000 pesetas.
+– Suelta de vaquillas: 3.000 pesetas.
+2. Inspecciones periódicas en plazas de toros y tentaderos: 10.000 pesetas.
+3. Autorización y controles:
+– De actos recreativos, fiestas, bailes y verbenas: 3.000 pesetas.
+– De espectáculos públicos en general: 6.000 pesetas.
+– De apertura, reapertura y traspasos de locales: 6.000 pesetas.
+– De actos deportivos: 1.000 pesetas.
+5. Tasa por venta de bienes.
+Hecho imponible.–Constituye el hecho imponible de esta tasa la venta de mapas, hojas y planos y fotocopias por la Dirección Regional de Servicios Generales.
+Devengo.–La tasa se devengará en el momento de la compra.
+Sujeto pasivo.–Son sujetos pasivos las personas físicas o jurídicas que soliciten y adquieran ejemplares de los mapas, hojas, planos y fotocopias citados.
+Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
+Hojas actas Ayuntamiento: 3 pesetas cada unidad, incluido IVA.
+Mapa de Cantabria: 624 pesetas, incluido IVA.
+Planos orográficos: 464 pesetas, incluido IVA.
+Planos catastro: 232 pesetas, incluido IVA.
+Fotocopias DIN A4: 11.60 pesetas, incluido IVA.
+Fotocopias DIN A3: 69,60 pesetas, incluido IVA.
 CONSEJERIA DE CULTURA, EDUCACION Y DEPORTE
 1. Tasa por servicios administrativos.
 Hecho imponible.‒Constituye el hecho imponible la prestación por la Consejería de Cultura, Educación y Deporte de los servicios enumerados en las tarifas.
@@ -1498,6 +1565,7 @@ Reglas de revisión de las cuotas.‒Las cuotas fijadas en la presente tasa podr
 Serán igualmente revisables, en forma inmediata, en función de las decisiones adoptadas por los Órganos competentes de la C.E.E, y de la obligatoriedad de las normas dictadas al efecto.
 Normas adicionales.‒Esta tasa será exigible, en igual cuantía, para los controles e inspecciones sanitarias de carnes frescas procedentes del sacrificio de ganado y aves de corral que se destinen al intercambio en el mercado comunitario europeo.
 El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea en forma directa o indirecta.
+Se modifica por el art. 75.2 a 5 de la Ley 8/1996, de 27 de diciembre. Ref. BOE-A-1997-4275
 Se modifica por las disposiciones adicionales 6 a 8 de la Ley 5/1995, de 13 de marzo. Ref. BOE-A-1995-8772
 Redactado conforme a la corrección de errores publicada en el BOCT núm. 21, de 29 de enero de 1993. Ref. BOCT-c-1993-90009
 Y para que conste, expido la presente certificación, debidamente autorizada, visada y sellada, en Santander a 14 de diciembre de 1992.‒Visto bueno: El Presidente, Adolfo Pajares Compostizo.‒El Secretario segundo, Isaac Aja Muela.‒El Letrado Secretario general, Francisco Ceballos López.
