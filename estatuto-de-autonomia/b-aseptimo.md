@@ -1,4 +1,7 @@
 TÍTULO I
-De la Diputación Regional de Cantabria
+De las instituciones de la Comunidad Autónoma de Cantabria
+Se modifica por el art. único.8 de Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152
 Artículo 7.
-Los poderes de la Comunidad Autónoma de Cantabria se ejercerán a través de la Diputación Regional, la cual esta integrará por la Asamblea Regional, el Consejo de Gobierno y el Presidente.
+1. Los poderes de la Comunidad Autónoma de Cantabria se ejercerán a través de sus instituciones de autogobierno, que son el Parlamento, el Gobierno y el Presidente.
+2. Las leyes de Cantabria ordenarán el funcionamiento de estas instituciones de acuerdo con la Constitución y el presente Estatuto.
+Se modifica por el art. único.9 de la Ley Orgánica 11/1998, de 30 de diciembre. Ref. BOE-A-1998-30152

@@ -1,3 +1,5 @@
+TÍTULO IV
+De la Administración de Justicia
 Artículo 42.
 Uno. La competencia de los órganos jurisdiccionales en Cantabria se extenderá:
 a) En el ámbito civil, penal y social a todas las instancias y grados, con la excepción de los recursos de casación y revisión.
