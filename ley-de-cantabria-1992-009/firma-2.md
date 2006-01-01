@@ -1,7 +1,7 @@
-ANEXO DE TASAS DE LA ADMINISTRACIÓN DEL GOBIERNO DE CANTABRIA Y DE SUS ORGANISMOS PÚBLICOS
-TASAS CON CARACTER GENERAL APLICABLES EN TODAS LAS CONSEJERÍAS Y ORGANISMOS PÚBLICOS
+ANEXO DE TASAS DE LA ADMINISTRACIÓN DEL GOBIERNO DE CANTABRIA, ORGANISMOS PÚBLICOS Y ENTES DE DERECHO PÚBLICO DEPENDIENTES
+TASAS CON CARÁCTER GENERAL APLICABLES EN TODAS LAS CONSEJERÍAS, ORGANISMOS PÚBLICOS Y ENTES DE DERECHO PÚBLICO DEPENDIENTES
 1. Tasa por servicios administrativos.
-Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por los distintos órganos de la Administración de la Comunidad Autónoma de Cantabria y sus Organismos Públicos, de los servicios o actividades enumerados en las tarifas, siempre que no estén gravados por una tasa específica de cualquier Consejería.
+Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por los distintos Órganos de la Administración de la Comunidad Autónoma de Cantabria, Organismos Públicos y Entes de derecho público dependientes, de los servicios o actividades enumerados en las tarifas, siempre que no estén gravados por una tasa específica.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria, que soliciten o a quienes se presten de oficio los servicios o actividades referidas en el hecho imponible.
 Exenciones.–Están exentos del pago de la tasa:
 Los entes públicos territoriales e institucionales.
@@ -9,18 +9,19 @@ El personal al servicio de la Comunidad Autónoma por los servicios relativos al
 Los particulares por los servicios relacionados con el pago de subvenciones, donativos o becas percibidas del Gobierno de Cantabria.
 Devengo.–La tasa se devengará en el momento en que se solicite el servicio o actividad, o cuando se preste si la actuación se produjera de oficio.
 Tarifas:
-Tarifa 1. Por expedición de certificados (por certificado): 3,75 euros.
-Tarifa 2. Por compulsa de documentos (por página): 2,18 euros.
-Tarifa 3. Por diligencias de libros y otros documentos (por libro o documento): 12,51 euros.
-Tarifa 4. Por inscripción en Registro Oficial de Asociaciones y Modificaciones de Estatutos (por inscripción o modificación): 15,64 euros.
-Tarifa 5. Por copia o reproducción de expediente administrativo en formato A-4 o tamaño folio: 0,072 euros por página reproducida.
-Tarifa 6. Por copia o reproducción de expediente administrativo en formato A-3: 0,43 euros por hoja de A-3 reproducida.
-Tarifa 7. Por copia o reproducción de expediente administrativo en formato A-2: 1,85 euros por hoja de A-2 reproducida.
-Tarifa 8. Por copia o reproducción de expediente administrativo en formato A-1: 3,98 euros por hoja de A-1 reproducida.
-Tarifa 9. Por copia o reproducción de expediente administrativo (cuando sea posible) en formato CD: 3 euros por soporte.
+Tarifa 1. Por expedición de certificados (por certificado): 3,86 euros.
+Tarifa 2. Por compulsa de documentos (por página): 2,25 euros.
+Tarifa 3. Por diligencias de libros y otros documentos (por libro o documento): 12,89 euros.
+Tarifa 4. Por inscripción en Registro Oficial de Asociaciones y Modificaciones de Estatutos (por inscripción o modificación): 16,11 euros.
+Tarifa 5. Por copia o reproducción de expediente administrativo en formato A-4 o tamaño folio: 0,074 euros por página reproducida.
+Tarifa 6. Por copia o reproducción de expediente administrativo en formato A-3: 0,44 euros por hoja de A-3 reproducida.
+Tarifa 7. Por copia o reproducción de expediente administrativo en formato A-2: 1,91 euros por hoja de A-2 reproducida.
+Tarifa 8. Por copia o reproducción de expediente administrativo en formato A-1: 4,10 euros por hoja de A-1 reproducida.
+Tarifa 9: Por copia o reproducción de expediente administrativo (cuando sea posible) en formato CD: 3,09 euros por soporte.
 2. Tasa por dirección e inspección de obras.
-Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación por la Administración de la Comunidad Autónoma de Cantabria o sus Organismos Públicos, de trabajos facultativos de replanteo, dirección, inspección y liquidación de obras realizadas a instancia del Gobierno de Cantabria, ya lo sean mediante subasta, concurso o adjudicación directa.
-No sujeción.–No estarán sujetos a esta tasa los servicios que constituyen el hecho imponible cuando se hallen gravados por una tasa específica de cualquier Consejería. Sujeto pasivo.–Serán sujetos pasivos los contratistas adjudicatarios de las subastas, concursos o adjudicaciones directas a quienes se presten los servicios o actividades gravadas.
+Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación por la Administración de la Comunidad Autónoma de Cantabria, Organismos Públicos y Entes de Derecho Público dependientes, de trabajos facultativos de replanteo, dirección, inspección y liquidación de obras realizadas a instancia del Gobierno de Cantabria, ya lo sean mediante subasta, concurso o adjudicación directa.»
+No sujeción.–No estarán sujetos a esta tasa los servicios que constituyen el hecho imponible cuando se hallen gravados por una tasa específica de cualquier Consejería.
+Sujeto pasivo.–Serán sujetos pasivos los contratistas adjudicatarios de las subastas, concursos o adjudicaciones directas a quienes se presten los servicios o actividades gravadas.
 Devengo.–La tasa se devengará en el momento en que sean realizados los trabajos a que se refiere el hecho imponible.
 Bases imponibles y tipos de gravamen.–La base imponible de la tasa será el importe líquido de las obras ejecutadas, incluyendo, en su caso, las revisiones de precios y las adquisiciones y suministros especificados en el proyecto, según las certificaciones expedidas por los servicios correspondientes.
 El tipo de gravamen será el 4 por 100 de la base imponible.
@@ -31,30 +32,30 @@ Sujeto pasivo.–Son sujetos pasivos de la tasa quienes soliciten la inscripció
 Exenciones.–Estarán exentos del pago de esta tasa quienes se encuentren en situación de desempleo que acreditarán con la presentación de la cartilla de demandante de empleo expedida con un mes de antelación a la fecha de la convocatoria de la oposición, como mínimo.
 Devengo.–La tasa se devengará en el momento de presentar la solicitud.
 Tarifas.–La tasa se exigirá de acuerdo con la siguiente tarifa:
-Por la inscripción en pruebas selectivas de acceso a plazas del grupo A: 18,76 euros.
-Por la inscripción en pruebas selectivas de acceso a plazas del grupo B: 18,76 euros.
-Por la inscripción en pruebas selectivas de acceso a plazas del grupo C. 12,51 euros.
-Por la inscripción en pruebas selectivas de acceso a plazas del grupo D: 9,38 euros.
-Por la inscripción en pruebas selectivas de acceso a plazas del grupo E: 9,38 euros.
-2. Tasa del Boletín Oficial de Cantabria.
-Hecho imponible.–Constituye el hecho imponible de esta tasa la inserción de escritos, anuncios y textos de toda clase en el Boletín Oficial de Cantabria (B.O.C.).
-Sujeto pasivo.–Serán sujetos pasivos, las personas físicas o jurídicas, y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la inserción de textos en el Boletín Oficial de Cantabria.
+Por la inscripción en pruebas selectivas de acceso a plazas del grupo A: 25,00 euros.
+Por la inscripción en pruebas selectivas de acceso a plazas del grupo B: 25,00 euros.
+Por la inscripción en pruebas selectivas de acceso a plazas del grupo C. 10,00 euros.
+Por la inscripción en pruebas selectivas de acceso a plazas del grupo D: 10,00 euros.
+Por la inscripción en pruebas selectivas de acceso a plazas del grupo E: 10,00 euros.
+2. Tasa del «Boletín Oficial de Cantabria».
+Hecho imponible.–Constituye el hecho imponible de esta tasa la inserción de escritos, anuncios y textos de toda clase en el «Boletín Oficial de Cantabria» («BOC»).
+Sujeto pasivo.–Serán sujetos pasivos, las personas físicas o jurídicas, y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la inserción de textos en el «Boletín Oficial de Cantabria».
 Devengo.–La tasa se devengará en el momento de la publicación.
 Tarifas:
 La tasa se exigirá de acuerdo con las siguientes tarifas:
 a) Tarifas por anuncios e inserciones en el «Boletín Oficial de Cantabria»:
-Por palabra: 0,344 euros.
-Por línea o fracción en plana de una columna: 1,85 euros.
-Por línea o fracción en plana de dos columnas: 3,13 euros.
-Por plana entera: 313,27 euros.
-Cuando se solicite la publicación urgente en el B.O.C., ésta tendrá preferencia conforme a lo dispuesto en el artículo 9.1 del Decreto 100/99, de 31 de agosto, aplicándose a la tarifa establecida un incremento del 50%.
+Por palabra: 0,354 euros.
+Por línea o fracción en plana de una columna: 1,91 euros.
+Por línea o fracción en plana de dos columnas: 3,22 euros.
+Por plana entera: 322,67 euros.
+Cuando se solicite la publicación urgente en el «BOC», ésta tendrá preferencia conforme a lo dispuesto en el artículo 9.1 del Decreto 100/99, de 31 de agosto, aplicándose a la tarifa establecida un incremento del 50 por 100.
 Exenciones.–Estarán exentos del pago de la tasa los edictos, anuncios y demás inserciones a las que corresponda tal exención por disposición legal estatal o autonómica.
 b) Tarifas por venta y suscripción al «Boletín Oficial de Cantabria»:
-Suscripción anual: 128,12 euros.
-Suscripción semestral: 64,07 euros.
-Suscripción trimestral: 32,03 euros.
-Número suelto año en curso: 0,92 euros.
-Número suelto año anterior: 1,35 euros.
+Suscripción anual: 131,96 euros.
+Suscripción semestral: 65,99 euros.
+Suscripción trimestral: 32,99 euros.
+Número suelto año en curso: 0,95 euros.
+Número suelto año anterior: 1,39 euros.
 3. Tasa por servicios administrativos de ordenación del juego.
 Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por la Administración del Gobierno de Cantabria, de servicios o la realización de actuaciones, en interés del ciudadano o peticionario, que lleva consigo el control administrativo del juego, en los casos y conforme se especifica en las tarifas.
 Devengo.–La tasa se devengará en el momento del inicio de las actuaciones administrativas constitutivas del hecho imponible.
@@ -62,29 +63,30 @@ Sujeto pasivo.–Son sujetos pasivos contribuyentes de la tasa las personas fís
 Tarifas:
 La tasa se exigirá conforme a las siguientes tarifas:
 1. Autorizaciones:
-De casinos: 4.064,40 euros.
-De salas de bingo: 937,94 euros.
-De salones de juego: 375,18 euros.
-De salones recreativos: 187,59 euros.
-De otros locales de juego: 31,26 euros.
-De rifas, tómbolas y combinaciones aleatorias: 62,53 euros.
-De empresas de servicio y gestoras de salas de bingo y su inscripción: 125,05 euros.
-De empresas operadoras de máquinas tipos A y B y su inscripción: 125,05 euros.
-De explotación de máquinas recreativas y de azar tipo A: 31,26 euros.
-De explotación de máquinas recreativas tipos B y C: 62,53 euros.
-De instalación de máquinas recreativas y de azar, tipos A, B y C: 18,76 euros.
+De casinos: 4.186,33 euros.
+De salas de bingo: 966,08 euros.
+De salones de juego: 386,44 euros.
+De salones recreativos: 193,22 euros.
+De otros locales de juego: 32,20 euros.
+De rifas, tómbolas y combinaciones aleatorias: 64,41 euros.
+De empresas de servicio y gestoras de salas de bingo y su inscripción: 128,80 euros.
+De empresas operadoras de máquinas tipos A y B y su inscripción: 128,80 euros.
+De explotación de máquinas recreativas y de azar tipo A: 32,20 euros.
+De explotación de máquinas recreativas tipos B y C: 64,41 euros.
+De instalación de máquinas recreativas y de azar, tipos A, B y C: 19,32 euros.
 Modificaciones de las anteriores autorizaciones: 50 por 100 de la tarifa.
 Renovación de las anteriores autorizaciones: 50 por 100 de la tarifa.
-Solicitud de alta en el Registro de prohibidos: 31,26 euros.
-Solicitud de baja en el Registro de prohibidos: 125,05 euros.
-De empresas comerciales, distribuidoras y técnicas, y fabricantes, todas ellas de máquinas recreativas, y su inscripción: 125,05 euros.
-De empresas de salones y su inscripción: 125,05 euros.
-Inscripción de modelos de máquinas tipo A: 31,26 euros.
-Inscripción de modelos de máquinas tipos B y C: 62,53 euros.
-Expedición de documentos y otros trámites: Documentos profesionales: 18,76 euros.
-Transmisión de autorizaciones de explotación de cada máquina: 18,76 euros.
-Diligencia de guías de circulación: 12,51 euros.
-Cambio de establecimiento o canje de máquina: 18,76 euros.
+Solicitud de alta en el Registro de prohibidos: 32,20 euros.
+Solicitud de baja en el Registro de prohibidos: 128,80 euros.
+De empresas comerciales, distribuidoras y técnicas, y fabricantes, todas ellas de máquinas recreativas, y su inscripción: 128,80 euros.
+De empresas de salones y su inscripción: 128,80 euros.
+Inscripción de modelos de máquinas tipo A: 32,20 euros.
+Inscripción de modelos de máquinas tipos B y C: 64,41 euros.
+Expedición de documentos y otros trámites:
+Documentos profesionales: 19,32 euros.
+Transmisión de autorizaciones de explotación de cada máquina: 19,32 euros.
+Diligencia de guías de circulación: 12,89 euros.
+Cambio de establecimiento o canje de máquina: 19,32 euros.
 Expedición de duplicados: 50 por 100 de la tarifa.
 4. Tasa por servicios administrativos de ordenación de espectáculos.
 Hecho imponible.–Constituye el hecho imponible de esta tasa la prestación por la Administración del Gobierno de Cantabria, de servicios o la realización de actuaciones, que lleva consigo el control administrativo de los espectáculos públicos o actividades recreativas sometidas a autorización administrativa o comunicación previa, en los casos y conforme se especifica en las tarifas.
@@ -94,41 +96,41 @@ Exenciones.–Quedan exentas del pago de la tasa, aunque no de la autorización 
 Tarifas:
 La tasa se exigirá conforme a las siguientes tarifas:
 1. Espectáculos taurinos en plazas fijas:
-Corridas de toros: 62,53 euros.
-Corridas de rejones: 50,02 euros.
-Novilladas con picadores: 50,02 euros.
-Novilladas sin picadores: 37,52 euros.
-Becerradas: 18,76 euros.
-Festivales: 50,02 euros.
-Toreo cómico: 18,76 euros.
-Encierros: 31,26 euros.
-Suelta de vaquillas: 18,76 euros
-2. Inspecciones periódicas en plazas de toros y tentaderos: 62,53 euros.
+Corridas de toros: 64,41 euros.
+Corridas de rejones: 51,52 euros.
+Novilladas con picadores: 51,52 euros.
+Novilladas sin picadores: 38,65 euros.
+Becerradas: 19,32 euros.
+Festivales: 51,52 euros.
+Toreo cómico: 19,32 euros.
+Encierros: 32,20 euros.
+Suelta de vaquillas: 19,32 euros.
+2. Inspecciones periódicas en plazas de toros y tentaderos: 64,41 euros.
 3. Autorización y controles:
-De actos recreativos, fiestas, bailes y verbenas: 18,76 euros.
-De espectáculos públicos en general: 37,52 euros.
-De apertura, reapertura y traspasos de locales: 37,52 euros.
-De actos deportivos: 6,25 euros.
+De actos recreativos, fiestas, bailes y verbenas: 19,32 euros.
+De espectáculos públicos en general: 38,65 euros.
+De apertura, reapertura y traspasos de locales: 38,65 euros.
+De actos deportivos: 6,44 euros.
 5. Tasa por venta de bienes.
 Hecho imponible.–Constituye el hecho imponible de esta tasa la venta de mapas, hojas, planos y fotografías, bien por método de fotocopiado o copiado de productos existentes o por impresión o ploteado de productos digitales.
 Devengo.–La tasa se devengará en el momento de la adquisición.
 Sujeto pasivo.–Son sujetos pasivos las personas físicas o jurídicas que soliciten y adquieran ejemplares de los mapas, hojas, planos y fotografías citados.
 Tarifas:
 La tasa se exigirá conforme a las siguientes tarifas:
-Mapa de Cantabria: 4,07 euros.
-Planos cartográficos básicos a escala 1:5.000: 3,74 euros.
-Planos cartográficos básicos a escala 1:2.000: 4,62 euros.
-Planos cartográficos temáticos a escala 1:5.000: 5,21 euros.
-Planos cartográficos temáticos a escala 1:2.000: 6,18 euros.
-Planos catastro: 1,64 euros.
-Fotocopias DIN A4: 0,062 euros.
-Fotocopias DIN A3: 0,376 euros.
-Fotocopias DIN A4 Color: 0,807 euros.
-Fotocopias DINA3 Color: 1,35 euros.
-Planos Poliéster: 4,62 euros.
-Fotografías aéreas y ortofotos: 11,97 euros.
+Mapa de Cantabria: 4,19 euros.
+Planos cartográficos básicos a escala 1:5.000: 3,85 euros.
+Planos cartográficos básicos a escala 1:2.000: 4,76 euros.
+Planos cartográficos temáticos a escala 1:5.000: 5,37 euros.
+Planos cartográficos temáticos a escala 1:2.000: 6,37 euros.
+Planos catastro: 1,69 euros.
+Fotocopias DIN-A4: 0,064 euros.
+Fotocopias DIN-A3: 0,387 euros.
+Fotocopias DIN-A4 Color: 0,831 euros.
+Fotocopias DIN-A3 Color: 1,39 euros.
+Planos Poliéster: 4,76 euros.
+Fotografías aéreas y ortofotos: 12,33 euros.
 La liquidación final se incrementará con impuesto sobre el valor añadido (IVA) que corresponda.
-Bonificaciones.–Se establece un descuento del 30% para Entes Públicos Territoriales e Institucionales, y para particulares que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos de fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo.
+Bonificaciones.–Se establece un descuento del 30 por 100 para Entes Públicos Territoriales e Institucionales, y para particulares que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos de fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo.
 6. Tasa por servicios de extinción de incendios, rescate y salvamento, dentro del ámbito de protección civil.
 Hecho imponible.–Constituye el hecho imponible de esta tasa la actuación de los equipos de Protección Civil y de los agentes de emergencias del Gobierno de Cantabria, a requerimiento de los interesados o bien de oficio por razones de seguridad pública y siempre que la prestación del servicio redunde en beneficio del sujeto pasivo, en la prestación de los siguientes servicios:
 Servicios de prevención y extinción de incendios urbanos y rurales o forestales.
@@ -147,32 +149,31 @@ Sin perjuicio de lo anterior, no estarán exentos los sujetos pasivos que no hay
 Tarifas:
 Las tarifas a aplicar serán las siguientes:
 Tarifa 1. Personal y medios técnicos de los servicios:
-Por derechos de salida de la dotación completa de un parque de emergencias para la prestación de un servicio, durante la primera hora: 312,12 euros.
-Por la segunda hora o fracción de hora de trabajo de la dotación completa de un parque de emergencias que acuda a la prestación de un servicio: 312,12 euros.
+Por derechos de salida de la dotación completa de un parque de emergencias para la prestación de un servicio, durante la primera hora: 321,48 euros.
+Por la segunda hora o fracción de hora de trabajo de la dotación completa de un parque de emergencias que acuda a la prestación de un servicio: 321,48 euros.
 Tarifa 2. Servicios prestados por el helicóptero del Gobierno de Cantabria:
-Por derechos de salida del helicóptero del Gobierno de Cantabria para la prestación de un servicio, durante la primera hora: 1.560,60 euros.
-Por la segunda hora o fracción de hora de trabajo del helicóptero del Gobierno de Cantabria para la prestación de un servicio: 1.560,60 euros.
+Por derechos de salida del helicóptero del Gobierno de Cantabria para la prestación de un servicio, durante la primera hora: 1.607,42 euros.
+Por la segunda hora o fracción de hora de trabajo del helicóptero del Gobierno de Cantabria para la prestación de un servicio: 1.607,42 euros.
 7. Tasa por licencias de uso de información geográfica digital.
 Hecho imponible.–Constituye el hecho imponible de esta tasa el suministro de información en formato digital, proporcionada en soportes susceptibles de ser leídos por medios informáticos (ópticos o magnéticos), para un determinado uso y con sujeción a unas determinadas condiciones, reflejados en la licencia de utilización. La información digital podrá consistir en ficheros de cartografía básica o temática, o en ficheros de sistemas de información geográfica de la Consejería de Presidencia, Ordenación del Territorio y Urbanismo, o de otras Consejerías previo acuerdo al respecto para su comercialización en las dependencias de Cartografía.
 Devengo.–La tasa se devengará en el momento en el que se suministra la información para el uso determinado en la licencia, en alguno de los soportes existentes para el tratamiento de información digital.
 Sujeto Pasivo.–Son sujetos pasivos las personas físicas o jurídicas que soliciten el uso de la información digital sujeta a la tasa.
 Tarifas:
-Por Hectárea de superficie de cartografía básica a escala 1:5.000: 0,092 euros.
-Por Hectárea de superficie de cartografía básica a escala 1:2.000: 0,224 euros.
-Por Hectárea de superficie de cartografía temática a escala 1:5.000 (incluye la cartografía básica): 0,133 euros.
-Por Hectárea de superficie de cartografía temática a escala 1:2.000 (incluye la cartografía básica): 0,31 euros.
-Por Hoja de Ortofoto o Fotografía aérea en formato digital: 26,38 euros.
-Por Hectárea de superficie de información georeferenciada de un Sistema de Información Geográfico: 0,173 euros.
+Por Hectárea de superficie de cartografía básica a escala 1:5.000: 0,095 euros.
+Por Hectárea de superficie de cartografía básica a escala 1:2.000: 0,231 euros.
+Por Hectárea de superficie de cartografía temática a escala 1:5.000.–(incluye la cartografía básica): 0,137 euros.
+Por Hectárea de superficie de cartografía temática a escala 1:2.000.–(incluye la cartografía básica): 0,32 euros.
+Por Hoja de Ortofoto o Fotografía aérea en formato digital: 27,17 euros.
+Por Hectárea de superficie de información georeferenciada de un Sistema de Información Geográfico: 0,178 euros.
 La liquidación final se incrementará con el Impuesto sobre el valor añadido (IVA) que corresponda.
-Exenciones y bonificaciones.–Estarán exentos del pago de la tasa los Ayuntamientos que firmen Convenios con el Gobierno de Cantabria para el uso exclusivo de redacción de instrumentos de planeamiento urbanístico. En estos Convenios se establecerán condicionantes referentes al retorno de información referente a las modificaciones producidas en ese municipio que tengan reflejo en la cartografía entregada.
+Exenciones y Bonificaciones.–Estarán exentos del pago de la tasa los Ayuntamientos que firmen Convenios con el Gobierno de Cantabria para el uso exclusivo de redacción de instrumentos de planeamiento urbanístico. En estos Convenios se establecerán condicionantes referentes al retorno de información referente a las modificaciones producidas en ese municipio que tengan reflejo en la cartografía entregada.
 También se podrán establecer exacciones del pago para el Instituto Geográfico Nacional, la Gerencia del Catastro, la Universidad, Colegios Profesionales y otras Instituciones y Corporaciones de Derecho Público, previo convenio de intercambio de información.
-Se establece un descuento del 60% para Entes Públicos Territoriales e Institucionales en general y un 85% para particulares no profesionales que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos de fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo. Así mismo se establece un descuento del 60 % para empresas que presten servicios públicos o utilicen la cartografía para prestación de servicios al ciudadano y se comprometan al suministro gratuito para utilización por la Comunidad Autónoma de la nueva capa de información que generen para ese servicio.
-8. Tasa por Concesión de autorizaciones en suelo rústico.
-Hecho imponible.–Constituye el hecho imponible de la presente tasa la actividad realizada por la Consejería de Presidencia, Ordenación del Territorio y Urbanismo, consistente en la concesión de autorizaciones de construcciones en suelo rústico exigidas por la legislación vigente en la materia.
-Sujeto Pasivo.–Serán sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la concesión de autorizaciones de construcciones en suelo rústico cuando la competencia para otorgarlas resida en la Comisión Regional de Urbanismo y Ordenación del Territorio de Cantabria.
-Devengo.–La tasa se devengará en el momento de formular la solicitud que origine la actuación administrativa.
-Tarifa. La tasa tiene una única tarifa:
-Solicitud de autorizaciones de construcciones en suelo rústico: 33,66 euros.
+Se establece un descuento del 60 por 100 para Entes Públicos Territoriales e Institucionales en general y un 85 por 100 para particulares no profesionales que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos de fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo. Así mismo se establece un descuento del 60% para empresas que presten servicios públicos o utilicen la cartografía para prestación de servicios al ciudadano y se comprometan al suministro gratuito para utilización por la Comunidad Autónoma de la nueva capa de información que generen para ese servicio.
+8. Tasa por concesión de autorizaciones en suelo rústico.
+Hecho imponible.–Constituye el hecho imponible de la presente tasa la actividad realizada por la Consejería de Presidencia, Ordenación del Territorio y Urbanismo, tanto en la concesión de autorizaciones de construcciones en suelo rústico como en la emisión del preceptivo informe previo, cuando la competencia para resolver resida en el Ayuntamiento, todo ello según lo establecido en la legislación vigente en la materia.
+Sujeto Pasivo.–Serán sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la concesión de autorizaciones de construcciones en suelo rústico cuando la competencia para otorgarlas resida en la Comisión Regional de Urbanismo y Ordenación del Territorio de Cantabria, así como cuando soliciten a la citada Comisión la emisión del preceptivo informe para resolver la autorización por parte del Ayuntamiento.
+Devengo.–La tasa se devengará en el momento de formular la solicitud que origine la actuación administrativa. Tarifa.–La tasa tiene una única tarifa:
+Solicitud de autorizaciones de construcciones en suelo rústico: 34,67 euros.
 Consejería de Industria, Trabajo y Desarrollo Tecnológico
 1. Tasa por ordenación de los transportes por carretera.
 Hecho imponible.–Constituye el hecho imponible la prestación de los servicios o la realización de las actividades enumeradas en las tarifas de esta tasa cuando se efectúen por la Consejería de Industria, Trabajo y Desarrollo Tecnológico del Gobierno de Cantabria, siempre que sean de solicitud o recepción obligatoria para los administrados y no puedan prestarse por el sector privado.
@@ -184,33 +185,33 @@ A) Tramitación de proyectos de nuevos servicios públicos de transporte sujetos
 T = C x P2/3.
 P = Presupuesto del proyecto.
 a) En el caso de redacción de proyectos de obras, servicios e instalaciones se aplicará el coeficiente C = 2,7.
-La cuantía de la tasa no podrá ser inferior a 108,80 euros.
+La cuantía de la tasa no podrá ser inferior a 112,06 euros.
 B) Tramitación de proyectos de hijuelas o prolongaciones de líneas existentes, se calculará aplicando la siguiente fórmula:
 T = 0,8 x P2/3 x L' /(L' + L).
 L' = Longitud hijuela o prolongación.
 L = Longitud línea base.
 P = Presupuesto material móvil.
-C) Inauguración de servicios públicos regulares de transporte por carretera: 59,40 euros.
-D) Tramitación de modificaciones de las condiciones concesionales referidas a itinerarios, horarios, calendarios u otros cambios sustanciales en las líneas: 19,70 euros.
+C) Inauguración de servicios públicos regulares de transporte por carretera: 61,18 euros.
+D) Tramitación de modificaciones de las condiciones concesionales referidas a itinerarios, horarios, calendarios u otros cambios sustanciales en las líneas: 20,29 euros.
 E) Aprobación de nuevos cuadros tarifarios:
-Con informe: 19,70 euros.
-Sin informe: 4,07 euros.
-F) Autorizaciones de sustitución temporal de vehículos y de incrementos de expedición, ambos en líneas regulares: 19,70 euros.
+Con informe: 20,29 euros.
+Sin informe: 4,19 euros.
+F) Autorizaciones de sustitución temporal de vehículos y de incrementos de expedición, ambos en líneas regulares: 20,29 euros.
 Tarifa 2. Servicios de transporte por carretera sujetos a autorización administrativa:
 A) Expedición de alta o visado anual de las tarjetas de transporte, de conformidad con las siguientes cuantías:
-Autorizaciones para transporte de viajeros: 18,36 euros.
-Autorización para transporte de mercancías: 18,36 euros.
-B) Expedición de duplicados de tarjetas de transporte: 1,87 euros.
+Autorizaciones para transporte de viajeros: 18,91 euros.
+Autorización para transporte de mercancías: 18,91 euros.
+B) Expedición de duplicados de tarjetas de transporte: 1,93 euros.
 C) Expedición de autorizaciones especiales necesarias por no estar amparadas por la tarjeta del vehículo:
 C.1 Autorización de transporte de viajeros para un solo viaje con vehículo VR:
-Ámbito provincial: 1,87 euros.
-Ámbito interprovincial: 4,07 euros.
-C.2 Autorización de transportes especiales. Por cada viaje: 1,94 euros.
-C.3 Autorización de tránsito, por cada vehículo y mes o fracción: 4,01 euros.
-C.4 Autorizaciones especiales para reiterar itinerario: 19,70 euros.
-C.5 Autorizaciones de transporte de personas en vehículo de mercancías, por cada autorización: 19,70 euros.
-Tarifa 3. Actuaciones administrativas.–Reconocimiento de locales, instalaciones y levantamiento de actas de inauguración de servicios: 59,40 euros.
-Tarifa 4. Expedición de Tarjetas precisas para el tacógrafo digital: 30 euros.
+Ámbito provincial: 1,93 euros.
+Ámbito interprovincial: 4,19 euros.
+C.2 Autorización de transportes especiales. Por cada viaje: 2,00 euros.
+C.3 Autorización de tránsito, por cada vehículo y mes o fracción: 4,13 euros.
+C.4 Autorizaciones especiales para reiterar itinerario: 20,29 euros.
+C.5 Autorizaciones de transporte de personas en vehículo de mercancías, por cada autorización: 20,29 euros.
+Tarifa 3. Actuaciones administrativas.–Reconocimiento de locales, instalaciones y levantamiento de actas de inauguración de servicios: 61,18 euros.
+Tarifa 4. Expedición de Tarjetas precisas para el tacógrafo digital: 30,90 euros.
 2. Tasa por ordenación de los transportes por cable.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación de los servicios o la realización de las actividades enumeradas en las tarifas cuando se efectúen por la Consejería de Industria, Trabajo y Desarrollo Tecnológico del Gobierno de Cantabria con carácter exclusivo, y sean de solicitud o recepción obligatoria para los administrados.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades a que se refiere el artículo 35.4 de la Ley General Tributaria a las que se presten los servicios o para las que se realicen las actividades gravadas.
@@ -221,142 +222,142 @@ A) Tramitación de proyectos de nuevos servicios públicos de transporte por cab
 T = C x P2/3.
 P = Presupuesto de ejecución material del proyecto.
 a) En el caso de redacción de proyectos de obras, servicios e instalaciones se aplicará el coeficiente C = 2,7.
-La cuantía de la tasa no podrá ser inferior a 106,29 euros.
+La cuantía de la tasa no podrá ser inferior a 109,48 euros.
 B) Tramitación de modificaciones del proyecto autorizado:
 T = 0,8 P2/3.
 P = Presupuesto de ejecución material de la modificación.
-C) Tramitación de modificación de las condiciones concesionales referidas a horarios, calendarios u otros cambios sustanciales: 19,70 euros.
+C) Tramitación de modificación de las condiciones concesionales referidas a horarios, calendarios u otros cambios sustanciales: 20,29 euros.
 D) Aprobación de nuevos cuadros tarifarios:
-Con informe: 19,70 euros.
-Sin informe: 4,07 euros.
+Con informe: 20,29 euros.
+Sin informe: 4,19 euros.
 Tarifa 2. Servicios públicos de transporte por cable sujetos a autorización administrativa.
-A) Expedición de cualquier autorización requerida por la legislación vigente para la instalación o explotación de remontapendientes, telesillas, telecabinas, teleféricos o cualquier otro medio de transporte por cable: 19,70 euros.
+A) Expedición de cualquier autorización requerida por la legislación vigente para la instalación o explotación de remontapendientes, telesillas, telecabinas, teleféricos o cualquier otro medio de transporte por cable: 20,29 euros.
 3. Tasa por inspección técnica de instalaciones de transporte por cable.
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por la Consejería de Industria, Trabajo y Desarrollo Tecnológico de los Servicios relativos al reconocimiento de las instalaciones de transporte por cable, cuando las disposiciones normativas impongan dicho reconocimiento o éste sea condición indispensable para la adquisición de derechos, y siempre que el servicio sólo pueda prestarse por la Consejería.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria propietarias de las instalaciones de transporte por cable, siempre que su explotación no se halle cedida. En otro caso serán sujetos pasivos los cesionarios, arrendatarios, concesionarios y en general los que por cualquier título distinto del de propiedad exploten las instalaciones de transporte por cable.
 Devengo.–La tasa se devengará en el momento de la prestación del servicio.
 Tarifas.–Las cantidades a pagar por cada clase de instalación y según el tipo de inspección realizada, son las siguientes:
 Remontapendientes:
-Inspección completa antes de la puesta en servicio de una nueva instalación: 58,15 euros.
-Inspección rutinaria completa (revisión periódica): 43,77 euros.
-Inspección parcial (ocasional): 31,26 euros.
+a) Inspección completa antes de la puesta en servicio de una nueva instalación: 59,89 euros.
+b) Inspección rutinaria completa (revisión periódica): 45,08 euros.
+c) Inspección parcial (ocasional): 32,20 euros.
 Telesillas:
-Inspección completa antes de la puesta en servicio de una nueva instalación: 75,03 euros.
-Inspección rutinaria completa (revisión periódica): 58,15 euros.
-Inspección parcial (ocasional): 43,77 euros.
+a) Inspección completa antes de la puesta en servicio de una nueva instalación: 77,28 euros.
+b) Inspección rutinaria completa (revisión periódica): 59,89 euros.
+c) Inspección parcial (ocasional): 45,08 euros.
 Telecabinas:
-Inspección completa antes de la puesta en servicio de una nueva instalación: 108,80 euros.
-Inspección rutinaria completa (revisión periódica): 93,79 euros.
-Inspección parcial (ocasional): 75,03 euros.
+a) Inspección completa antes de la puesta en servicio de una nueva instalación: 112,06 euros.
+b) Inspección rutinaria completa (revisión periódica): 96,60 euros.
+c) Inspección parcial (ocasional): 77,28 euros.
 Teleféricos:
-Inspección completa antes de la puesta en servicio de una nueva instalación: 143,81 euros.
-Inspección rutinaria completa (revisión periódica): 112,55 euros.
-Inspección parcial (ocasional): 87,54 euros.
+Inspección completa antes de la puesta en servicio de una nueva instalación: 148,12 euros.
+Inspección rutinaria completa (revisión periódica): 115,93 euros.
+Inspección parcial (ocasional): 90,17 euros.
 4. Tasa por ordenación de industrias artesanas.
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación de los servicios o la realización de actividades enumeradas en las tarifas señaladas seguidamente cuando se efectúen con carácter exclusivo por la Consejería de Industria, Trabajo y Desarrollo Tecnológico y sean de solicitud o recepción obligatoria para los administrados.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria titulares de industrias artesanas. Se presumen titulares las personas o entidades bajo cuyo nombre figuran en el IAE.
 Devengo.–La tasa se devengará en el momento de solicitar el servicio o la actuación administrativa, o en el momento de efectuarse ésta si no fuera precisa solicitud alguna.
 Tarifas:
-Tarifa 1. inscripción en el Registro de Industrias Artesanas: 12 euros.
-Tarifa 2. Tramitación de expedientes por ampliación de maquinaria o sustitución de la existente: 5 euros.
-Tarifa 3. Cambios de titularidad en el Registro de Industrias Artesanas: 3 euros.
+Tarifa 1. Inscripción en el Registro de Industrias Artesanas: 12,36 euros.
+Tarifa 2. Tramitación de expedientes por ampliación de maquinaria o sustitución de la existente: 5,15 euros.
+Tarifa 3. Cambios de titularidad en el Registro de Industrias Artesanas: 3,09 euros.
 Exenciones:
-Están exentos de la presente tasa los artesanos protegidos que hayan sido declarados como tales por el Gobierno de Cantabria.»
+Están exentos de la presente tasa los artesanos protegidos que hayan sido declarados como tales por el Gobierno de Cantabria.
 5. Tasa por ordenación de instalaciones de aguas minerales.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación de los servicios o la realización de las actividades enumeradas en las tarifas cuando sean efectuadas por la Consejería de Industria, Trabajo y Desarrollo Tecnológico con carácter exclusivo por no poder realizarlos el sector privado, y además ser de solicitud o recepción obligatoria para los administrados.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la actuación o el servicio administrativo, y las que, sin instarlo, estén obligadas a recibirlo o aceptarlo.
 Devengo.–La tasa se devengará en el momento de solicitar el servicio o la actuación administrativa, o en el momento de efectuarse éstos si no fuera precisa solicitud alguna.
 Tarifas:
 Tarifa 1. Prestación de servicios de laboratorio:
-1.1 Toma de muestras de agua. Por cada toma de muestras: 18,76 euros.
-1.2 Análisis de agua. Por cada análisis completo: 68,78 euros.
-1.3 Análisis de agua. Por cada análisis bacteriológico: 37,52 euros.
+1.1 Toma de muestras de agua. Por cada toma de muestras: 19,32 euros.
+1.2 Análisis de agua. Por cada análisis completo: 70,84 euros.
+1.3 Análisis de agua. Por cada análisis bacteriológico: 38,65 euros.
 Tarifa 2. Visitas de revisión:
-Por cada visita: 25,01 euros.
-Tarifa 3. Tramitación de expedientes para la declaración de agua minero-medicinal: 125,05 euros.
-Tarifa 4. Autorización de cambio de titularidad de derechos mineros: 65,53 euros.
-Tarifa 5. Tramitación de expediente para otorgar perímetro de protección: 62,53 euros.
-Tarifa 6. Autorización de obras dentro del perímetro de protección: 37,52 euros.
-Tarifa 7. Autorización y aprobación de proyecto de aprovechamiento: 62,53 euros.
+Por cada visita: 25,76 euros.
+Tarifa 3. Tramitación de expedientes para la declaración de agua minero-medicinal: 128,80 euros.
+Tarifa 4. Autorización de cambio de titularidad de derechos mineros: 67,50 euros.
+Tarifa 5. Tramitación de expediente para otorgar perímetro de protección: 64,41 euros.
+Tarifa 6. Autorización de obras dentro del perímetro de protección: 38,65 euros.
+Tarifa 7. Autorización y aprobación de proyecto de aprovechamiento: 64,41 euros.
 Tarifa 8. Autorización de puesta en marcha del proyecto de aprovechamiento:
 Hasta 30.050,61 de euros: 60,10 euros.
 De 30.051,62 a 60.101,21 de euros: 90,15 euros.
 De 60.101,22 a 120.202,42 de euros: 120,20 euros.
-De 120.202,43 a 300.506,05 de euros: 120,202421 + 3,6606073 x (por cada 6.010,12) euros.
+De 120.202,43 a 300.506,05 de euros: 120,202421 + 3,6606073 × (por cada 6.010,12) euros.
 Más de 300.506,65 euros. Por cada 6.010,12, euros: 3,01 euros.
-Tarifa 9. Informe geológico incluyendo visitas: 50,02 euros.
+Tarifa 9. Informe geológico incluyendo visitas: 51,52 euros.
 6. Tasa por ordenación de actividades industriales, energéticas, mineras y venta de bienes.
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación de los servicios o la realización de las siguientes actividades cuando sean ejecutadas por la Consejería de Industria, Trabajo y Desarrollo Tecnológico con exclusión del sector privado, y resulten de solicitud o recepción obligatoria para los administrados.
 Están sujetas a gravamen las siguientes actuaciones:
-La autorización de funcionamiento, inscripción y control de instalaciones industriales, empresas de servicio a la actividad industrial y agentes autorizados para colaborar con las Administraciones públicas en materia de seguridad y calidad industrial.
-Las inspecciones técnicas reglamentarias.
-Las funciones de verificación y contrastación.
-La autorización de funcionamiento, inscripción y control de instalaciones eléctricas de generación, transporte, transformación, distribución y utilización de energía eléctrica.
-Las pruebas de presión en aparatos y recipientes que contienen fluidos.
-Concesiones administrativas y autorizaciones de instalaciones de gases combustibles.
-Autorización de instalaciones de calefacción, climatización y agua caliente.
-Autorización de instalaciones de combustibles líquidos, agua.
-Fraudes y calidad en los servicios públicos de suministros de energía eléctrica, agua y gas.
-La expedición de certificados y documentos que acrediten la aptitud para el ejercicio de actividades reglamentarias.
-La expropiación forzosa de bienes y la imposición de servidumbre de paso.
-La expedición de autorizaciones de explotación y aprovechamiento de recursos minerales.
-El otorgamiento de permisos de exploración, permisos de investigación y concesiones mineras de explotación; sus cambios de titularidad y otras incidencias relacionadas.
-La confrontación y autorización de proyectos de exploración, investigación, planes de labores mineras y grandes voladuras con explosivos.
-Control de uso de explosivos.
-El otorgamiento de la condición de productor de energía eléctrica en régimen especial y su inscripción en el registro correspondiente.
-Derechos de examen para la obtención del carnet de instalador, mantenedor u operador autorizado.
-El acceso a los datos del Registro Industrial.
-Las actuaciones de las ENICRES y Organismos de control.
-La venta de placas, libros de Registro y Mantenimiento e impresos.
+1. La autorización de funcionamiento, inscripción y control de instalaciones industriales, empresas de servicio a la actividad industrial y agentes autorizados para colaborar con las Administraciones públicas en materia de seguridad y calidad industrial.
+2. Las inspecciones técnicas reglamentarias.
+3. Las funciones de verificación y contrastación.
+4. La autorización de funcionamiento, inscripción y control de instalaciones eléctricas de generación, transporte, transformación, distribución y utilización de energía eléctrica.
+5. Las pruebas de presión en aparatos y recipientes que contienen fluidos.
+6. Concesiones administrativas y autorizaciones de instalaciones de gases combustibles.
+7. Autorización de instalaciones de calefacción, climatización y agua caliente.
+8. Autorización de instalaciones de combustibles líquidos, agua.
+9. Fraudes y calidad en los servicios públicos de suministros de energía eléctrica, agua y gas.
+10. La expedición de certificados y documentos que acrediten la aptitud para el ejercicio de actividades reglamentarias.
+11. La expropiación forzosa de bienes y la imposición de servidumbre de paso.
+12. La expedición de autorizaciones de explotación y aprovechamiento de recursos minerales.
+13. El otorgamiento de permisos de exploración, permisos de investigación y concesiones mineras de explotación; sus cambios de titularidad y otras incidencias relacionadas.
+14. La confrontación y autorización de proyectos de exploración, investigación, planes de labores mineras y grandes voladuras con explosivos.
+15. Control de uso de explosivos.
+16. El otorgamiento de la condición de productor de energía eléctrica en régimen especial y su inscripción en el registro correspondiente.
+17. Derechos de examen para la obtención del carné de instalador, mantenedor u operador autorizado.
+18. El acceso a los datos del Registro Industrial.
+19. Las actuaciones de las ENICRES y Organismos de control.
+20. La venta de placas, libros de Registro y Mantenimiento e impresos.
 Sujeto pasivo:
-Serán sujetos pasivos de las tasas por ordenación de actividades industriales, energéticas, mineras y venta de bienes, las personas físicas o jurídicas a quienes afecten o beneficien, personalmente o en sus bienes, los servicios o actividades públicas que constituyen su hecho imponible.
-En su caso, tendrán la consideración de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.
+1. Serán sujetos pasivos de las tasas por ordenación de actividades industriales, energéticas, mineras y venta de bienes, las personas físicas o jurídicas a quienes afecten o beneficien, personalmente o en sus bienes, los servicios o actividades públicas que constituyen su hecho imponible.
+2. En su caso, tendrán la consideración de sujetos pasivos las herencias yacentes, comunidades de bienes y demás entidades que, carentes de personalidad jurídica, constituyan una unidad económica o un patrimonio separado susceptibles de imposición.
 Responsables:
-Sin perjuicio de lo previsto en la Ley General Tributaria en materia de responsabilidad y garantía de la deuda tributaria, responderán solidariamente de las tasas las entidades o sociedades aseguradoras de riesgos que motiven actuaciones o servicios administrativos que constituyan el hecho imponible de la tasa.
-En las tasas establecidas por razón de servicios o actividades que beneficien a los usuarios ocupantes de viviendas, naves o locales o, en general, de inmuebles, serán responsables subsidiarios los propietarios de dichos inmuebles.
+1. Sin perjuicio de lo previsto en la Ley General Tributaria en materia de responsabilidad y garantía de la deuda tributaria, responderán solidariamente de las tasas las entidades o sociedades aseguradoras de riesgos que motiven actuaciones o servicios administrativos que constituyan el hecho imponible de la tasa.
+2. En las tasas establecidas por razón de servicios o actividades que beneficien a los usuarios ocupantes de viviendas, naves o locales o, en general, de inmuebles, serán responsables subsidiarios los propietarios de dichos inmuebles.
 Devengo.–Las tasas por ordenación de actividades industriales, energéticas y mineras se devengarán:
-Según la naturaleza del hecho imponible, bien cuando se inicie la prestación del servicio o se realice la actividad, sin perjuicio de la posibilidad de exigir su depósito previo.
-Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+1. Según la naturaleza del hecho imponible, bien cuando se inicie la prestación del servicio o se realice la actividad, sin perjuicio de la posibilidad de exigir su depósito previo.
+2. Cuando se presente la solicitud que inicie la actuación o el expediente, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
 Tarifas:
 Tarifa 1. Control administrativo de actividades industriales:
-Inscripción en el Registro Industrial de nuevas instalaciones, ampliaciones y traslados. (N = el número que se obtiene al dividir la inversión en maquinaria y equipos industriales entre 6.010,12 euros).
+Inscripción en el Registro Industrial de nuevas instalaciones, ampliaciones y traslados (N = el número que se obtiene al dividir la inversión en maquinaria y equipos industriales entre 6.010,12 euros).
 1.1 Nuevas industrias y ampliaciones.
 1.1.1 Inversión en maquinaria y equipo, hasta 6.010,12 euros: 30,05 euros.
 1.1.2 Hasta 30.050,61 euros: 90,15 euros.
 1.1.3 Hasta 150.253,03 euros: 180,30 euros.
-1.1.4 Hasta 1.502.530,26 euros: 120,202421 + (2,404048 x N) euros.
-1.1.5 Hasta 3.005.060,52 euros: 270,455447 + (1,803036 x N) euros.
-1.1.6 Hasta 6.010.121,04 euros: 570,961499 + (1,202024 x N) euros.
-1.1.7 Más de 6.010.121,04 euros: 1.171,973603 + (0,601012 x N) euros.
+1.1.4 Hasta 1.502.530,26 euros: 120,202421 + (2,404048 × N) euros.
+1.1.5 Hasta 3.005.060,52 euros: 270,455447 + (1,803036 × N) euros.
+1.1.6 Hasta 6.010.121,04 euros: 570,961499 + (1,202024 × N) euros.
+1.1.7 Más de 6.010.121,04 euros: 1.171,973603 + (0,601012 × N) euros.
 1.2 Traslados de industrias: Se aplica el 75 por 100 de la tarifa básica 1.1.
 1.3 Cambios de titularidad de industrias y variación de la inscripción anterior: Se aplica el 25 por 100 de la tarifa básica 1.1.
-1.4 Reconocimientos periódicos reglamentarios de industrias: Se aplica el 30 por 100 de la tarifa básica 1.1, con un máximo de 62,53 euros.
+1.4 Reconocimientos periódicos reglamentarios de industrias: Se aplica el 30 por 100 de la tarifa básica 1.1, con un máximo de 64,41 euros.
 1.5 Regularización administrativa de instalaciones clandestinas: Se aplica el 200 por 100 de la tarifa básica 1.1.
 1.6 Inscripción en el Registro Industrial de instalaciones de almacenamiento, distribución y venta al por menor de combustibles líquidos: Según tarifa básica 1.1.
 1.7 Autorización de puesta en servicio de instalaciones frigoríficas: Según tarifa básica 1.1.
 1.8 Aparatos elevadores:
-1.8.1 Inscripción en el Registro de Aparatos Elevadores (RAE) de un aparato: 31,26 euros.
-Inspección de un aparato elevador: 62,53 euros.
+1.8.1 Inscripción en el Registro de Aparatos Elevadores (RAE) de un aparato: 32,20 euros.
+Inspección de un aparato elevador: 64,41 euros.
 1.9 Aparatos a presión: Según tarifa básica 1.1.
-1.10 Otras instalaciones industriales: Según tarifa básica 1.1
+1.10 Otras instalaciones industriales: Según tarifa básica 1.1.
 1.11 Instalaciones de rayos X:
-1.11.1 Autorizaciones segunda categoría: 125,05 euros.
-1.11.2 Autorizaciones tercera categoría: 93,79 euros.
-1.11.3 Autorizaciones de tipo médico: 93,79 euros.
-1.12 Patentes y modelos de utilidad. Certificado de puesta en práctica: 30,65 euros.
+1.11.1 Autorizaciones segunda categoría: 128,80 euros.
+1.11.2 Autorizaciones tercera categoría: 96,60 euros.
+1.11.3 Autorizaciones de tipo médico: 96,60 euros.
+1.12 Patentes y modelos de utilidad. Certificado de puesta en práctica: 31,57 euros.
 Tarifa 2. Control administrativo de actividades energéticas:
 2.1 Instalaciones eléctricas de alta tensión.
 2.1.1 Autorización de líneas eléctricas centros de transformación subestaciones y demás instalaciones de alta tensión: Se aplicará el 200 por 100 de la tarifa básica 1.1.
 2.1.2 Declaración de utilidad pública: Se aplicará el 20 por 100 de la tarifa básica 1.1.
-2.1.3 Cambio de titularidad de la instalación: 10 euros.
+2.1.3 Cambio de titularidad de la instalación: 10,30 euros.
 2.1.4 Instalaciones de energías alternativas: Se aplicará el 100 por 100 de la tarifa básica 1.1.
-2.1.5 Inspección a instancia de parte: 60 euros.
-2.1.6 Instalaciones temporales: 60 euros.
+2.1.5 Inspección a instancia de parte: 61,80 euros.
+2.1.6 Instalaciones temporales 61,80 euros.
 2.2 Instalaciones eléctricas en baja tensión.
-2.2.1 Instalaciones en viviendas ya existentes, por ampliaciones de potencias, cambios de titular, cambios de tensión, etc.: 10 euros.
-2.2.2 Edificios de viviendas o locales comerciales: 10 euros.
+2.2.1 Instalaciones en viviendas ya existentes, por ampliaciones de potencias, cambios de titular, cambios de tensión, etc.: 10,30 euros.
+2.2.2 Edificios de viviendas o locales comerciales: 10,30 euros.
 2.2.3 Instalaciones con proyecto, distintos de los anteriores: según tarifa básica 1.1.
-2.2.4 Resto de las instalaciones: 10 euros.
+2.2.4 Resto de las instalaciones: 10,30 euros.
 2.3 Gases combustibles:
 2.3.1 Concesiones administrativas: 200 por 100 de la tarifa básica 1.1.
 2.3.2 Instalaciones de almacenamiento y distribución de gases combustibles con depósitos fijos: según tarifa básica 1.1.
@@ -364,167 +365,169 @@ Tarifa 2. Control administrativo de actividades energéticas:
 2.3.4 Centros de almacenamiento y distribución de botellas G.L.P.: según tarifa básica 1.1.
 2.3.5 Instalaciones receptoras de gas.
 2.3.5.1 En edificios de viviendas (montantes): según tarifa básica 1.1.
-2.3.5.2 Instalaciones con botellas de GLP. Por cada botella en uso o reserva: 10 euros.
-2.3.6 Inspecciones (a instancia de parte): 60 euros.
+2.3.5.2 Instalaciones con botellas de GLP. Por cada botella en uso o reserva: 10,30 euros.
+2.3.6 Inspecciones (a instancia de parte): 61,80 euros.
 2.3.7 Aparatos a gas tipo único: según tarifa básica 1.1.
-2.3.8 Ampliación de aparatos a gas en instalaciones existentes. Por cada nuevo aparato: 3,75 euros.
+2.3.8 Ampliación de aparatos a gas en instalaciones existentes. Por cada nuevo aparato: 3,86 euros.
 2.4 Instalaciones de calefacción, climatización y agua caliente:
-2.4.1 Instalación individual en vivienda o local: 10 euros.
+2.4.1 Instalación individual en vivienda o local: 10,30 euros.
 2.4.2 Instalaciones con proyecto: Según tarifa básica 1.1.
 2.4.3 Instalaciones con proyecto, distintas a las anteriores: Según tarifa básica 1.1.
 2.5 Combustibles líquidos:
 2.5.1 Instalaciones de almacenamiento comunitarios o anexas a establecimientos industriales que precisen proyecto en depósitos fijos: según tarifa básica 1.1.
-2.5.2 Almacenamientos individuales para una vivienda o local: 10 euros.
+2.5.2 Almacenamientos individuales para una vivienda o local: 10,30 euros.
 2.5.3 Instalaciones de Almacenamiento para uso propio en establecimientos industriales:
-2.5.3.1 Sin proyecto: 6,12 euros.
+2.5.3.1 Sin proyecto: 6,30 euros.
 2.5.3.2 Con proyecto según tarifa básica 1.1.
 2.6 Agua:
 2.6.1 Autorización de instalaciones distribuidoras de agua, que requieren proyecto: Según tarifa básica 1.1.
-2.6.2 Instalaciones interiores de suministro de agua. Por cada vivienda: 10 euros.
+2.6.2 Instalaciones interiores de suministro de agua. Por cada vivienda: 10,30 euros.
 2.7 Verificación de la calidad del suministro de energía eléctrica:
-2.7.1 Alta tensión: 62,53 euros.
-2.7.2 Baja tensión. 31,26 euros.
+2.7.1 Alta tensión: 64,41 euros.
+2.7.2 Baja tensión. 32,20 euros.
 Tarifa 3. Tasas que afectan a la inspección técnica de vehículos.
 3.1 Inspecciones técnicas:
-3.1.1 Vehículos ligeros PMA < 3.500 kilogramos: 24,50 euros.
-3.1.2 Vehículos pesados PMA > 3.500 kilogramos: 34,25 euros.
-3.1.3 Vehículos especiales: 49,07 euros.
-3.1.4 Motocicletas: 16,35 euros.
-3.1.5 Vehículos agrícolas: 16,35 euros.
-3.2 Revisiones periódicas: Las tarifas serán las correspondientes a inspecciones técnicas.
-3.3 Inspecciones previas a la matriculación: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,50 euros.
-3.4 Autorización de una o más reformas de importancia sin proyecto técnico: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 10,10 euros.
-3.5 Autorización de una o más reformas de importancia con proyecto técnico: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 26,98 euros.
-3.6 Expedición de duplicados de tarjetas de inspección técnica: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,50 euros.
-3.7 Inspecciones previas a la matriculación de vehículos procedentes de la UE o importados, incluidos los traslados de residencia:
-3.7.1 Vehículos de cualquier tipo, excepto motocicletas: 121,64 euros.
-3.7.2 Motocicletas: 16,35 euros.
-3.8 Cambios de destino y desgloses de elementos procedentes de reforma de importancia: Las tarifas de aplicación serán las correspondientes a inspecciones técnicas incrementadas en 2,70 euros. En el caso de que el cambio de destino tenga lugar antes del vencimiento del primer plazo de inspección, y si este cambio no implica ninguna modificación técnica del vehículo, existirá una única tarifa de 2,70 euros.
+3.1.1 Vehículos ligeros PMA < 3.500 kilogramos: 25,24 euros.
+3.1.2 Vehículos pesados PMA > 3.500 kilogramos: 35,28 euros.
+3.1.3 Vehículos especiales: 50,54 euros.
+3.1.4 Motocicletas: 16,84 euros.
+3.1.5 Vehículos agrícolas: 16,84 euros.
+3.2. Revisiones periódicas: Las tarifas serán las correspondientes a inspecciones técnicas.
+3.3 Inspecciones previas a la matriculación: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,91 euros.
+3.4 Autorización de una o más reformas de importancia sin proyecto técnico: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 10,40 euros.
+3.5 Autorización de una o más reformas de importancia con proyecto técnico: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 27,79 euros.
+3.6 Expedición de duplicados de tarjetas de inspección técnica: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,91 euros.
+3.7 Inspecciones previas a la matriculación de vehículos procedentes de la UE o de terceros países, incluidos los traslados de residencia:
+3.7.1 Vehículos de cualquier tipo, excepto motocicletas: 125,29 euros.
+3.7.2 Motocicletas: 16,84 euros.
+3.8 Cambios de destino y desgloses de elementos procedentes de reforma de importancia: Las tarifas de aplicación serán las correspondientes a inspecciones técnicas incrementadas en 2,78 euros. En el caso de que el cambio de destino tenga lugar antes del vencimiento del primer plazo de inspección, y si este cambio no implica ninguna modificación técnica del vehículo, existirá una única tarifa de 2,78 euros.
 3.9 Inspecciones a domicilio vehículos especiales: Las tarifas de aplicación serán las correspondientes a los servicios solicitados, incrementada en un 100 por 100.
-3.10 Actas de destrucción número de bastidor en taller autorizado: 32,02 euros.
-3.11 Inspecciones técnicas por cambios de matrícula: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,50 euros.
-3.12 Inspección de vehículos históricos: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,50 euros.
+3.10 Actas de destrucción número de bastidor en taller autorizado: 32,98 euros.
+3.11 Inspecciones técnicas por cambios de matrícula: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,91 euros.
+Catalogación de vehículos históricos: Las tarifas serán las correspondientes a inspecciones técnicas incrementadas en 13,91 euros.
+3.13 Autorización de centros técnicos para tacógrafos digitales 62,50 euros.
 Cuando se requieran simultáneamente dos o más servicios, la tarifa resultante será la suma de las tarifas de los servicios solicitados, aplicando la correspondiente a la inspección técnica una sola vez.
 Para la segunda y sucesivas inspecciones, como consecuencia de rechazos en la primera presentación del vehículo, se establecen los siguientes dos supuestos:
 1. Si la presentación del vehículo se hace dentro de los quince días hábiles siguientes al de la primera inspección, no devengará tarifa alguna por este concepto.
 2. Si la presentación del vehículo se hace a partir del plazo anterior y dentro de los dos meses naturales desde la fecha de la primera inspección, la tarifa será el 70 por 100 de la correspondiente a la inspección periódica.
 No tendrán la consideración de segundas o sucesivas inspecciones aquellas que tengan lugar después de los dos meses naturales a partir de la primera.
-Estas tarifas anteriores vendrán incrementadas por el tipo de IVA en vigor. Estas tarifas serán incrementadas con la tasa de tráfico vigente en el momento de su aplicación.
+Estas tarifas anteriores vendrán incrementadas por el tipo de IVA en vigor.
+Estas tarifas serán incrementadas con la tasa de tráfico vigente en el momento de su aplicación.
 Tarifa 4. Metrología.
 4.1 Contadores:
-4.1.1 Contadores eléctricos, de gas y de agua. Por cada contador: 3,13 euros.
-4.2 Limitadores de corriente. Por cada Limitador: 0,624 euros.
+4.1.1 Contadores eléctricos, de gas y de agua. Por cada contador: 3,22 euros.
+4.2 Limitadores de corriente. Por cada Limitador: 0,643 euros.
 4.3 Pesas y medidas:
-4.3.1 Certificación y comprobación de revisión de básculas puente: 12,51 euros.
-4.3.2 Verificación de balanzas por unidad: 6,25 euros.
-4.3.3 Determinación volumétrica de cisternas. Por cada unidad: 31,26 euros.
-4.3.4 Verificación de surtidores. Por medidor: 25,01 euros.
-4.4 Intervención y control de laboratorios autorizados, por cada uno: 93,79 euros.
+4.3.1 Certificación y comprobación de revisión de básculas puente: 12,89 euros.
+4.3.2 Verificación de balanzas por unidad: 6,44 euros.
+4.3.3 Determinación volumétrica de cisternas. Por cada unidad: 32,20 euros.
+4.3.4 Verificación de surtidores. Por medidor: 25,76 euros.
+4.4 Intervención y control de laboratorios autorizados, por cada uno: 96,60 euros.
 Tarifa 5. Metales preciosos. Contrastación.
 5.1 Platino:
-5.1.1 Por cada gramo o fracción: 0,156323 euros.
+5.1 Por cada gramo o fracción: 0,161013 euros.
 5.2 Oro:
-5.2.1 Por pieza de tres gramos o inferior: 0,094 euros.
-5.2.2 Objetos de más de tres gramos. Por gramo: 0,031265 euros.
+5.2.1 Por pieza de 3 gramos o inferior: 0,097 euros.
+5.2.2 Objetos de más de 3 gramos. Por gramo: 0,032203 euros.
 5.3 Plata:
-5.3.1 Por pieza de 10 gramos o inferior: 0,031265 euros.
-5.3.2 Objetos de más de 10 gramos y hasta 80 gramos, por pieza: 0,124 euros.
-5.3.3 Objetos de más de 80 gramos, por gramo: 0,001564 euros.
+5.3.1 Por pieza de 10 gramos o inferior: 0,032203 euros.
+5.3.2 Objetos de más de 10 gramos y hasta 80 gramos, por pieza: 0,128 euros.
+5.3.3 Objetos de más de 80 gramos, por gramo: 0,001611 euros.
 Tarifa 6. Minería. Instalaciones y servicios afectos a la minería.
 6.1 Autorizaciones de explotación y aprovechamiento de recursos mineros de la Sección A:
-6.1.1 Nuevas autorizaciones: 312,65 euros.
-6.1.2 Prórroga de autorizaciones: 93,79 euros.
-6.1.3 Ampliación de extensión superficial: 125,05 euros.
+6.1.1 Nuevas autorizaciones: 322,03 euros.
+6.1.2 Prórroga de autorizaciones: 96,60 euros.
+6.1.3 Ampliación de extensión superficial: 128,80 euros.
 6.2 Rectificaciones, replanteos, divisiones, agrupaciones e intrusiones:
-6.2.1 Rectificaciones: 468,98 euros.
-6.2.2 Replanteos: 312,65 euros.
-6.2.3 Divisiones. Por cada una: 468,98 euros.
-6.2.4 Concentración de concesiones mineras. Por cada concesión minera a concentrar: 312,65 euros.
-6.2.5 Intrusiones: 625,29 euros.
+6.2.1 Rectificaciones: 483,05 euros.
+6.2.2 Replanteos: 322,03 euros.
+6.2.3 Divisiones. Por cada una: 483,05 euros.
+6.2.4 Concentración de concesiones mineras. Por cada concesión minera a concentrar: 322,03 euros.
+6.2.5 Intrusiones: 644,05 euros.
 6.3 Confrontación y autorización de sondeos y planes mineros de labores:
-6.3.1 Sondeos de investigación (N = el número y sus fracciones que se obtienen al dividir el presupuesto entre 6.010,12 euros): 90,151816 + (6,010121 x N) euros.
+6.3.1 Sondeos de investigación (N = El número y sus fracciones que se obtienen al dividir el presupuesto entre 6.010,12 euros): 90,151816 + (6,010121 × N) euros.
 6.3.2 Planes de labores en exterior, canteras y minas:
 6.3.2.1 Hasta 150.253,03 euros: 150,25 euros.
-6.3.2.2 Desde 150.253,03 euros hasta 601.012,10 euros: 60,101210 + (1,502530 x N) euros.
-6.3.2.3. Desde 601.012,10 euros: 90,151816 + (1,502530 x N) euros.
+6.3.2.2 Desde 150.253,03 euros hasta 601.012,10 euros: 60,101210 + (1,502530 × N) euros.
+6.3.2.3 Desde 601.012,10 euros: 90,151816 + (1,502530 × N) euros.
 6.3.3 Planes de labores en el interior:
 6.3.3.1 Hasta 150.253,03 euros: 210,35 euros.
-6.3.3.2 Desde 150.253,03 euros hasta 601.012,10 euros: 60,101210 +(3,005060 x N) euros.
-6.3.3.3 Desde 601.012,10 euros: 120,202421 + (1,202024 x N) euros.
+6.3.3.2 Desde 150.253,03 euros hasta 601.012,10 euros: 60,101210 + (3,005060 × N) euros.
+6.3.3.3 Desde 601.012,10 euros: 120,202421 + (1,202024 × N) euros.
 6.4 Explosivos:
-6.4.1 Informes sobre uso de explosivos: 62,53 euros.
-6.4.2 Informes grandes voladuras: 156,32 euros.
-6.4.3 Informes voladuras especiales: 93,79 euros.
-6.4.4 Inspección unitaria por seguridad minera de voladuras: 62,53 euros.
-6.5 Aprobación de disposiciones internas de seguridad: 62,53 euros.
-6.6 Clasificación de recursos mineros: 50,02 euros.
-6.7 Transmisión de derechos mineros, según el importe de la transmisión escriturada (N = el número total y sus fracciones que se obtienen al dividir entre 6.010,12 euros).
+6.4.1 Informes sobre uso de explosivos: 64,41 euros.
+6.4.2 Informes grandes voladuras: 161,01 euros.
+6.4.3 Informes voladuras especiales: 96,60 euros.
+6.4.4 Inspección unitaria por seguridad minera de voladuras: 64,41 euros.
+6.5 Aprobación de disposiciones internas de seguridad: 64,41 euros.
+6.6 Clasificación de recursos mineros: 51,52 euros.
+6.7 Transmisión de derechos mineros, según el importe de la transmisión escriturada (N = El número total y sus fracciones que se obtienen al dividir entre 6.010,12 euros).
 6.7.1 De autorización de aprovechamientos y permisos de investigación:
 6.7.1.1 Hasta 60.101,21 euros: 300,51 euros.
-6.7.1.2 Desde 60.101,21 euros en adelante: 240,404842 + (3,005060 x N) euros.
+6.7.1.2 Desde 60.101,21 euros, en adelante: 240,404842 + (3,005060 × N) euros.
 6.7.2 De concesiones mineras:
 6.7.2.1 Hasta 60.101,21 euros: 601,01 euros.
-6.7.2.2 Desde 60.101,21 euros en adelante: 570,961499 + (3,005060 x N) euros.
+6.7.2.2 Desde 60.101,21 euros, en adelante: 570,961499 + (3,005060 × N) euros.
 6.8 Suspensión abandono y cierre de labores:
-6.8.1 Informes sobre suspensiones: 93,79 euros.
-6.8.2 Abandono y cierre de labores: 156,33 euros.
+6.8.1 Informes sobre suspensiones: 96,60 euros.
+6.8.2 Abandono y cierre de labores: 161,02 euros.
 6.9 Establecimiento de beneficio e industria minera en general: Según tarifa 1.1.
 6.10 Autorización de lavaderos de minerales e instalaciones de tratamiento: Según tarifa 1.1.
-6.11 Prórrogas de permisos: 468,98 euros.
+6.11 Prórrogas de permisos: 483,05 euros.
 6.12 Inspecciones de policía minera:
-6.12.1 Extraordinaria: 125,05 euros.
-6.12.2 Ordinaria: 62,53 euros.
+6.12.1 Extraordinaria: 128,80 euros.
+6.12.2 Ordinaria: 64,41 euros.
 Tarifa 7. Expropiación forzosa y servidumbre de paso.
 7.1 Expropiación forzosa, ocupación temporal y servidumbre de paso:
-7.1.1 Inicio de expediente (N = número total de parcelas):
-7.1.1.1 Menos de nueve parcelas: 312,65 euros.
-7.1.1.2 Desde nueve parcelas en adelante: 306,516173 + (3,065161 x N) euros.
-7.1.2 Acta previa a la ocupación, por cada parcela: 31,26 euros.
-7.1.3 Acta de ocupación, por cada parcela: 25,01 euros.
+7.1.1 Inicio de expediente (N = Número total de parcelas):
+7.1.1.1 Menos de nueve parcelas: 322,03 euros.
+7.1.1.2 Desde nueve parcelas en adelante: 306,516173 + (3,065161 × N) euros.
+7.1.2 Acta previa a la ocupación, por cada parcela: 32,20 euros.
+7.1.3 Acta de ocupación, por cada parcela: 25,76 euros.
 Tarifa 8. Expedición de certificados, documentos y tasas de examen.
 Expedición de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias:
-8.1.1 Expedición del carné de instalador autorizado o cartilla de palista/maquinista o artillero: 6,25 euros.
-8.1.2 Renovaciones y prórrogas: 6,25 euros.
-8.2 Derechos de examen para la obtención de carnet de instalador autorizado: 6,25 euros.
+8.1.1 Expedición del carné de instalador autorizado o cartilla de palista/maquinista o artillero: 6,44 euros.
+8.1.2 Renovaciones y prórrogas: 6,44 euros.
+8.2 Derechos de examen para la obtención de carnet de instalador autorizado: 6,44 euros.
 8.3 Certificaciones y otros actos administrativos:
 8.3.1 Confrontación de proyectos, instalaciones aparatos y productos: Según tarifa básica 1.1.
 8.4 Inscripción en el Registro Industrial de Empresas de Servicios:
-8.4.1 Nuevas inscripciones: 62,53 euros.
-8.4.2 Modificaciones: 31,26 euros.
+8.4.1 Nuevas inscripciones: 64,41 euros.
+8.4.2 Modificaciones: 32,20 euros.
 8.5 Inscripción en el Registro Industrial de Agentes Autorizados para colaborar con las Administraciones Públicas en materia de seguridad y calidad industrial:
-8.5.1 Nueva inscripción: 187,59 euros.
-8.5.2 Modificaciones: 62,53 euros.
+8.5.1 Nueva inscripción: 193,22 euros.
+8.5.2 Modificaciones: 64,41 euros.
 8.6 Expedición de documento de calificación empresarial:
-8.6.1 Nuevos: 31,26 euros.
-Renovaciones: 6,25 euros.
-Obtención de datos del Registro Industrial: Por cada hoja: 0,624 euros.
-En soporte informático: 0,749 euros.
-8.7 Autorización de talleres para la instalación de tacógrafos, limitadores de velocidad y fabricantes de menos de 50 unidades: 62,53 euros.
-8.8 Habilitación de libros de registro para talleres instaladores de tacógrafos, limitadores, menos de 50 unidades y aparatos taxímetros: 6,25 euros.
+8.6.1 Nuevos: 32,20 euros.
+Renovaciones: 6,44 euros.
+Obtención de datos del Registro Industrial:
+Por cada hoja: 0,643 euros.
+En soporte informático: 0,771 euros.
+8.7 Autorización de talleres para la instalación de tacógrafos analógicos, limitadores de velocidad y fabricantes de menos de 50 unidades: 64,41 euros.
+8.8 Habilitación de libros de registro para talleres instaladores de tacógrafos, limitadores, menos de 50 unidades y aparatos taxímetros: 6,44 euros.
 Tarifa 9. Control administrativo de las actuaciones de los Organismos de Control.
 Se aplicará a cada expediente tramitado o actuación realizada el 10 por 100 de la tasa correspondiente según la materia que se trate.
 Tarifa 10. Tasa por venta de bienes.
-10.1 Placas de aparatos a presión: 0,624 euros.
-10.2 Placas aparatos elevadores: 0,624 euros.
-10.3 Libro-Registro Usuario Instalaciones Frigoríficas: 12,00 euros.
-10.4 Libro-Mantenimiento Instalaciones de Calefacción, Climatización y ACS: 12,00 euros.
-10.5 Impresos Planes de Labores: 12,00 euros.
+10.1 Placas de aparatos a presión: 0,643 euros.
+10.2 Placas aparatos elevadores: 0,643 euros.
+10.3 Libro-Registro Usuario Instalaciones Frigoríficas: 12,36 euros.
+10.4 Libro-Mantenimiento Instalaciones de Calefacción, Climatización y ACS: 12,36 euros.
+10.5 Impresos Planes de Labores: 12,36 euros.
 Consejería de Obras Públicas y Vivienda
 1. Tasa de viviendas de protección oficial y actuaciones protegibles.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa toda actuación de la Consejería de Obras Públicas y Vivienda conducente al otorgamiento de la calificación provisional o definitiva de vivienda de protección oficial y del certificado de rehabilitación de viviendas y edificios; asimismo, integra el hecho imponible cualquier otra actuación atribuida con exclusividad a la Consejería, relativa a viviendas de protección oficial, y de solicitud o recepción obligatoria para los administrados.
-Sujeto pasivo.–Serán sujetos pasivos de esta tasa las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria que, actuando como promotores de proyectos de obras, soliciten la calificación provisional, definitiva, certificación de rehabilitación o cualquier otra integrante del hecho imponible, o, no siendo precisa la solicitud, resulten destinatarias de la actuación administrativa.
-Devengo.–El devengo se produce en el momento de solicitar la actuación administrativa. Si no fuera precisa tal solicitud, la tasa se devengará en el momento de realizarse por parte de la Administración la actividad gravada.
-Base imponible:
+Sujeto pasivo.–Serán sujetos pasivos de esta tasa las personas físicas o jurídicas y las entidades del articulo 35.4 de la Ley General Tributaria que, actuando como promotores de proyectos de obras, soliciten la calificación provisional, definitiva, certificación de rehabilitación o cualquier otra integrante del hecho imponible, o, no siendo precisa la solicitud, resulten destinatarias de la actuación administrativa.
+Devengo.–El devengo se produce en el momento de solicitar la actuación administrativa. Si no fuera precisa tal solicitud, la tasa se devengará en el momento de realizarse por parte de la Administración la actividad gravada. Base imponible:
 a) En las viviendas de protección oficial y obras de edificación protegida, la base imponible será el presupuesto total que figure en el proyecto básico de edificación.
-b) En las obras de rehabilitación la base será el presupuesto protegido de dichas obras.
-Tarifa.–El tipo de gravamen será el 0,07 por 100, en ambos casos.
+b) En las obras de rehabilitación la base será el presupuesto protegido de dichas obras. Tarifa.–El tipo de gravamen será el 0,07 por 100, en ambos casos.
 2. Tasa por expedición de cédula de habitabilidad.
 Hecho imponible.–Constituye el hecho imponible de la tasa el reconocimiento e inspección, a los efectos de expedir la cédula de habitabilidad, de edificios y locales destinados a vivienda.
-Sujeto pasivo.–Son sujetos pasivos de la tasa los solicitantes de la cédula, ya sean personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria, tanto si las viviendas las ocupan ellos mismos como si las entregan a otras personas por cualquier título.
+Sujeto pasivo.–Son sujetos pasivos de la tasa los solicitantes de la cédula, ya sean personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, tanto si las viviendas las ocupan ellos mismos como si las entregan a otras personas por cualquier título.
 Devengo.–La tasa se devenga en el momento de solicitar la expedición de la cédula de habitabilidad.
-Tarifas: La tarifa exigida por la expedición de cédulas de habitabilidad será de 2,06 euros por vivienda.
+Tarifas:
+La tarifa exigida por la expedición de cédulas de habitabilidad será de 2,12 euros por vivienda.
 3. Tasas por servicios prestados en los puertos de la Comunidad Autónoma.
-En consonancia con lo previsto en la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante (B.O.E. número 283, del 25 de noviembre), y disposiciones posteriores de aplicación, las tarifas portuarias por los servicios prestados por el Servicio de Puertos de la Consejería de Obras Públicas y Vivienda serán las siguientes:
+En consonancia con lo previsto en la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante («BOE» número 283, de 25 de noviembre), y disposiciones posteriores de aplicación, las tarifas portuarias por los servicios prestados por el Servicio de Puertos de la Consejería de Obras Públicas y Vivienda serán las siguientes:
 Tarifa T-0: Señalización marítima.
 Tarifa T-1: Entrada y estancia de barcos.
 Tarifa T-2: Atraque.
@@ -535,13 +538,15 @@ Tarifa T-6: Grúas.
 Tarifa T-7: Almacenaje.
 Tarifa T-8: Suministros.
 Tarifa T-9: Servicios diversos.
-Devengo o período de prestación del servicio y recargos por anulaciones.
-1. El comienzo y el término del periodo de prestación del servicio coincidirá: Con la entrada y salida por la zona de servicio portuaria de los buques, mercancías y pasajeros, pesca fresca y embarcaciones deportivas de recreo, en el caso de las tarifas T-1, T-3, T-4 y T-5, respectivamente.
-Con el tiempo de utilización del puesto de atraque, de los medios mecánicos o de los espacios para almacenaje, en el caso de la tarifas T-2, T-6 y T-7, respectivamente. Con el momento en que se realice la entrega de suministros o la prestación de servicios diversos, en el caso de las tarifas T-8 y T-9.
-2. El Servicio de Puertos podrá establecer la indemnización correspondiente en el caso de anulación de solicitudes para la prestación de los servicios a que se refieren las tarifas T-8 y T-9.
-La anulación de reservas en el caso de servicios correspondientes a las tarifas T-2 y T-7 quedan reguladas en la forma que a continuación se expone: La anulación de la reserva de atraque en un plazo inferior a tres horas antes del comienzo de la reserva o cuando dicha anulación no se produzca y el buque no arribe a puerto, dará derecho al cobro de la tarifa aplicable a dicho buque por el día completo en el que ha comenzado la reserva, sin perjuicio de que el atraque reservado pueda ser utilizado por otro barco.
+I. Devengo o período de prestación del servicio y recargos por anulaciones.
+1. El comienzo y el término del periodo de prestación del servicio coincidirá:
+Con la entrada y salida por la zona de servicio portuaria de los buques, mercancías y pasajeros, pesca fresca y embarcaciones deportivas de recreo, en el caso de las tarifas T-1, T-3, T-4 y T-5, respectivamente.
+Con el tiempo de utilización del puesto de atraque, de los medios mecánicos o de los espacios para almacenaje, en el caso de la tarifas T-2, T-6 y T-7, respectivamente.
+Con el momento en que se realice la entrega de suministros o la prestación de servicios diversos, en el caso de las tarifas T-8 y T-9.
+2. El Servicio de Puertos podrá establecer la indemnización correspondiente en el caso de anulación de solicitudes para la prestación de los servicios a que se refieren las tarifas T-8 y T-9. La anulación de reservas en el caso de servicios correspondientes a las tarifas T-2 y T-7 quedan reguladas en la forma que a continuación se expone:
+La anulación de la reserva de atraque en un plazo inferior a tres horas antes del comienzo de la reserva o cuando dicha anulación no se produzca y el buque no arribe a puerto, dará derecho al cobro de la tarifa aplicable a dicho buque por el día completo en el que ha comenzado la reserva, sin perjuicio de que el atraque reservado pueda ser utilizado por otro barco.
 La anulación o modificación de la reserva de espacios, explanadas, almacenes, locales, etc., en un plazo inferior a veinticuatro horas antes del comienzo de la reserva o cuando dicha anulación no se produzca y la mercancía no llegue a puerto dará derecho al Servicio de Puertos al cobro de la tarifa aplicable a la mercancía por el día completo en el que ha comenzado la reserva, sin perjuicio de que la superficie reservada pueda ser utilizada por otra mercancía.
-II. Prestación de servicios fuera del horario normal.-La prestación de los servicios «Grúas», «Suministros» y «Servicios diversos», en días festivos o fuera de la jornada ordinaria en los laborables, quedará supeditada a la posibilidad y conveniencia de su realización, a juicio del Servicio de Puertos, y serán abonados con el recargo que en cada caso corresponda, sin que, en ningún caso, éste pueda exceder del 40 por 100 sobre las tarifas vigentes en condiciones normales.
+II. Prestación de servicios fuera del horario normal.–La prestación de los servicios «Grúas», «Suministros» y «Servicios diversos», en días festivos o fuera de la jornada ordinaria en los laborables, quedará supeditada a la posibilidad y conveniencia de su realización, a juicio del Servicio de Puertos, y serán abonados con el recargo que en cada caso corresponda, sin que, en ningún caso, éste pueda exceder del 40 por 100 sobre las tarifas vigentes en condiciones normales.
 III. Plazo para el pago de tarifas e interés de demora:
 a) El plazo máximo para hacer efectivas las deudas originadas por la aplicación de estas tarifas será de veinte días desde la fecha de notificación de la factura correspondiente.
 b) Las deudas no satisfechas en el plazo establecido en el apartado anterior devengarán intereses de demora que se estimarán aplicando a las cantidades adeudadas el porcentaje que para cada año establezca la Ley de Presupuestos Generales del Estado.
@@ -549,36 +554,42 @@ IV. Medidas para garantizar el cobro de las tarifas:
 a) Suspensión temporal de la prestación de servicios.–El impacto reiterado de las tarifas o cánones devengados por la prestación de servicios portuarios en cualquiera de los puertos de la Comunidad Autónoma de Cantabria, faculta el servicio de puertos para suspender temporalmente la prestación del servicio a la sociedad deudora, previo requerimiento a ésta y comunicación al Capitán Marítimo si afectase a servicios de navegación marítima.
 b) Depósito previo, avales y facturas a cuenta.–El Servicio de Puertos podrá exigir el depósito previo o la constitución de avales, así como emitir facturas a cuenta, con objeto de garantizar el cobro del importe de la tarifas por los servicios que se presten en el ámbito de su competencia, sin perjuicio de la liquidación final resultante.
 c) Suspensión de la facturación a buques abandonados.–El Servicio de Puertos suspenderá la facturación de servicios portuarios respecto de los buques que previamente declare en abandono por impago prolongado de las tarifas. No obstante, se seguirá anotando la cuantía de los gastos que tales buques ocasionen a efectos de su liquidación final.
-V. Daños al Servicio de Puertos o a terceros.-Los usuarios y particulares serán responsables de las lesiones, daños y averías que ocasionen al Servicio de Puertos o a terceros como consecuencia de su intervención en la utilización de obras e instalaciones portuarias. El Servicio de Puertos podrá exigir del usuario la suscripción de la correspondiente póliza que garantice dicha responsabilidad.
-VI. Impuesto sobre el Valor Añadido (IVA).-En la liquidación final de las tarifas T-0 a T-9 por los distintos servicios prestados, la cantidad que se obtenga será incrementada, en los casos que proceda, con el Impuesto sobre el Valor Añadido (IVA) que corresponda.
+V. Daños al Servicio de Puertos o a terceros.–Los usuarios y particulares serán responsables de las lesiones, daños y averías que ocasionen al Servicio de Puertos o a terceros como consecuencia de su intervención en la utilización de obras e instalaciones portuarias. El Servicio de Puertos podrá exigir del usuario la suscripción de la correspondiente póliza que garantice dicha responsabilidad.
+VI. Impuesto sobre el Valor Añadido (IVA).–En la liquidación final de las tarifas T-0 a T-9 por los distintos servicios prestados, la cantidad que se obtenga será incrementada, en los casos que proceda, con el Impuesto sobre el Valor Añadido (IVA) que corresponda.
 Las bases para la liquidación de las tarifas, sus cuantías, los sujetos pasivos y la reglas particulares de aplicación de las mismas son las que, a continuación se exponen:
 Tarifa T-0: Señalización marítima:
 Primera: Esta tarifa comprende la utilización del sistema de ayudas a la navegación marítima cuyo mantenimiento corresponde a cada autoridad portuaria en el ámbito geográfico que le ha sido asignado, y será de aplicación a todo buque que haga escala o se encuentre surto en las aguas interiores de cualesquiera puertos o instalaciones marítimas.
 Segunda: Abonarán esta tarifa los armadores, los consignatarios o los propietarios, y subsidiariamente el Capitán o Patrón de dichos buques.
 Tercera: La cuantía a aplicar por esta tarifa será, en función de la flota, la siguiente:
-A los buques mercantes y, en general, a aquellos a los que les sean de aplicación las tarifas T-1 o T-3, la cantidad de 0,312646 euros por cada 100 unidades de arqueo bruto o fracción, cada vez que entren en las aguas de cualquier puerto marítimo.
-A los buques mercantes que realicen navegación interior, la cantidad de 6,252930 euros por cada 100 unidades de arqueo bruto o fracción, una vez al año.
-A los barcos dedicados a la pesca local y litoral, la cantidad de 12,51 euros, una vez al año.
-A los barcos, no congeladores, dedicados a la pesca de altura y gran altura y, en general, a aquellos a los que les sea de aplicación la tarifa T-4, la cantidad de 0,250117 euros por cada unidad de arqueo bruto, una vez al año.
-A los buques de recreo y deportivos, la cantidad de 2,501172 euros por cada metro cuadrado del producto de su eslora máxima por su manga máxima, una vez al año. No obstante, a los que tengan su base en puertos extranjeros se les aplicará la tarifa con una bonificación del 90 por 100 cada vez que entren en las aguas de cualquier puerto marítimo, no pudiéndoseles facturar esta tarifa más de una vez por cada período de veinte días consecutivos.
+A los buques mercantes y, en general, a aquellos a los que les sean de aplicación las tarifas T-1 o T-3, la cantidad de 0,322025 euros por cada 100 unidades de arqueo bruto o fracción, cada vez que entren en las aguas de cualquier puerto marítimo.
+A los buques mercantes que realicen navegación interior, la cantidad de 6,440518 euros por cada 100 unidades de arqueo bruto o fracción, una vez al año.
+A los barcos dedicados a la pesca local y litoral, la cantidad de 12,89 euros, una vez al año.
+A los barcos, no congeladores, dedicados a la pesca de altura y gran altura y, en general, a aquellos a los que les sea de aplicación la tarifa T-4, la cantidad de 0,257621 euros por cada unidad de arqueo bruto, una vez al año.
+A los buques de recreo y deportivos, la cantidad de 2,576207 euros por cada metro cuadrado del producto de su eslora máxima por su manga máxima, una vez al año. No obstante, a los que tengan su base en puertos extranjeros se les aplicará la tarifa con una bonificación del 90 por 100 cada vez que entren en las aguas de cualquier puerto marítimo, no pudiéndoseles facturar esta tarifa más de una vez por cada período de veinte días consecutivos.
 Cuarta: El Gobierno de Cantabria podrá suscribir convenio con la Autoridad Portuaria de Santander para el cobro de esta tarifa en el que se podrá contemplar la cobertura proporcional de los costes que originen los servicios de balizamiento de las instalaciones portuarias y los derivados de la gestión del cobro.
 Quinta: Los buques a los que se aplica esta tarifa una vez al año, abonarán la cantidad establecida que corresponda según su puerto de base, quedando liberados durante ese año natural de cualquier otra obligación de pago ante el Gobierno de Cantabria, la Autoridad Portuaria de Santander y ante cualquier otra respecto de dicha tarifa. No obstante, están obligados a mostrar el justificante o distintivo proporcionado por el pago realizado, a cualquier otra Comunidad Autónoma, autoridad portuaria o marítima que se lo exija y abonar a ésta el importe correspondiente en caso de no estar en posesión del mismo.
 A los efectos de aplicación de esta tarifa se entenderá por pesca local, litoral, altura y gran altura, tal y como se definen en la regla 1 «Ámbito de aplicación» del capítulo V «Seguridad de la navegación» de la Orden de 10 de junio de 1983 sobre normas complementarias al Convenio SOLAS 74 («Boletín Oficial del Estado» de 1 de octubre de 1983).
 Tarifa T-1: Entrada y estancia de barcos:
 Primera: Esta tarifa comprende la utilización de las aguas del puerto, de los canales de acceso, esclusas (sin incluir el amarre, remolque o sirga de la misma), obras de abrigo y zonas de fondeo y demás servicios generales prestados al buque. Será de aplicación en la cuantía y condiciones que se indican más adelante a todos los buques y plataformas fijas que entren o permanezcan en las aguas del puerto.
-Segunda: Abonarán esta tarifa los armadores o los consignatarios de los buques que utilicen los servicios indicados en la regla anterior. Tercera: La cuantía en euros de esta tarifa se calculará de acuerdo con el cuadro siguiente, en función de su arqueo bruto (por cada 100 unidades de GT o fracción) y de su estancia en puerto.
+Segunda: Abonarán esta tarifa los armadores o los consignatarios de los buques que utilicen los servicios indicados en la regla anterior.
+Tercera: La cuantía en euros de esta tarifa se calculará de acuerdo con el cuadro siguiente, en función de su arqueo bruto (por cada 100 unidades de GT o fracción) y de su estancia en puerto.
 Estancia | Arqueo bruto | Euros
-Períodos completos de 24 horas o fracción superior a 6 horas. | Hasta 3.000. Mayor de 3.000 hasta 5.000. Mayor de 5.000 hasta 10.000. Mayor de 10.000. | 9,98 11,08 12,19 13,30
-Por la fracción de hasta 6 horas. | Hasta 3.000. Mayor de 3.000 hasta 5.000. Mayor de 5.000 hasta 10.000. Mayor de 10.000. | 5,00 5,55 6,10 6,65
+Períodos completos de 24 horas o fracción superior a 6 horas. | Hasta 3.000. | 10,28
+Mayor de 3.000 hasta 5.000. | 11,41
+Mayor de 5.000 hasta 10.000. | 12,56
+Mayor de 10.000. | 13,70
+Por la fracción de hasta 6 horas. | Hasta 3.000. | 5,15
+Mayor de 3.000 hasta 5.000. | 5,72
+Mayor de 5.000 hasta 10.000. | 6,28
+Mayor de 10.000. | 6,85
 Para la navegación de cabotaje las cuantías anteriores se multiplicarán por el coeficiente 0,3125.
 Los barcos destinados a tráfico interior, de bahía o local, remolcadores con base en el puerto, dragas, aljibes, ganguiles, gabarras y artefactos análogos, pontones, mejilloneras, etc., abonarán mensualmente, quince veces el importe diario que, por aplicación de la tarifa general de navegación de cabotaje correspondería.
 No están sujetos al abono de esta tarifa los barcos que abonen la tarifa T-4, y cumplan las condiciones que, en las reglas de aplicación de dicha tarifa, se especifican.
 Tarifa T-2: Atraque.
 Primera: Esta tarifa comprende el uso por los buques de los elementos de amarre y defensa que permiten su atraque, y será de aplicación en la cuantía y condiciones que se indican más adelante a todos los buques atracados en muelles, pantalanes, etc., construidos total o parcialmente por el Gobierno de Cantabria o que estén afectos a el mismo.
 Segunda: Abonarán esta tarifa los armadores o los consignatarios de los buques que utilicen los elementos citados en la regla anterior.
-Tercera: El barco pagará por cada metro de eslora o fracción y por período completo de veinticuatro horas o fracción mayor de nueve horas, durante el tiempo que permanezca atracado la cantidad de 1,281851 euros.
-Se aplicarán los siguientes coeficientes reductores a los supuestos que a continuación se indican:
-a) Navegación interior: 0,25.
+Tercera: El barco pagará por cada metro de eslora o fracción y por período completo de veinticuatro horas o fracción mayor de nueve horas, durante el tiempo que permanezca atracado la cantidad de 1,320307 euros. Se aplicarán los siguientes coeficientes reductores a los supuestos que a continuación se indican:
+Navegación interior: 0,25.
 b) Atraque inferior a tres horas: 0,25.
 c) Atraque de punta: 0,60.
 Abarloado a otro ya atracado de costado al muelle o a otros barcos abarloados: 0,50.
@@ -589,43 +600,41 @@ Queda excluida de esta tarifa la utilización de maquinaria y elementos móviles
 Segunda: Abonarán esta tarifa los armadores o los consignatarios de los barcos que utilicen el servicio y los propietarios del medio de transporte cuando la mercancía entre y salga del puerto por medios terrestres. Subsidiariamente serán responsables del pago de la tarifa los propietarios de la mercancía y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho provisión de fondos a los responsables principales.
 Tercera: La tarifa se aplicará a:
 Los pasajeros que embarquen o desembarquen.
-Las mercancías embarcadas, desembarcadas, transbordadas o que entren y salgan por tierra en la zona de servicio portuaria sin ser embarcadas, excluyendo aquellas cuya entrada tenga como único objeto la tramitación de documentos de control aduanero, sin que se produzcan rupturas de cargas, descargas a tierra ni estancias en dicho espacio superiores a dos horas y su origen y destino sean países miembros de la C. E.
+Las mercancías embarcadas, desembarcadas, transbordadas o que entren y salgan por tierra en la zona de servicio portuaria sin ser embarcadas, excluyendo aquellas cuya entrada tenga como único objeto la tramitación de documentos de control aduanero, sin que se produzcan rupturas de cargas, descargas a tierra ni estancias en dicho espacio superiores a dos horas y su origen y destino sean países miembros de la CE.
 Cuarta: Las cuantías de las tarifas de pasajeros serán las siguientes:
 Tráfico pasajeros vehículos (euros).
-Bloque (1) euros Bloque (2) euros Motocicletas euros Turismos euros Furgonetas, caravanas euros Autocares 20 plazas euros Autocares > 20 plazas euros.
-Interior o bahía 0,048773 euros 0,048773 euros.
-CEE 2,62 0,780 1,39 4,16 7,50 18,76 37,52.
-Exterior 5,01 3,13 2,08 6,25 11,26 28,14 56,27.
-Camarote de cualquier número de plazas ocupado por uno o dos pasajeros.
+Bloque (1) euros Bloque (2) euros Motocicletas euros Turismos euros Furgonetas caravanas euros Autocares 20 plazas euros Autocares > 20 plazas euros.
+(1) Camarote de cualquier número de plazas ocupado por uno o dos pasajeros.
 (2) Resto de modalidades de pasaje.
+Interior o bahía 0,050236 euros 0,050236 euros.
+CEE 2,70 0,80 1,43 4,28 7,73 19,32 38,65.
+Exterior 5,16 3,22 2,14 6,44 11,60 28,98 57,96.
 Las cuantías de la tarifa de mercancías por tonelada métrica de peso bruto o fracción serán las siguientes y de acuerdo con el repertorio de clasificación de mercancías vigente aprobado por el Ministerio de Fomento:
 Grupos | Euros
-Primero | 0,225105
-Segundo | 0,321841
-Tercero | 0,464620
-Cuarto | 0,709708
-Quinto | 0,969204
-Sexto | 1,291230
-Séptimo | 1,613256
-Octavo | 3,429732
+Primero | 0,231858
+Segundo | 0,331496
+Tercero | 0,478559
+Cuarto | 0,730999
+Quinto | 0,998280
+Sexto | 1,329967
+Séptimo | 1,661654
+Octavo | 3,532624
 A las cuantías de este cuadro se les aplicarán los siguientes coeficientes según el tipo de operaciones y para cualquier clase de navegación (cabotaje o exterior).
 Navegación | Coeficiente
 Embarque | 2,50
 Desembarque o tránsito marítimo | 4,00
 Transbordo | 3,00
-Se entiende por tránsito marítimo, la operación que se realice con las mercancías que, descargadas de un barco al muelle vuelven a ser embarcadas en barco distinto o en el mismo barco en distinta escala sin salir del puerto, salvo que, por necesidades de conservación, no se disponga en el puerto de instalaciones apropiadas.
-Transbordo es la operación por la cual se trasladan las mercancías de un barco a otro sin detenerse en los muelles y con presencia simultánea de ambos barcos durante las operaciones.
-Las tarifas de las operaciones más frecuentes son:
+Se entiende por tránsito marítimo, la operación que se realice con las mercancías que, descargadas de un barco al muelle vuelven a ser embarcadas en barco distinto o en el mismo barco en distinta escala sin salir del puerto, salvo que, por necesidades de conservación, no se disponga en el puerto de instalaciones apropiadas. Transbordo es la operación por la cual se trasladan las mercancías de un barco a otro sin detenerse en los muelles y con presencia simultánea de ambos barcos durante las operaciones. Las tarifas de las operaciones más frecuentes son:
 Grupos | Cabotaje | Exterior
-Embarque – Euros | Desembarque – Euros | Embarque – Euros | Desembarque – Euros
-Primero | 0,478 | 0,728 | 0,562 | 0,905
-Segundo | 0,686 | 1,05 | 0,801 | 1,29
-Tercero | 1,03 | 1,57 | 1,20 | 1,94
-Cuarto | 1,51 | 2,31 | 1,77 | 2,84
-Quinto | 2,05 | 3,15 | 2,43 | 3,88
-Sexto | 2,73 | 4,19 | 3,22 | 5,16
-Séptimo | 3,43 | 5,24 | 4,04 | 6,45
-Octavo | 7,27 | 11,14 | 8,57 | 13,72
+Embarque — Euros | Desembarque — Euros | Embarque — Euros | Desembarque — Euros
+Primero | 0,492 | 0,750 | 0,579 | 0,932
+Segundo | 0,707 | 1,08 | 0,825 | 1,33
+Tercero | 1,06 | 1,62 | 1,24 | 2,00
+Cuarto | 1,56 | 2,38 | 1,82 | 2,93
+Quinto | 2,11 | 3,24 | 2,50 | 4,00
+Sexto | 2,81 | 4,32 | 3,32 | 5,31
+Séptimo | 3,53 | 5,40 | 4,16 | 6,64
+Octavo | 7,49 | 11,47 | 8,83 | 14,13
 En el tráfico local o de bahía se aplicará el coeficiente 0,5 a las cuantías anteriores.
 Tarifa T-4: Pesca fresca.
 Primera: Esta tarifa comprende la utilización por los buques pesqueros en actividad y los productos de la pesca marítima fresca, de las aguas del puerto, muelles, dársenas, zonas de manipulación y servicios generales del puerto.
@@ -648,65 +657,64 @@ Novena: Los industriales armadores que descarguen habitualmente en un mismo luga
 Décima: El abono de esta tarifa exime al buque pesquero de abono de las tarifas T-1 «Entrada y estancia de barcos», T-2 «Atraque» y T-3 «Mercancías y pasajeros», por un plazo máximo de un mes en el puerto en el que haya abonado la tarifa T-4, a partir de la fecha de iniciación de las operaciones de descarga o transbordo.
 Undécima: Las embarcaciones pesqueras estarán exentas del abono de la tarifa T-3 «Mercancías y pasajeros», por el combustible, avituallamientos, efectos navales y de pesca, hielo y sal que embarquen para el propio consumo, bien en los muelles pesqueros o en otros muelles habilitados al efecto.
 Duodécima: El Servicio de Puertos está facultado para proceder a la comprobación del peso y clase de las especies y calidades de la pesca, siendo de cuenta del usuario, obligado al pago de la tarifa, los gastos que se ocasionen como consecuencia de dicha comprobación.
-Decimotercera: Los titulares de las salas de venta pública tendrán derecho a recibir una comisión por su gestión, denominada Premio de Cobranza. El Premio de Cobranza será el 0,5 % de la base imponible y se le aplicará los mismos descuentos de esta tarifa.
+Decimotercera: Los titulares de las salas de venta pública tendrán derecho a recibir una comisión por su gestión, denominada Premio de Cobranza. El Premio de Cobranza será el 0,5 por 100 de la base imponible y se le aplicará los mismos descuentos de esta tarifa.
 Tarifa T-5: Embarcaciones deportivas y de recreo.
 Primera: Esta tarifa comprende la utilización por las embarcaciones deportivas o de recreo, y por sus tripulantes y pasajeros, de las aguas interiores del puerto, de las dársenas y zonas de fondeo, de las instalaciones de amarre y atraque en muelles o pantalanes, en su caso, y de los servicios generales del puerto.
 No obstante, cuando la embarcación realice transporte de mercancías o los pasajeros viajen en régimen de crucero serán de aplicación las tarifas T-1 «Entrada y estancia de barcos», T-2 «Atraque» y T-3 «Mercancías y pasajeros».
-Segunda: Será sujeto pasivo de la tasa el propietario de la embarcación o su representante autorizado y, subsidiariamente, el Capitán o patrón de la misma.
+Segunda: Será sujeto pasivo de la tasa el propietario de la embarcación o su representante autorizado y, subsidiariamente, el Capitán o Patrón de la misma.
 Tercera: La base para la liquidación de la tarifa será, en general, la superficie en metros cuadrados resultante del producto de la eslora máxima de la embarcación por la manga máxima y el tiempo en días naturales o fracción de estancia en fondeo o atraque, salvo en el caso de atraque en pantalanes en donde se estará a lo dispuesto para esta modalidad.
 Cuarta: La cuantía en euros de esta tarifa por metros cuadrados y por períodos de veinticuatro horas o fracción, contados a partir de las doce horas del mediodía para cada uno de los servicios independientes que se presten, serán la siguiente:
 Tarifa General:
-a) A flote: 0,043770 euros.
+a) A flote: 0,045083 euros.
 b) Atracado:
-b.1) de punta: 0,043770 euros.
-b.2) de costado: 0,250117 euros.
-c) Muerto o cadena de amarre: 0,012505 euros.
-d) Acometida de agua: 0,012505 euros.
-e) Vigilancia general: 0,012505 euros.
+b.1) De punta: 0,045083 euros.
+b.2) De costado: 0,257621 euros.
+c) Muerto o cadena de amarre: 0,012880 euros.
+d) Acometida de agua: 0,012880 euros.
+e) Vigilancia general: 0,012880 euros.
 El servicio a) implica la utilización de las aguas del puerto y a él se sumarán los importes b), c), d) o e) que correspondan. Los servicios d) y e) serán de obligada facturación si el puerto dispone de los mismos.
 Se entiende por «muerto de amarre o fondeo» la disponibilidad de una amarra sujeta a un punto fijo del fondo que permita fijar la proa o popa del barco; por atraque de punta, la disponibilidad de un puesto de amarre en muelle que permita fijar la proa o popa del barco con sus propios medios, y por vigilancia general, la que presta el Servicio de Puertos para la generalidad de la zona de servicio del puerto, sin asignación específica ni garantía respecto de la integridad de las embarcaciones o sus contenidos.
 Quinta: Las tarifas mensuales para atraques en pantalanes serán las siguientes, en función de las medidas entre «fingers»:
-Tipo de plaza | Medidas entre «fingers» | Tarifa (euros/mes)
+Tipo de plaza | Medidas entre«fingers» | Tarifa (euros/mes)
 «Tarifa reducida» (Con embarcación amarrada antes del 01-01-2001) | «Tarifa normal» (Con embarcación amarrada después del 01-01-2001)
 General | Jubilados | General | Jubilados
-A | 5 x 2,70 o similar. | 37,52 | 12,51 | 62,53 | 25,01
-B | 6 x 3,17 o similar. | 50,02 | 18,76 | 75,03 | 37,52
-Otras tarifas: Diaria = 6,25 euros/día.
-Se entiende por tarifa normal-general la que es aplicable a embarcaciones amarradas en el puerto con posterioridad al 01-01-2001, o bien que antes no hubieran estado amarradas (excepto jubilados).
-Se entiende por tarifa redudida-general la que es aplicable a embarcaciones amarradas habitualmente en el puerto con anterioridad al 1-1-2001 (excepto jubilados).
-Se entiende por tarifa reducida-jubilados la que es aplicable a embarcaciones amarradas en el puerto con anterioridad a 1-1-2001 y son propiedad de personas jubiladas.
+A | 5 x 2,70 o similar. | 38,65 | 12,89 | 64,41 | 25,76
+B | 6 x 3,17 o similar. | 51,52 | 19,32 | 77,28 | 38,65
+Otras tarifas: Diaria = 6,44 euros/día.
+Se entiende por tarifa normal-general la que es aplicable a embarcaciones amarradas en el puerto con posterioridad al 1 de enero de 2001, o bien que antes no hubieran estado amarradas (excepto jubilados).
+Se entiende por tarifa reducida-general la que es aplicable a embarcaciones amarradas habitualmente en el puerto con anterioridad al 1 de enero de 2001 (excepto jubilados).
+Se entiende por tarifa reducida-jubilados la que es aplicable a embarcaciones amarradas en el puerto con anterioridad a 1 de enero de 2001 y son propiedad de personas jubiladas.
 Se entiende por tarifa normal-jubilados la aplicable por ostentar tal condición y no cumpla la condición para la tarifa reducida-jubilados.
-En caso de que las medidas entre «fingers» no coincidan con las indicadas anteriormente se aplicará la tarifa con cuyas medidas guarde más similitud.
+En caso de que las medidas entre «fingers» no coincidan con las indicadas anteriomente se aplicará la tarifa con cuyas medidas guarde más similitud.
 Si por las necesidades del servicio una embarcación ocupa una plaza de dimensión superior a lo que, por su eslora, le correspondería, la tarifa a aplicar sería esta última.
-Sexta: El abono de la tarifa para embarcaciones de paso en el puerto por servicios e instalaciones del Gobierno de Cantabria, se efectuará según sigue:
-Por adelantado a la llegada y por los días de estancia que declaren; si dicho plazo tuviere que ser superado, el usuario deberá formular nueva petición y abonar nuevamente por adelantado el importe inherente al plazo prorrogado. Se aplicará a estas embarcaciones la tarifa que corresponda, afectada por el coeficiente 1,2: salvo en caso de atraque en pantalán en cuyo caso se aplicará una tarifa de 6,25 euros al día, afectada por el coeficiente 1,0.
-a) A flote: 0,052525 euros.
+Sexta. El abono de la tarifa para embarcaciones de paso en el puerto por servicios e instalaciones del Gobierno de Cantabria, se efectuará según sigue:
+Por adelantado, a la llegada y por los días de estancia que declaren; si dicho plazo tuviere que ser superado, el usuario deberá formular nueva petición y abonar nuevamente por adelantado el importe inherente al plazo prorrogado. Se aplicará a estas embarcaciones la tarifa que corresponda, afectada por el coeficiente 1,2: salvo en caso de atraque en pantalán en cuyo caso se aplicará una tarifa de 6,44 euros al día, afectada por el coeficiente 1,0.
+a) A flote: 0,054101 euros.
 b) Atracado:
-b.1) de punta: 0,052525 euros.
-b.2) de costado: 0,300141 euros.
-c) Muerto o cadena de amarre: 0,014713 euros.
-d) Acometida de agua: 0,015006 euros.
-e) Vigilancia general: 0,015006 euros.
-f) En pantalán (diaria): 6,25 euros.
-Séptima: Para embarcaciones con base en el puerto se aplicará una bonificación del 20 por 100 (caso de tarifa general únicamente) si el usuario abona la tarifa por semestres adelantados y a través de domiciliación bancaria.
-a) A flote: 0,035017 euros.
+b.1) De punta: 0,054101 euros.
+b.2) De costado: 0,309145 euros.
+c) Muerto o cadena de amarre: 0,015154 euros.
+d) Acometida de agua: 0,015456 euros.
+e) Vigilancia general: 0,015456 euros.
+f) En pantalán (diaria): 6,44 euros.
+Séptima. Para embarcaciones con base en el puerto se aplicará una bonificación del 20 por 100 (caso de tarifa general únicamente) si el usuario abona la tarifa por semestres adelantados y a través de domiciliación bancaria.
+a) A flote: 0,036068 euros.
 b) Atracado:
-b.1) de punta: 0,035017 euros.
-b.2) de costado: 0,200093 euros.
-c) Muerto o cadena de amarre: 0,010004 euros.
-d) Acometida de agua: 0,010004 euros.
-e) Vigilancia general: 0,010004 euros.
+b.1) De punta: 0,036068 euros.
+b.2) De costado: 0,206096 euros.
+c) Muerto o cadena de amarre: 0,010304 euros.
+d) Acometida de agua: 0,010304 euros. e) Vigilancia general: 0,010304 euros.
 Todos los servicios deben ser solicitados al celador guardamuelles del puerto, aplicándose tarifa doble a los servicios obtenidos sin autorización, independientemente de la sanción que pueda proceder por infracción del Reglamento de servicio y policía del puerto.
 El abono de esta tarifa no releva de la obligación de desatracar la embarcación, de cambiar de lugar de amarre o de fondeo o, incluso, de abandonar el puesto si así fuere ordenado motivadamente por la autoridad competente. En este último supuesto no se tendrá más derecho que a la devolución del importe de la ocupación abonada por adelantado y no utilizada.
-Octava: El importe de la tarifa aplicable será independiente de las entradas, salidas o días de ausencia de la embarcación, mientras tenga asignado puesto de atraque.
-Novena: Las embarcaciones abarloadas a otras atracadas sin ningún punto de contacto o amarre a muelles o pantalanes abonarán el 50 por 100 de la tarifa aplicable a la embarcación a que esté abarloada, pero deberán contar naturalmente con la correspondiente autorización.
-Las embarcaciones abarloadas entre sí en pantalán, sin existencia de «fingers», abonarán el 70 % de la tarifa relativa a atraque en pantalanes.
+Octava. El importe de la tarifa aplicable será independiente de las entradas, salidas o días de ausencia de la embarcación, mientras tenga asignado puesto de atraque.
+Novena. Las embarcaciones abarloadas a otras atracadas sin ningún punto de contacto o amarre a muelles o pantalanes abonarán el 50 por 100 de la tarifa aplicable a la embarcación a que esté abarloada, pero deberán contar naturalmente con la correspondiente autorización.
+Las embarcaciones abarloadas entre sí en pantalán, sin existencia de «fingers», abonarán el 70 por 100 de la tarifa relativa a atraque en pantalanes.
 Tarifa T-6: Grúas.
 Esta tarifa comprende la utilización de grúas fijas, propiedad del Gobierno de Cantabria, que existen en sus puertos.
 La base para la liquidación de esta tarifa será el tiempo de utilización de la grúa que, a efectos de facturación, será entre la hora en la que se haya puesto a disposición del peticionario y la de terminación del servicio. La facturación se hará por horas completas y será abonada por el peticionario del servicio.
-La cuantía de la tarifa será de 37,52 euros por cada hora o fracción.
+La cuantía de la tarifa será de 38,65 euros por cada hora o fracción.
 Tarifa T-7: Almacenaje.
-Primera: Esta tarifa comprende la utilización de espacios, explanadas, cobertizos, tinglados, almacenes, locales y edificios, con sus servicios generales correspondientes, para el almacenaje de mercancías y vehículos. Se excluye la ocupación y utilización del dominio público portuario para llevar a cabo otras actividades que exijan el otorgamiento de las respectivas autorizaciones o concesiones.
+Primera.–Esta tarifa comprende la utilización de espacios, explanadas, cobertizos, tinglados, almacenes, locales y edificios, con sus servicios generales correspondientes, para el almacenaje de mercancías y vehículos. Se excluye la ocupación y utilización del dominio público portuario para llevar a cabo otras actividades que exijan el otorgamiento de las respectivas autorizaciones o concesiones.
 Los espacios destinados a depósito y almacenamiento de mercancías y otros elementos se clasifican, de un modo general, en dos zonas:
 a) Zona de tránsito.
 b) Zona de almacenamiento.
@@ -714,101 +722,101 @@ Por zona de tránsito se entiende la que limita con la zona de maniobras y se ex
 La zona de almacenamiento es la formada por todas las explanadas, tinglados o almacenes situados en la zona de servicio del puerto, fuera de las zonas de maniobras y de tránsito.
 La zona de maniobra inmediata a los atraques de los barcos no es zona de depósito de mercancías, salvo excepciones con previa y explícita autorización del Jefe del Servicio de Puertos.
 La identificación y extensión de cada una de estas zonas en los distintos muelles se determinarán por el Jefe del Servicio de Puertos.
-Segunda: La tarifa será abonada por los peticionarios del servicio, siendo responsables subsidiarios del pago los propietarios de las mercancías almacenadas y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho a éstos provisión de fondos.
-Tercera: Esta tarifa se aplicará al producto de la superficie ocupada por el tiempo reservado. El Servicio de Puertos podrá aplicar una franquicia de dos días como máximo para las mercancías que embarcan o desembarcan con medios rodantes; para el resto, dicha franquicia de dos días será obligatoria. La cuantía será fijada por el Jefe del Servicio de Puertos, respetando los siguientes mínimos:
-a) Zona de tránsito: La cuantía mínima será de 0,018759 euros por metro cuadrado y día. Los coeficientes de progresividad a aplicar serán los siguientes: Primero al décimo día, 1; undécimo al trigésimo día, 4; trigésimo primero al sexagésimo día, 8, y más de setenta días, 16.
-b) Zona de almacenamiento: La cuantía será fijada por el Servicio de Puertos, teniendo en cuenta el precio de mercado, y será siempre superior a 0,013131 euros por metro cuadrado y día.
-En ambas zonas la cuantía establecida en los párrafos anteriores se incrementará, como mínimo, según los casos, en 0,025011 euros por metro cuadrado y día, cuando la superficie esté cubierta y abierta, y en 0,037518 euros por metro cuadrado y día, cuando la superficie esté cubierta y cerrada.
-Cuarta: El almacenaje se contará desde el día para el que se haya hecho la reserva hasta que la mercancía deje la superficie libre.
-Quinta: La forma de medir los espacios ocupados por las mercancías o vehículos será por el rectángulo circunscrito exteriormente a la partida total de mercancías o elementos depositados, definido de forma que dos de sus lados sean paralelos al cantil del muelle, redondeando el número de metros cuadrados que resulte para obtener el número inmediato sin decimales. De análoga forma se procederá en tinglados y almacenes, sirviendo de referencia los lados de ellos.
-Sexta: El Servicio de Puertos no responderá de los robos, siniestros ni deterioros que puedan sufrir las mercancías.
-Séptima: Las bases para la liquidación de esta tarifa en el caso de locales, edificios o almacenillos será la superficie ocupada y los días de ocupación.
+Segunda.–La tarifa será abonada por los peticionarios del servicio, siendo responsables subsidiarios del pago los propietarios de las mercancías almacenadas y, en su defecto, sus representantes autorizados, salvo que prueben haber hecho a éstos provisión de fondos.
+Tercera.–Esta tarifa se aplicará al producto de la superficie ocupada por el tiempo reservado. El Servicio de Puertos podrá aplicar una franquicia de dos días como máximo para las mercancías que embarcan o desembarcan con medios rodantes; para el resto, dicha franquicia de dos días será obligatoria. La cuantía será fijada por el Jefe del Servicio de Puertos, respetando los siguientes mínimos:
+a) Zona de tránsito: La cuantía mínima será de 0,019322 euros por metro cuadrado y día. Los coeficientes de progresividad a aplicar serán los siguientes: Primero al décimo día, 1; undécimo al trigésimo día, 4; trigésimo primero al sexagésimo día, 8, y más de setenta días, 16.
+b) Zona de almacenamiento: La cuantía será fijada por el Servicio de Puertos, teniendo en cuenta el precio de mercado, y será siempre superior a 0,013525 euros por metro cuadrado y día.
+En ambas zonas la cuantía establecida en los párrafos anteriores se incrementará, como mínimo, según los casos, en 0,025761 euros por metro cuadrado y día, cuando la superficie esté cubierta y abierta, y en 0,038644 euros por metro cuadrado y día, cuando la superficie esté cubierta y cerrada.
+Cuarta.–El almacenaje se contará desde el día para el que se haya hecho la reserva hasta que la mercancía deje la superficie libre.
+Quinta.–La forma de medir los espacios ocupados por las mercancías o vehículos será por el rectángulo circunscrito exteriormente a la partida total de mercancías o elementos depositados, definido de forma que dos de sus lados sean paralelos al cantil del muelle, redondeando el número de metros cuadrados que resulte para obtener el número inmediato sin decimales. De análoga forma se procederá en tinglados y almacenes, sirviendo de referencia los lados de ellos.
+Sexta.–El Servicio de Puertos no responderá de los robos, siniestros ni deterioros que puedan sufrir las mercancías.
+Séptima.–Las bases para la liquidación de esta tarifa en el caso de locales, edificios o almacenillos será la superficie ocupada y los días de ocupación.
 Las cuantías de las tarifas de ocupación serán las siguientes:
 a) Para depósito de artes y pertrechos de los armadores de embarcaciones de pesca:
-Planta baja de los almacenillos: 0,025011 euros por metro cuadrado y día.
-Cabrete de fábrica en aquellos almacenillos que lo tengan o terraza accesible habilitada para depósito: 0,009379 euros por metro cuadrado y día.
+Planta baja de los almacenillos: 0,025761 euros por metro cuadrado y día.
+Cabrete de fábrica en aquellos almacenillos que lo tengan o terraza accesible habilitada para depósito: 0,009660 euros por metro cuadrado y día.
 b) Para otras utilizaciones:
-Planta baja de edificio: 0,050024 euros por metro cuadrado y día.
-Cabrete de fábrica en los almacenillos que lo tengan o terraza accesible habilitada para depósito: 0,025011 euros por metro cuadrado y día.
+Planta baja de edificio: 0,051525 euros por metro cuadrado y día.
+Cabrete de fábrica en los almacenillos que lo tengan o terraza accesible habilitada para depósito: 0,025761 euros por metro cuadrado y día.
 Tarifa T-8: Suministros.
-Primera: Esta tarifa comprende el valor del agua, energía eléctrica, etc., entregados por el Servicio de Puertos a los usuarios dentro de la zona portuaria.
-Segunda: La base para la liquidación de esta tarifa será el número de unidades suministradas.
-Tercera: La tarifa de agua se devengará con arreglo a la medición que señalen los contadores existentes en las aguadas, y se entiende para suministros mínimos de 5 metros cúbicos.
+Primera.–Esta tarifa comprende el valor del agua, energía eléctrica, etc., entregados por el Servicio de Puertos a los usuarios dentro de la zona portuaria.
+Segunda.–La base para la liquidación de esta tarifa será el número de unidades suministradas.
+Tercera.–La tarifa de agua se devengará con arreglo a la medición que señalen los contadores existentes en las aguadas, y se entiende para suministros mínimos de 5 metros cúbicos.
 Los suministros de energía eléctrica se prestarán previa petición, por escrito, de los usuarios, haciendo constar la potencia de alumbrado que precisa, el número de máquinas o herramientas y características de las que precisan la energía y la hora de iniciación de la prestación.
 Las cuantías de esta tarifa serán las siguientes:
-Por metro cúbico de agua suministrado o fracción: 0,681569 euros.
-Por kilovatio por hora de energía eléctrica o fracción: 0,375175 euros.
+Por metro cúbico de agua suministrado o fracción: 0,702016 euros.
+Por kilovatio por hora de energía eléctrica o fracción: 0,386430 euros.
 Tarifa T-9: Servicios diversos.
-Primera: Esta tarifa comprende cualesquiera otros servicios prestados en régimen de gestión directa por el Servicio de Puertos no enumerados en las restantes tarifas.
-Segunda: Son normas generales de ocupación de rampas y carros de varada las siguientes:
+Primera.–Esta tarifa comprende cualesquiera otros servicios prestados en régimen de gestión directa por el Servicio de Puertos no enumerados en las restantes tarifas.
+Segunda.–Son normas generales de ocupación de rampas y carros de varada las siguientes:
 El plazo de permanencia máxima de la embarcación en la instalación será fijado por el Ingeniero Jefe del Servicio de Puertos, a la vista de los datos contenidos en la solicitud formulada por el peticionario. Si cumplido este plazo sigue la instalación ocupada, la tarifa se incrementará en un 10 por 100 el primer día que exceda del plazo autorizado; en un 20 por 100 el segundo día; en un 30 por 100 el tercero, y así sucesivamente.
-Los peticionarios deberán depositar una fianza de 0,613032 euros. por metro de eslora. Las embarcaciones propiedad del Estado o de las Comunidades Autónomas no precisarán fianza.
-Tercera: Son sujetos pasivos obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
+Los peticionarios deberán depositar una fianza de 0,631423 euros por metro de eslora. Las embarcaciones propiedad del Estado o de las Comunidades Autónomas no precisarán fianza.
+Tercera.–Son sujetos pasivos obligados al pago de esta tarifa los usuarios de los correspondientes servicios.
 Cuarta.–Tarifa T-9.1: Ocupación de los carros de varada.
-a) Por subida, estancia durante las primeras 24 horas (2 mareas) y bajada 49,75 euros.
-b) Por estancia durante las segundas 24 horas (dos mareas) 26,43 euros.
-c) Por estancia durante las terceras 24 horas (dos mareas) 37,01 euros.
-Por estancia durante las cuartas 24 horas (dos mareas) 52,86 euros.
-e) Por estancia durante cada 24 horas siguientes 78,29 euros.
+a) Por subida, estancia durante las primeras 24 horas (2 mareas) y bajada: 51,24 euros.
+b) Por estancia durante las segundas 24 horas (dos mareas): 27,22 euros.
+c) Por estancia durante las terceras 24 horas (dos mareas) 38,12 euros.
+Por estancia durante las cuartas 24 horas (dos ma-reas): 54,45 euros.
+e) Por estancia, durante cada 24 horas siguientes: 80,64 euros.
 Quinta.–Tarifa T-9.2: Ocupación de las rampas de varada.
 La cuantía por ocupación parcial de las rampas de varada, por día o fracción, será:
-a) Por cada día o fracción a pinazas, gabarras, embarcaciones para servicio del Puerto y buques de comercio. 3,67 euros.
-b) Por cada día o fracción a buques de pesca con cubierta y embarcaciones de recreo con motor. 1,83 euros.
-c) Por cada día o fracción a buques sin cubierta y embarcaciones de recreo sin motor 0,500 euros.
+a) Por cada día o fracción a pinazas, gabarras, embarcaciones para servicio del Puerto y buques de comercio: 3,78 euros.
+Por cada día o fracción a buques de pesca con cubierta y embarcaciones de recreo con motor: 1,88 euros.
+c) Por cada día o fracción a buques sin cubierta y embarcaciones de recreo sin motor: 0,515 euros.
 Sexta.–Tarifa T-9.3: Básculas:
-La cuantía será de 1,88 euros por cada pesada.
+La cuantía será de 1,94 euros por cada pesada.
 Séptima.–Tarifa T-9.4: Aparcamiento o estacionamiento de vehículos:
-La cuantía por estacionamiento de un camión o vehículo industrial en los aparcamientos destinados a este fin será de 4,85 euros.
+La cuantía por estacionamiento de un camión o vehículo industrial en los aparcamientos destinados a este fin será de 5,00 euros.
 4. Tasa por servicios prestados para la concesión de autorizaciones de obras por el Servicio de Carreteras.
 Hecho Imponible.–Constituye el hecho imponible de la presente tasa, toda actuación de la Consejería de Obras Públicas y Vivienda conducente al otorgamiento de la licencia necesaria para la realización de obras, instalaciones, edificaciones, cierres y cualquier otra actividad en los terrenos situados dentro de las Zonas de Influencia de las carreteras pertenecientes a la Red Viaria de la Comunidad Autónoma de Cantabria de acuerdo con la definición que de dichas Zonas de Influencia se contiene en la Ley de Cantabria 5/1996, de carreteras de Cantabria.
-Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a nombre de las cuales se solícita la licencia.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del articulo 35.4 de la Ley General Tributaria a nombre de las cuales se solícita la licencia.
 Exenciones.–Están exentos del pago de esta tasa los Entes Públicos Territoriales e Institucionales.
 Devengo.–La tasa se devengará en el momento de solicitarse la licencia.
 Tarifas.–La tasa se exigirá de acuerdo con las cantidades establecidas en las siguientes tarifas:
 Tarifa 1. Nuevas edificaciones y obras de nueva construcción.
-Tasa mínima por autorizaciones para construcciones de obra de los apartados a), b), c) y d) siguientes: 37,52 euros.
+Tasa mínima por autorizaciones para construcciones de obra de los apartados a), b), c) y d) siguientes: 38,65 euros.
 a) Autorización para la construcción de pasos salvacunetas para peatones y vehículos, aceras, muros de contención y/o de cerramientos de hierros, sillería, piedra ladrillo y otros materiales de clase análoga o superior:
-Por cada metro lineal o fracción totalmente ocupada a partir de 6 metros lineales, 4,689698 euros.
+Por cada metro lineal o fracción totalmente ocupada a partir de 6 metros lineales: 4,830389 euros.
 b) Autorización para la construcción de cerramientos provisionales con materiales de clase inferior como alambre, estacas u otros elementos análogos o similares:
-Por cada metro lineal o fracción a partir de 30 metros lineales, 0,937939 euros.
+Por cada metro lineal o fracción a partir de 30 metros lineales: 0,966077 euros.
 c) Autorización para la construcción y ampliación de edificios destinados a viviendas, oficinas y comercios, construcciones de naves, casetas para transformadores, naves industriales, almacenes y garajes y otros similares:
-Por cada metro lineal de fachada y por cada planta a la vía regional a partir de cuatro metros lineales: 9,379396 euros.
+Por cada metro lineal de fachada y por cada planta a la vía regional a partir de cuatro metros lineales: 9,660778 euros.
 d) Autorización para la construcción de nuevo acceso a la vía regional en función de la potencial afección del mismo a la seguridad vial.
-Accesos de anchura de la plataforma de la vía que accede menor o igual a cuatro metros: 156,33 euros.
-Accesos de anchura de la plataforma de la vía que accede de cuatro a siete metros: 312,65 euros.
-Accesos de anchura de la plataforma de la vía que accede de más de siete metros: 625,29 euros.
+Accesos de anchura de la plataforma de la vía que accede menor o igual a cuatro metros: 161,02 euros.
+Accesos de anchura de la plataforma de la vía que accede de cuatro a siete metros: 322,03 euros.
+Accesos de anchura de la plataforma de la vía que accede de más de siete metros: 644,05 euros.
 Tarifa 2. Obras de conservación y reparación.
-Tasa mínima por autorizaciones para reparaciones y conservación de obras de los apartados a), b) y c) siguientes: 25,01 euros.
+Tasa mínima por autorizaciones para reparaciones y conservación de obras de los apartados a), b) y c) siguientes: 25,76 euros.
 a) Autorizaciones para reparación o modificación esencial de huecos de fachadas, reformas y reparación de edificios, entendiendo por tales las que afecten a partes esenciales de los mismos, como travesías, entramados horizontales o cubiertas, obras de revoco y retejado, la suma, en su caso, de las siguientes:
-Por cada hueco, a partir de cinco huecos: 3,751758 euros.
-Por cada metro lineal de fachada y por cada planta a la vía regional a partir de 10 metros lineales: 1,875879 euros.
+Por cada hueco, a partir de cinco huecos: 3,864311 euros.
+Por cada metro lineal de fachada y por cada planta a la vía regional a partir de 10 metros lineales: 1,932155 euros.
 b) Autorización para la reparación del grupo a), tarifa 1 anterior:
-Por cada metro lineal o fracción a partir de 6 metros lineales: 1,875879 euros.
+Por cada metro lineal o fracción a partir de 6 metros lineales: 1,932155 euros.
 c) Autorización para la reparación del grupo b), tarifa 1 anterior:
-Por cada metro lineal o fracción a partir de 30 metros lineales: 0,625293 euros.
+Por cada metro lineal o fracción a partir de 30 metros lineales: 0,644052 euros.
 d) Autorización para la reparación del grupo d), tarifa 1 anterior:
-Accesos de anchura de la plataforma de la vía que accede menor o igual a 4 metros: 62,53 euros.
-Accesos de anchura de la plataforma de la vía que accede de 4 a 7 metros: 125,05 euros.
-Accesos de anchura de la plataforma de la vía que accede de más de 7 metros: 156,33 euros.
+Accesos de anchura de la plataforma de la vía que accede menor o igual a 4 metros: 64,41 euros.
+Accesos de anchura de la plataforma de la vía que accede de 4 a 7 metros: 128,80 euros.
+Accesos de anchura de la plataforma de la vía que accede de más de 7 metros: 161,02 euros.
 Tarifa 3. Instalaciones y canalizaciones.
-«Autorizaciones previas condicionadas» para instalación de estaciones de servicio y otro tipo de instalación que requieran crear o utilizar un acceso de la carretera: 312,65 euros.
-Tasa mínima por autorización para instalaciones y canalizaciones de los apartados a), b), c), d), e), f) y g) siguientes: 34,39 euros.
+«Autorizaciones previas condicionadas» para instalación de estaciones de servicio y otro tipo de instalación que requieran crear o utilizar un acceso de la carretera: 322,03 euros.
+Tasa mínima por autorización para instalaciones y canalizaciones de los apartados a), b), c), d), e), f) y g) siguientes: 35,42 euros.
 a) Autorización para instalación de aparatos distribuidores de gasolina o lubricantes, depósitos, gas butano e instalaciones análogas desde el punto de vista de afección a la carretera:
-Por cada metro cuadrado de superficie total ocupada dentro de la zona de influencia a partir de los 3 metros cuadrados: 9,379396 euros.
+Por cada metro cuadrado de superficie total ocupada dentro de la zona de influencia a partir de los 3 metros cuadrados: 9,660778 euros.
 b) Autorización para instalaciones de postes o soportes de alumbrado o transportes de energía eléctrica, líneas telefónicas, cortes con destino al tendido aéreo de conductores de energía y otras análogas:
-Por cada poste o elementos a partir de tres postes: 12,505860 euros.
+Por cada poste o elementos a partir de tres postes: 12,881036 euros.
 c) Autorización para la apertura de zanjas para la colocación de conductores de líquidos para abastecimientos, alcantarillados, riegos y drenajes, y para nuevas conducciones de energía eléctrica, líneas de comunicación, gas, etc.:
-Por cada metro lineal de conducción transversal a la calzada a partir de los 4 metros lineales: 12,505860 euros.
-Por cada metro lineal de conducción longitudinal a la calzada a partir de 20 metros lineales: 1,875879 euros.
+Por cada metro lineal de conducción transversal a la calzada a partir de los 4 metros lineales: 12,881036 euros.
+Por cada metro lineal de conducción longitudinal a la calzada a partir de 20 metros lineales: 1,932155 euros.
 d) Autorización por apertura de pozos, sondeos, etc.:
-Por cada unidad a partir de una: 37,52 euros.
+Por cada unidad a partir de una: 38,65 euros.
 e) Autorización de canteras y yacimientos de toda clase, renovables cada año:
-Para extracción anual igual o inferior a 100 metros cúbicos y por cada año: 68,78 euros.
-Para extracción anual superior a 100 metros cúbicos y por cada año: 162,58 euros.
+Para extracción anual igual o inferior a 100 metros cúbicos y por cada año: 70,84 euros.
+Para extracción anual superior a 100 metros cúbicos y por cada año: 167,46 euros.
 f) Autorización de ocupación temporal de aceras, arcenes y/o terrenos en la zona de dominio público con instalaciones provisionales de cualquier tipo:
-Por cada metro cuadrado o fracción ocupada y por cada año, en su caso, a partir de 4 metros cuadrados: 6,252930 euros.
+Por cada metro cuadrado o fracción ocupada y por cada año, en su caso, a partir de 4 metros cuadrados: 6,440518 euros.
 g) Autorización de talas:
-Por cada metro lineal o fracción de zona de tala en línea paralela a la vía a partir de 10 metros lineales: 1,88 euros.»
+Por cada metro lineal o fracción de zona de tala en línea paralela a la vía a partir de 10 metros lineales: 1,94 euros.»
 5. Tasa por otras actuaciones del Servicio de Carreteras.
 Hecho imponible.–Constituye el hecho imponible de esta tasa la redacción de informes, la realización de trabajos de campo para deslindes, inspección de obras, levantamiento de actas, expedición de certificación final, entrega de planos o redacción de documentos comprensivos de la actuación efectuada, y todo ello por personal del Servicio de Carreteras, siempre que sean de solicitud o recepción obligatoria para los administrados, y no puedan prestarse por el sector privado, y no constituyan un trámite de la tasa por servicios prestados para la concesión de licencias de obras por el Servicio de Carreteras.
 Sujeto pasivo.–Son sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria que soliciten o sean destinatarias de la actuación del Servicio de Carreteras.
@@ -817,11 +825,11 @@ Exenciones.–Están exentos del pago de esta tasa:
 2. El personal al servicio de la Comunidad Autónoma por los servicios relativos al desarrollo de sus funciones.
 Devengo.–La tasa se devengará en el momento de efectuar la solicitud, o al prestarse el servicio si no fuera precisa solicitud alguna.
 Tarifas:
-1. Si no fuera necesario tomar datos de campo: 18,76 euros.
+1. Si no fuera necesario tomar datos de campo: 19,32 euros.
 2. Si fuera necesario tomar datos de campo:
-2.1 Por el primer día: 50,02 euros.
-2.2 Por cada uno de los siguientes: 31,26 euros.
-3. En su caso, por cada mapa o plano: 6,25 euros.
+2.1 Por el primer día: 51,52 euros.
+2.2 Por cada uno de los siguientes: 32,20 euros.
+3. En su caso, por cada mapa o plano: 6,44 euros.
 Consejería de Ganadería, Agricultura y Pesca
 1. Tasa por ordenación y defensa de las industrias agrícolas, forestales y pecuarias.
 Hecho imponible.–Constituye el hecho imponible la realización por parte de la Consejería de Ganadería, Agricultura y Pesca de los servicios, trabajos y estudios enumerados a continuación, tendentes a ordenar y defender las industrias agrícolas, forestales, pecuarias y alimentarias de la Comunidad Autónoma de Cantabria, siempre que los servicios detallados sean de solicitud o recepción obligatoria para los administrados y no puedan realizarse por el sector privado.
@@ -833,28 +841,15 @@ d) Por inspección, comprobación y control de las industrias agrícolas, forest
 Sujeto pasivo.–Serán sujetos pasivos todas las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria que soliciten los servicios o para las que se realicen de oficio los trabajos o estudios sujetos a gravamen.
 Devengo.–El devengo se producirá en el momento de presentarse la solicitud de la actividad administrativa. Si no se precisara de solicitud, la tasa se devengará al efectuarse por la Administración el trabajo, servicio o estudio.
 Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
-Tarifa 1. Instalación o ampliación de industrias.-Importe de la instalación o ampliación:
-Hasta 3.005,06 euros: 45,08 euros.
-De 3.005,06 a 6.010,12 de euros: 51,09 euros.
+Tarifa 1. Instalación o ampliación de industrias.–Importe de la instalación o ampliación:
+Hasta 6.010,12 euros: 60,00 euros.
 Por 6.010,12 euros adicionales o fracción: 15,03 euros.
 Tarifa 2. Traslado de industrias.–Valor de la instalación:
-Hasta 3.005,06 euros: 27,05 euros.
-De 3.005,06 a 6.010,12 euros: 33,06 euros.
+Hasta 6.010,12 euros: 40,00 euros.
 Por cada 6.010,12 euros adicionales o fracción: 9,92 euros.
-Tarifa 3. Sustitución de maquinaria.–Valor de la maquinaria incorporada:
-Hasta 3.005,06 euros: 9,02 euros.
-De 3.005,06 a 6.010,12 de euros: 15,03 euros.
-Por cada 6.010,12 euros adicionales o fracción: 4,81 euros.
-Tarifa 4. Cambio de titularidad de la industria.–Valor de la instalación:
-Hasta 3.005,06 euros: 9,02 euros.
-De 3.005,06 a 6.010,12 de euros: 15,03 euros.
+Tarifa 3. Cambio de titularidad de la industria.–Valor de la instalación:
+Hasta 6.010,12 euros: 30,00 euros.
 Por cada 6.010,12 euros adicional o fracción: 1,50 euros.
-Tarifa 5. Acta de puesta en marcha de industrias de temporada.–Valor de instalación:
-Hasta 3.005,06 euros: 6,01 euros.
-De 3.005,06 a 6.010,12 de euros: 9,02 euros.
-Por cada 6.010,12 euros adicional o fracción: 1,50 euros.
-Tarifa 6. Visitas de inspección, comprobación y control con expediente de modificación:
-Por cada visita: 18,76 euros.
 2. Tasa por gestión técnico-facultativa de los Servicios Agronómicos.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa la realización por los Servicios Agronómicos de la Consejería de Ganadería, Agricultura y Pesca de las actividades enumeradas en las tarifas, si tales servicios resultan de solicitud o recepción obligatoria para los administrados y además no pueden prestarse por el sector privado.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios o trabajos referidos en las tarifas.
@@ -862,18 +857,18 @@ Devengo.–Si el servicio se presta a instancia de parte, la tasa se devengará 
 Tarifas:
 Tarifa 1.
 1. Por ensayos autorizados por la Consejería de Ganadería, Agricultura y Pesca de productos o especialidades fitosanitarias y enológicas, así como los que preceptivamente han de efectuarse para la inscripción de variedades de plantas, incluidas la redacción de dictamen facultativo, censura de la propaganda y los derechos de inscripción en el Registro correspondiente, se aplicarán las siguientes tarifas:
-a) Productos fitosanitarios: 31.26 euros.
-b) Ensayos para inscripción de variedades de plantas: 21,89 euros.
+a) Productos fitosanitarios: 32,20 euros.
+b) Ensayos para inscripción de variedades de plantas: 22,55 euros.
 Por la inscripción en los Registros oficiales:
-a) Con Inspección facultativa: 15,00 euros.
-b) Sin Inspección facultativa: 7,00 euros.
-3. Por los informes facultativos de carácter económico-social o técnico que no estén previstos en los aranceles: 15,62 euros, que se reducirán en un 50 por 100 si el peticionario es una Entidad agropecuaria de carácter no lucrativo.
-4. Expedición de duplicados de certificados de inscripción en Registros Oficiales: 14,00 euros
+a) Con Inspección facultativa: 15,45 euros.
+b) Sin Inspección facultativa: 7,21 euros.
+3. Por los informes facultativos de carácter económico-social o técnico que no estén previstos en los aranceles: 16,09 euros, que se reducirán en un 50 por 100 si el peticionario es una Entidad agropecuaria de carácter no lucrativo.
+4. Expedición de duplicados de certificados de inscripción en Registros Oficiales: 14,42 euros.
 5. Levantamiento de actas por personal facultativo o técnicos agronómicos:
-a) Sin toma de muestras: 8,00 euros.
-b) Con toma de muestras 8,00 euros. Esta tarifa se incrementará con el valor del análisis de la misma.
+a) Sin toma de muestras: 8,24 euros.
+b) Con toma de muestras 8,24 euros. Esta tarifa se incrementará con el valor del análisis de la misma.
 Tarifa 2.
-Por expedición de carné de aplicador de plaguicidas por cinco años: 12,00 euros.
+Por expedición de carnet de aplicador de plaguicidas por cinco años: 12,36 euros.
 3. Tasa por prestación de servicios facultativos veterinarios.
 Hecho imponible.–Constituye el hecho imponible la prestación por la Consejería de Ganadería, Agricultura y Pesca de los servicios y trabajos enumerados en las tarifas, si los efectúa sin concurrencia del sector privado, y los servicios son de solicitud o recepción obligatoria para los administrados.
 Sujeto pasivo.–Están obligados al pago de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios recogidos en las tarifas.
@@ -883,43 +878,43 @@ Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
 Tarifa 1.
 Por los trabajos y gastos de desinfección y desinsectación de vehículos utilizados en el transporte de ganado por carretera, explotaciones pecuarias, locales destinados a ferias, mercados, concursos, exposiciones y demás lugares donde se alberguen o contraten ganados o materias contumaces a petición de parte, y cuando se realicen por los Servicios dependientes de la Dirección General de Ganadería:
 Por vehículo:
-Hasta 4 toneladas un solo piso: 1,38 euros.
-Hasta 4 toneladas, dos o más pisos: 2,06 euros.
-De 4 toneladas en adelante, un solo piso: 1,38 euros.
-De 4 toneladas en adelante, dos o más pisos: 2,97 euros.
-Por jaula o cajón para res de lidia: 0,468 euros.
-Por jaula o cajón para aves: 0,124 euros.
-Locales o albergues de ganado, por metro cuadrado de superficie: 0,021885 euros.
+Hasta 4 toneladas, un solo piso: 1,42 euros.
+Hasta 4 toneladas, dos o más pisos: 2,12 euros.
+De 4 toneladas en adelante, un solo piso: 1,42 euros.
+De 4 toneladas en adelante, dos o más pisos: 3,06 euros.
+Por jaula o cajón para res de lidia: 0,482 euros.
+Por jaula o cajón para aves: 0,128 euros.
+Locales o albergues de ganado, por metro cuadrado de superficie: 0,022542 euros.
 Tarifa 2.
-Expedición de certificados, visados de facturas, comprobación de cupos de materias primas y demás trámites de carácter administrativo que precisen informes y consultas o búsqueda de documentos en archivos oficiales 10,00 euros.
+Expedición de certificados, visados de facturas, comprobación de cupos de materias primas y demás trámites de carácter administrativo que precisen informes y consultas o búsqueda de documentos en archivos oficiales 10,30 euros.
 Tarifa 3.
-1.a) Por la prestación de servicios de análisis bacteriológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos interviniendo un departamento: 3,38 euros.
-1.b) Por la prestación de servicios de análisis bacteriológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos interviniendo más de un departamento: 6.74 euros.
-2. Por la prestación de servicios de análisis bacteriológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos correspondientes a programas o actuaciones oficiales nacionales o autonómicos de 0,94 euros por muestra.
+1.a) Por la prestación de servicios de análisis bactereológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos (Agroalimentarios) y Moleculares interviniendo un departamento: 3,48 euros.
+1.b) Por la prestación de servicios de análisis bactereológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos (Agroalimentarios) y Moleculares, interviniendo más de un departamento: 6,94 euros.
+2. Por la prestación de servicios de análisis bactereológicos, virológicos, serológicos, histológicos, clínicos, bromatológicos, instrumentales y fisioquímicos (Agroalimentarios) y Moleculares correspondientes a programas o actuaciones oficiales nacionales o autonómicos de 0,97 euros por muestra.
 Esta tarifa estará exenta si así lo establecen los programas o actuaciones nacionales o autonómicas.
 Tarifa 4.
-Certificado sanitario de traslado: 3,75 euros.
+Certificado sanitario de traslado: 3,86 euros.
 Tarifa 5.
-Reposición marca auricular para identificación animal según normativa vigente: 3,75 euros.
+Reposición marca auricular para identificación animal según normativa vigente: 3,86 euros.
 Tarifa 6.
 Inspección facultativa veterinaria a petición de parte para la comprobación de situación sanitaria o identificación de animales, para verificación del cumplimiento de los requisitos de autorización de centros o establecimientos:
-6.1 Explotaciones Ganaderas: 12,00 euros.
-6.2 Otros Centros: 30,00 euros.
+6.1 Explotaciones Ganaderas: 12,36 euros.
+6.2 Otros Centros: 30,90 euros.
 Tarifa 7.
 Inscripción o actualización en el registro de explotaciones ganaderas, vehículos de transporte de ganado y otro centros ganaderos:
-1. Sin inspección veterinaria: 15,00 euros.
-2. Con inspección veterinaria para comprobación de requisitos de autorización: 27,33 euros.
+1. Sin inspección veterinaria: 15,45 euros.
+2. Con inspección veterinaria para comprobación de requisitos de autorización: 28,15 euros.
 Tarifa 8.
-Por expedición de Documentos de Identificación o calificación sanitaria: 3,75 euros.
+Por expedición de Documentos de Identificación o calificación sanitaria: 3,86 euros.
 Tarifa 9.
-Solicitud de Inscripción o modificación en registro de animales de compañía o vehículos destinados a su transporte: 3,75 euros.
+Solicitud de Inscripción o modificación en registro de animales de compañía o vehículos destinados a su transporte: 3,86 euros.
 Tarifa 10.
-Expedición y actualización de la cartilla ganadera para la confección del mapa epizootológico: 0,78 euros por el importe del impreso con validez periódica de dos años.
+Expedición y actualización de la cartilla ganadera para la confección del mapa epizootológico: 0,80 euros por el importe del impreso con validez periódica de dos años.
 Tarifa 11.
 Recogida y mantenimiento de animales sin documentación sanitaria insuficientemente identificados o que supongan un riesgo para la salud pública o la sanidad animal.
-1. Por Recogida: 115 euros.
-2. Por mantenimiento (Coste diario): 195 euros.
-3. Por sacrificio: 60 euros.
+1. Por recogida: 118,45 euros.
+2. Por mantenimiento (Coste diario): 200,85 euros.
+3. Por sacrificio: 61,80 euros.
 4. Tasa por pesca marítima.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación por la Consejería de Ganadería, Agricultura y Pesca de los servicios enumerados a continuación:
 Expedición del carné de mariscador.
@@ -933,27 +928,25 @@ Autorización de instalaciones y establecimientos de marisqueo y acuicultura, as
 Expedición de certificados relacionados con establecimientos de marisqueo, acuicultura y algas.
 Expedición de autorizaciones para la pesca de angula.
 En ningún caso tendrán la consideración de tasas los cánones satisfechos por la utilización privativa del dominio público.
-Sujeto pasivo.–En los supuestos 1, 2 y 3 las personas físicas o jurídicas que soliciten los carnés o licencias, en los supuestos 4 y 5, las personas físicas o jurídicas que expidan la mercancía a transportar. En el resto de los supuestos las personas físicas o jurídicas a nombre de las cuales se expidan las concesiones o autorizaciones, sean titulares de las instalaciones o establecimientos inspeccionados o comprobados, o soliciten la expedición de certificados.
+Sujeto pasivo.–En los supuestos 1, 2 y 3, las personas físicas o jurídicas que soliciten los carnés o licencias, en los supuestos 4 y 5, las personas físicas o jurídicas que expidan la mercancía a transportar. En el resto de los supuestos las personas físicas o jurídicas a nombre de las cuales se expidan las concesiones o autorizaciones, sean titulares de las instalaciones o establecimientos inspeccionados o comprobados, o soliciten la expedición de certificados.
 Devengo.–La tasa se devengará al solicitarse la expedición de los carnés, licencias, guías, autorizaciones, concesiones y certificados, y al realizarse la comprobación o inspección en el resto de los casos.
 Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
 Tarifa 1.
 Expedición del carné de mariscador:
-Carné de primera clase, para mariscar a flote y a pie: 4,13 euros.
-Carné de segunda clase, para mariscar a pie: 4,13 euros.
+Carné de primera clase, para mariscar a flote y a pie: 4,25 euros.
+Carné de segunda clase, para mariscar a pie: 4,25 euros.
 Tarifa 2.
 Expedición de licencias de pesca marítima de recreo:
-Licencia de primera clase, para pescar desde embarcaciones, tanto en aguas interiores como fuera: 12,24 euros.
-Licencia de segunda clase, para pescar en apnea o pulmón libre: 12,24 euros.
-Esta tarifa estará sujeta a un descuento del 50% en el caso de solicitud de duplicado de las licencias de pesca marítima de recreo por pérdida o deterioro de la misma.
-Se expedirá este duplicado manteniendo el periodo de vigencia del original y haciendo constar en el documento dicha circunstancia.
+Licencia de primera clase, para pescar desde embarcaciones, tanto en aguas interiores como fuera: 12,61 euros.
+Licencia de segunda clase, para pescar en apnea o pulmón libre: 12,61 euros.
+Esta tarifa estará sujeta a un descuento del 50 por 100 en el caso de solicitud de duplicado de las licencias de pesca marítima de recreo por pérdida o deterioro de la misma. Se expedirá este duplicado manteniendo el periodo de vigencia del original y haciendo constar en el documento dicha circunstancia.
 Tarifa 3.
-Expedición de licencia de recogida de algas de arribazón:
-Licencia de recolector de arribazón (anual): 3,45 euros.
-Licencia para los barcos recolectores de arribazón (anual): 6,25 euros.
+Expedición de licencia de recogida de algas de arribazón: Licencia de recolector de arribazón (anual): 3,55 euros.
+Licencia para los barcos recolectores de arribazón (anual): 6,44 euros.
 Tarifa 4.
-Expedición de guías de transporte y circulación de marisco: 0,312 euros.
+Expedición de guías de transporte y circulación de marisco: 0,321 euros.
 Tarifa 5.
-Por despachar las guías de expedición y vales de circulación: 0,312 euros.
+Por despachar las guías de expedición y vales de circulación: 0,321 euros.
 Tarifa 6.
 Otorgamiento y tramitación de autorizaciones, o concesiones para marisqueo y extracción de algas, así como comprobaciones e inspecciones de las instalaciones efectuadas al amparo de concesión o autorización.
 Valor de la instalación:
@@ -961,83 +954,82 @@ Hasta 3.005,06 euros: 3,61 euros.
 De 3.005,07 a 6.010,12 de euros: 4,81 euros.
 De 6.010,13 a 12.020,24 de euros: 7,81 euros.
 Por cada 6.010,12 euros de más o fracción: 3,005061 euros.
-Comprobaciones e inspecciones: 9,38 euros.
+Comprobaciones e inspecciones: 9,66 euros.
 Tarifa 7.
-Expedición de autorizaciones para la pesca de angula, tanto deportiva como profesionalmente: 30,60 euros.
+Expedición de autorizaciones para la pesca de angula, tanto deportiva como profesionalmente: 31,52 euros.
 5. Tasa por la prestación de servicios de ejecución de trabajos en materia forestal.
 Hecho Imponible.–Constituye el hecho imponible de la tasa la realización por la Consejería de Ganadería, Agricultura y Pesca de los servicios o trabajos expresados en las tarifas cuando sean consecuencia de la tramitación de expedientes iniciados de oficio por la Administración o a instancia de parte, siempre que en este último caso el servicio resulte de solicitud o recepción obligatoria para los administrados.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que soliciten o a quienes se presten los servicios o trabajos sujetos a gravamen.
 Devengo.–La tasa se devengará en el momento en que se solicite la prestación del servicio o cuando se realice éste, si se produjera de oficio.
 Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
 Tarifa 1. Levantamiento de planos.
-Por el levantamiento de hasta seis puntos, incluso los auxiliares: 60 euros. Los puntos adicionales se devengarán a razón de 10 euros cada uno.
-La Tarifa incluye la entrega de un ejemplar del plano levantado de las características adecuadas a cada caso.
+Por el levantamiento de hasta seis puntos, incluso los auxiliares: 61,80 euros. Los puntos adicionales se devengarán a razón de 10,30 euros cada uno.
+La tarifa incluye la entrega de un ejemplar del plano levantado de las características adecuadas a cada caso.
 Tarifa 2. Replanteo de planos.
-Por el replanteo de hasta cuatro puntos: 60 euros. Los puntos adicionales se devengarán a razón de 15 euros cada uno.
+Por el replanteo de hasta cuatro puntos: 61,80 euros. Los puntos adicionales se devengarán a razón de 15,45 euros cada uno.
 Tarifa 3. Deslinde.
-Por el apeo de hasta cuatro piquetes, incluyendo el levantamiento topográfico y la confección de plano al efecto: 120 euros. Los piquetes adicionales se devengarán a razón de 30 euros cada uno.
+Por el apeo de hasta cuatro piquetes, incluyendo el levantamiento topográfico y la confección de plano al efecto: 123,60 euros. Los piquetes adicionales se devengarán a razón de 30,90 euros cada uno.
 Tarifa 4. Amojonamiento.
-Por la colocación de hasta 2 hitos: 120 euros. La tarifa comprende el replanteo del punto, si así fuera necesario.
+Por la colocación de hasta 2 hitos: 123,60 euros. La tarifa comprende el replanteo del punto, si así fuera necesario.
 Tarifa 5. Cubicación e inventario de existencias.
-Inventario de árboles en pie: 0,03 euros/m3.
-Inventario de existencias apeadas: El 5 por 100 del valor inventariado.
-Cálculo de corchos, resinas, frutos, etc.: 0,02 euros/pie.
-En todo caso se devengará un mínimo de 20 euros.
+Inventario de árboles en pie: 0,031 euros/m3.
+Inventario de existencias apeadas: El 5 por 100 del valor inventariado. Cálculo de corchos, resinas, frutos, etc.: 0,021 euros/pie.
+En todo caso se devengará un mínimo de 20,60 euros.
 Tarifa 6. Valoraciones.
-El 1 por 100 del valor, con un devengo mínimo de 60 euros.
-Tarifa 7. Señalamiento e inspección de concesiones y autorizaciones sobre dominio público forestal.
-a) Por el señalamiento de los terrenos concedidos: 2,00 euros/ha, con un devengo mínimo de 60 euros.
-b) Por la inspección anual del disfrute: el 5 por 100 del canon anual, con un devengo mínimo de 30 euros.
+El 1 por 100 del valor, con un devengo mínimo de 61,80 euros.
+Tarifa 7. Señalamiento e inspección de concesiones y autorizaciones sobre dominio público forestal:
+a) Por el señalamiento de los terrenos concedidos: 2,06 euros/ha, con un devengo mínimo de 61,80 euros.
+b) Por la inspección anual del disfrute: el 5 por 100 del canon anual, con un devengo mínimo de 30,90 euros.
 Tarifa 8. Informes.
-El 10 por 100 del importe de las tarifas que correspondan a la ejecución del servicio o trabajo que motiva el Informe, con un devengo mínimo de 60,00 euros.
+El 10 por 100 del importe de las tarifas que correspondan a la ejecución del servicio o trabajo que motiva el Informe, con un devengo mínimo de 61,80 euros.
 Tarifa 9. Señalamiento, inspección y entrega de aprovechamientos y disfrutes forestales en toda clase de montes.
 Maderas:
-Señalamiento: 0,20 euros/m3.
-Contada en blanco: 0,15 euros/m3.
-Reconocimiento final: 0,10 euros/m3.
+Señalamiento: 0,206 euros/m3.
+Contada en blanco: 0,155 euros/m3.
+Reconocimiento final: 0,103 euros/m3.
 Leñas:
-Señalamiento: 0,10 euros/estéreo.
-Reconocimiento final: 0,07 euros/estéreo.
+Señalamiento: 0,103 euros/estéreo.
+Reconocimiento final: 0,072 euros/estéreo.
 Corchos:
-Señalamiento: 0,05 euros/pie.
-Reconocimiento final: 0,02 euros/pie.
-En todo caso, por cada intervención administrativa se devengará un mínimo de 20 euros.
-En los montes de Utilidad Pública, por la entrega de toda clase de aprovechamientos, se devengará el 1,5 por 100 del importe del precio de adjudicación, con un devengo mínimo de 20 euros.
+Señalamiento: 0,052 euros/pie.
+Reconocimiento final: 0,021 euros/pie.
+En todo caso, por cada intervención administrativa se devengará un mínimo de 20,60 euros.
+En los montes de Utilidad Pública, por la entrega de toda clase de aprovechamientos, se devengará el 1,5 por 100 del importe del precio de adjudicación, con un devengo mínimo de 20,60 euros.
 Tarifa 10. Reproducción de planos.
-Planos cartográficos básicos a escala 1:5.000: 3,74 euros.
-Planos cartográficos básicos a escala 1:2.000: 4,62 euros.
-La liquidación final de la tarifa se incrementará con impuesto sobre valor añadido (IVA) que corresponda. Esta tarifa estará sujeta a un descuento del 30% para Entes Públicos Territoriales e Institucionales, y para particulares que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo.»
+Planos cartográficos básicos a escala 1:5.000: 3,85 euros.
+Planos cartográficos básicos a escala 1:2.000: 4,76 euros.
+La liquidación final de la tarifa se incrementará con Impuesto sobre Valor Añadido (IVA) que corresponda. Esta tarifa estará sujeta a un descuento del 30 por 100 para Entes Públicos Territoriales e Institucionales, y para particulares que se encuentren desarrollando trabajos de investigación, trabajos universitarios, proyectos fin de carrera y de doctorado, previa justificación de los mismos por el órgano receptor del citado trabajo y exclusivamente para el ámbito físico del mismo.»
 6. Tasa por permisos para cotos de pesca continental:
 Hecho imponible.–Constituye el hecho imponible el otorgamiento de permisos para pescar en las zonas acotadas por la Comunidad Autónoma de Cantabria.
 Los permisos que autorizan la pesca en las citadas zonas serán independientes de las licencias de pesca de las que, en todo caso, deberán estar en posesión los solicitantes del permiso objeto de esta tasa.
 Sujeto pasivo.–Serán sujetos pasivos de la tasa aquellas personas físicas nacionales o extranjeras residentes en España, a las que se les adjudiquen los correspondientes permisos para pescar en los cotos controlados por la Comunidad Autónoma de Cantabria.
 Devengo.–El devengo se producirá en el acto de adjudicación del permiso para pescar.
-Bonificación.–Estarán bonificados en el 50% del pago de la tasa los solicitantes que acrediten ser miembros de Sociedades Colaboradoras en los términos establecidos en el artículo 4 del Decreto 48/2003, de 8 de mayo.
+Bonificación.–Estarán bonificados en el 50 por 100 del pago de la tasa los solicitantes que acrediten ser miembros de Sociedades Colaboradoras en los términos establecidos en el artículo 4 del Decreto 48/2003, de 8 de mayo.
 Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
-Tarifa 1. Acotados de salmón: 18,76 euros.
-Tarifa 2. Acotados de trucha: 9,38 euros.
-Tarifa 3. Acotados de cangrejo: 9,38 euros.
+Tarifa 1. Acotados de salmón: 19,32 euros.
+Tarifa 2. Acotados de trucha: 9,66 euros.
+Tarifa 3. Acotados de cangrejo: 9,66 euros.
 7. Tasa por expedición de licencias de pesca continental:
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por la Consejería de Ganadería, Agricultura y Pesca de los servicios administrativos inherentes a la expedición de las licencias que, según la legislación vigente sean necesarias para practicar la pesca continental.
 Sujeto pasivo.–Serán sujetos pasivos aquellas personas físicas o jurídicas y las entidades comprendidas en el artículo 35.4 de la Ley General Tributaria que soliciten la expedición de licencias necesarias para la práctica de la pesca continental.
 Devengo.–La tasa se devengará en el momento de solicitarse las licencias.
 Tarifas.–La tasa se exigirá conforme a la siguiente tarifa:
-Tarifa 1. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 1 año: 10,01 euros.
-Tarifa 2. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 2 años: 19,38 euros.
-Tarifa 3. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 3 años: 28,76 euros.
+Tarifa 1. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 1 año: 10,31 euros.
+Tarifa 2. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 2 años: 19,96 euros.
+Tarifa 3. Licencia de pesca continental, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante 3 años: 29,62 euros.
 8. Tasa por expedición de licencias de caza y matrículas de cotos de caza:
 Hecho imponible.–Constituye el hecho imponible la prestación del servicio administrativo inherente a la expedición de licencias de caza y matrículas de cotos que, de acuerdo con la legislación vigente, sean necesarios para practicar la caza.
 Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que soliciten las licencias o matrículas.
 Devengo.–El devengo de la tasa se producirá en el momento de la solicitud de la licencia de caza o matrícula de coto.
-Tarifas.–La tasa exigirá de acuerdo con las siguientes tarifas:
-Tarifa 1. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 1 año: 10,01 euros.
-Tarifa 2. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 2 años: 19,38 euros.
-Tarifa 3. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 3 años: 28,76 euros.
-Tarifa 4. Matrículas de cotos de caza. Constituida por un importe equivalente al 15 por 100 de la venta cinegética del coto de caza, evaluada mediante el inventario estimado de las especies y el número de cabezas de cada una de ellas, en 0,375175 euros por hectárea y año.
+Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
+Tarifa 1. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 1 año: 10,31 euros.
+Tarifa 2. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 2 años: 19,96 euros.
+Tarifa 3. Licencia de caza únicamente válida en el territorio de la Comunidad Autónoma de Cantabria durante 3 años: 29,62 euros.
+Tarifa 4. Matrículas de cotos de caza. Constituida por un importe equivalente al 15 por 100 de la venta cinegética del coto de caza, evaluada mediante el inventario estimado de las especies y el número de cabezas de cada una de ellas, en 0,386430 euros por hectárea y año.
 9. Tasa por servicios prestados por el Centro de Formación Náutico-Pesquera.
 Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación por el Centro de Formación Náutico-Pesquera de los servicios enumerados a continuación:
 1. Asistencia a los cursos y/o presentación a los exámenes para la obtención de las titulaciones que se enumeran en las tarifas.
-Expedición o renovación de tarjetas de identificación profesional, títulos y diplomas.
+2. Expedición o renovación de tarjetas de identificación profesional, títulos y diplomas.
 Validación de autorizaciones federativas y convalidación de asignaturas de ciclos profesionales.
 Sujeto pasivo.–En el supuesto 1, serán sujetos pasivos de la tasa quienes soliciten la inscripción para acceder a los cursos y/o para realizar los exámenes correspondientes.
 En los supuestos 2 y 3, serán sujetos pasivos las personas físicas a nombre de las cuales se expidan las tarjetas, títulos y diplomas o se efectúen las validaciones y convalidaciones.
@@ -1045,392 +1037,383 @@ Devengo.–La tasa se devengará en el momento de solicitar la actuación admini
 Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
 Tarifa 1. Por los derechos de asistencia a cursos y/o presentación a exámenes organizados por el Centro de Formación Náutico-Pesquera.
 1. Especialidades profesionales:
-Capitán de Pesca: 31,26 euros.
-Patrón mayor de cabotaje: 31,26 euros.
-Patrón de pesca de altura: 31,26 euros.
-Patrón de cabotaje: 31,26 euros.
-Patrón de 1.ª clase pesca litoral: 31,26 euros.
-Patrón local de pesca: 25,01 euros.
-Patrón costero polivalente: 31,26 euros.
-Patrón de tráfico interior: 12,51 euros.
-Mecánico naval mayor: 31,26 euros.
-Mecánico naval de 1.ª clase: 31,26 euros.
-Mecánico naval de 2.ª clase: 31,26 euros.
-Radio telefonista Naval (restringido): 12,51 euros.
-Operador rest. Para S.M.S.S.M.: 18,76 euros.
-Operador gral. Para S.M.S.S.M.: 31,26 euros.
-Mecamar: 6,25 euros.
-Competencia de marinero: 6,25 euros.
-Buceo prof. 2.ª clase restringido: 62,53 euros.
-Buceo prof. 2.ª clase: 93,79 euros.
-Especialidades subacuáticas: 62,53 euros.
-Lucha contra incendios: 31,26 euros.
-Supervivencia en la mar: 31,26 euros.
-Tecnología del frío: 62,53 euros.
-Neumática-hidráulica: 62,53 euros.
-Automática-sensórica: 62,53 euros.
-Socorrismo marítimo: 62,53 euros.
-Manejo embarcaciones salvamento: 62,53 euros.
+Capitán de Pesca: 32,20 euros.
+Patrón de pesca de altura: 32,20 euros.
+Patrón local de pesca: 25,76 euros.
+Patrón costero polivalente: 32,20 euros.
+Radio telefonista Naval (restringido): 12,89 euros.
+Operador rest. Para S.M.S.S.M.: 19,32 euros.
+Operador gral. Para S.M.S.S.M.: 32,20 euros.
+Competencia de marinero: 6,44 euros.
+Buceo prof. 2.ª clase y 2.ª clase restringido: 64,41 euros.
+Especialidades subacuáticas: 64,41 euros.
+Formación básica: 32,20 euros.
+Tecnología del frío: 64,41 euros.
+Neumática-hidráulica: 64,41 euros.
+Automática-sensórica: 64,41 euros.
+Socorrismo marítimo: 64,41 euros.
+Manejo embarcaciones salvamento: 64,41 euros.
 2. Títulos de recreo.
-Patrón de embarcaciones de recreo (P.E.R.): 31,26 euros.
-Patrón de yate: 43,77 euros.
-Capitán de yate: 53,15 euros.
-Patrón para la navegación básica: 31,26 euros.
+Patrón de embarcaciones de recreo (PER): 32,20 euros.
+Patrón de yate: 45,08 euros.
+Capitán de yate: 54,74 euros.
+Patrón para la navegación básica: 32,20 euros.
 Tarifa 2. Expedición o renovación de tarjetas, títulos o diplomas.
 1. Especialidades profesionales.
-Competencia de marinero: 12,51 euros.
-Marineros especialistas: 12,51 euros.
-Resto de especialidades: 18,76 euros.
+Competencia de marinero: 12,89 euros.
+Marineros especialistas: 12,89 euros.
+Resto de especialidades: 19,32 euros.
 2. Especialidades recreativas.
-Capitán de yate: 68,78 euros.
-Patrón de yate: 18,76 euros.
-Patrón de embarcaciones de recreo: 18,76 euros.
-Patrón para la navegación básica: 18,76 euros.
+Capitán de yate: 70,84 euros.
+Patrón de yate: 19,32 euros.
+Patrón de embarcaciones de recreo: 19,32 euros.
+Patrón para la navegación básica: 19,32 euros.
 3. Otras.
-Expedición por convalidación o canje: 12,51 euros.
-Renovación de tarjetas: 12,51 euros.
-Esta Tarifa estará sujeta a un descuento del 50% en el caso de solicitud de expedición de duplicado de las tarjetas de identidad profesionales o deportivas, títulos o diplomas por pérdida o deterioro de la misma. Se expedirá este duplicado manteniendo el periodo de vigencia del original y haciendo constar en el documento dicha circunstancia.
+Expedición por convalidación o canje: 12,89 euros.
+Renovación de tarjetas: 12,89 euros.
+Esta tarifa estará sujeta a un descuento del 50 por 100 en el caso de solicitud de expedición de duplicado de las tarjetas de identidad profesionales o deportivas, títulos o diplomas por pérdida o deterioro de la misma. Se expedirá este duplicado manteniendo el periodo de vigencia del original y haciendo constar en el documento dicha circunstancia.
 Tarifa 3. Validaciones y convalidaciones.
-Validación de autorizaciones federativas: 3,45 euros.
-Convalidación de asignaturas de ciclos profesionales: 1,56 euros.
-Convalidación de expedientes deportivos: 9,38 euros.
-10. Tasa por la utilización de los medios de extinción de incendios adscritos a la Dirección General de Montes y Conservación de la Naturaleza.
-Hecho imponible.–Constituye el hecho imponible de la tasa la prestación de servicios mediante la utilización de los medios de extinción de incendios forestales, tanto humanos como materiales, adscritos a la Dirección General de Montes y Conservación de la Naturaleza, cuando actúen en funciones ajenas a su cometido esencial, que es el de atender a los incendios y demás eventualidades que se produzcan en montes de utilidad pública y en los consorciados con el Gobierno de Cantabria.
-Sujetos pasivos.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, cuyas propiedades o, en su caso, posesiones, cualquiera que sea el título por el que las detenten, sean beneficiarias de la prestación de los servicios que constituyen el hecho imponible, con independencia de que existiera o no solicitud por su parte, dadas las circunstancias de emergencia en que se suelen realizar.
-Devengo.–La tasa se devengará en el momento en que se solicite la prestación del servicio o cuando se realice éste, si se produjera de oficio.
-Tarifas.–La Tasa se exigirá conforme a las siguientes tarifas:
-Tarifa 1. Hora de Capataz: 13,13 euros/hora.
-Tarifa 2. Hora de Práctico Especialista Forestal: 11,91 euros/hora.
-Tarifa 3. Hora de vehículo autobomba (con conductor-maquinista): 61,61 euros/hora.
-Tarifa 4. Kilómetro recorrido de vehículo ligero todo-terreno (sin conductor): 1,07 euros/km.
+Validación de autorizaciones federativas: 3,55 euros.
+Convalidación de asignaturas de ciclos profesionales: 1,61 euros.
+Convalidación de expedientes deportivos: 9,66 euros.
 Tasas Oficina de Calidad Alimentaria
 1. Tasa por denominaciones de calidad de productos agroalimentarios de Cantabria.
 Hecho imponible.–Constituye el hecho imponible la prestación por parte de la Oficina de Calidad Alimentaria (ODECA) de los servicios tendentes a la concesión, comprobación y verificación del uso de distintivos de calidad de productos agroalimentarios así como la expedición de precintas, etiquetas, contraetiquetas y otros sistemas de control.
 Sujeto pasivo.–Serán sujetos pasivos todas las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que soliciten o a quienes se presten los servicios sujetos a gravamen.
-Devengo.–La tasa se devengará anualmente, con carácter general, o en su caso en el momento de solicitarse el servicio o realizarse de oficio por la ODECA
+Devengo.–La tasa se devengará anualmente, con carácter general, o en su caso en el momento de solicitarse el servicio o realizarse de oficio por la ODECA.
 Exenciones.–Estarán exentas del pago de esta tasa todas las explotaciones pertenecientes a la Administración de la Comunidad Autónoma de Cantabria.
 Afectación.–Los recursos generados por los ingresos correspondientes a esta tasa se destinarán a la financiación de la Oficina de Calidad Alimentaria.
 Tarifas.–La tasa se exigirá conforme a las siguientes tarifas:
 Tarifa 1. Sobre la producción agroalimentaria destinada a la elaboración o transformación de productos protegidos por la correspondiente denominación.
 a) La base imponible será el valor resultante de multiplicar la producción anual por el precio medio de venta.
-b) El tipo impositivo a aplicar será como máximo del 1% sobre la base imponible.
+b) El tipo impositivo a aplicar será como máximo del 1 por 100 sobre la base imponible.
 El Reglamento particular de cada denominación determinará el tipo impositivo aplicable a la base imponible en congruencia con la naturaleza de los productos protegidos, teniendo en cuenta para su determinación, los costes de comprobación y verificación del cumplimiento de dicha normativa.
 Tarifa 2. Sobre productos amparados por la correspondiente denominación.
 a) La base imponible será el valor resultante de multiplicar la cantidad o volumen vendido de producto amparado por el precio medio de venta.
-b) El tipo impositivo a aplicar será como máximo del 1,5 % sobre la base imponible.
+b) El tipo impositivo a aplicar será como máximo del 1,5 por 100 sobre la base imponible.
 El Reglamento particular de cada denominación determinará el tipo impositivo aplicable a la base imponible en congruencia con la naturaleza de los productos amparados, teniendo en cuenta para su determinación, los costes de comprobación y verificación del cumplimiento de dicha normativa.
 Tarifa 3. Por la expedición de precintas, etiquetas, contraetiquetas y otros sistemas de control.
 a) La base imponible de la tasa será la correspondiente al valor documentado.
-b) El tipo impositivo será el 200% de la base imponible.
+b) El tipo impositivo será el 200 por 100 de la base imponible.
 Consejería de Economía y Hacienda
 1. Tasa por tramitación de la Licencia Comercial Específica.
 Hecho imponible.–Constituye el hecho imponible de la Tasa la prestación del servicio de tramitación de los expedientes de solicitud de la licencia comercial específica de la Comunidad Autónoma de Cantabria para grandes Establecimientos Comerciales y Establecimientos de Descuento Duro.
 Sujeto Pasivo.–Son sujetos pasivos de la Tasa las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten de la Administración de la Comunidad Autónoma de Cantabria la práctica de la actividad administrativa que integra su hecho imponible.
 Base imponible.–Constituye la base imponible la superficie útil de exposición y ventas de los establecimientos, entendida como la totalidad de los espacios donde se exponen las mercancías con carácter habitual y permanente, o destinados a tal fin con carácter eventual o periódico, y a los que puede acceder la clientela para efectuar las compras; los espacios internos destinados al tránsito de personas; la superficie de la zona de cajas; la comprendida entre estas y las puertas de salida, así como las dedicadas a actividades de prestación de servicios.
 En los establecimientos comerciales que dispongan de secciones de venta asistida por dependiente, se considerará superficie útil de exposición y venta la zona ocupada por las personas vendedoras detrás del mostrador, a la cual no tiene acceso el público.
-Tarifa.–Se establece una tarifa de 3,12 euros por metro cuadrado de superficie útil de exposición y ventas. El importe de la tarifa podrá actualizarse anualmente en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria.
+Tarifa.–Se establece una tarifa de 3,21 euros por metro cuadrado de superficie útil de exposición y ventas. El importe de la tarifa podrá actualizarse anualmente en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria.
 Devengo.–La Tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
 Se faculta al Consejero que ostente las competencias en materia de comercio para aprobar las disposiciones interpretativas o aclaratorias necesarias, así como los modelos de gestión, liquidación y recaudación de la Tasa.
 Consejería de Medio Ambiente
 1. Tasa de Autorización Ambiental Integrada.
-Hecho imponible.-Constituye el hecho imponible de la tasa la realización, por parte de la Administración de la Comunidad Autónoma de Cantabria, de todas las actividades tendentes a la obtención por el sujeto pasivo, de la autorización ambiental integrada.
-Sujetos pasivos.-Serán sujetos pasivos de la tasa las personas físicas y jurídicas, así como las Entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la autorización ambiental integrada.
-Devengo.-La tasa se devenga cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
-Tarifas.
-Se establecen tres tarifas, dependiendo del grado de complejidad en la autorización ambiental integrada:
-Tarifa tipo A. Se aplicará a aquellas solicitudes que requieran, evaluación de impacto ambiental y viertan sus aguas residuales al dominio público marítimo-terrestre: 1.838,60 euros.
-Tarifa tipo B. Se aplicará a aquellas solicitudes que requieran, evaluación de impacto ambiental y viertan sus aguas residuales al dominio público hidráulico o a la red de saneamiento municipal, o que no requieran evaluación de impacto ambiental y viertan sus aguas residuales al dominio público marítimo-terrestre: 1.264,00 euros.
-Tarifa tipo C. Se aplicará a aquellas solicitudes que no requieran evaluación de impacto ambiental y viertan sus aguas residuales a la red de saneamiento municipal o al dominio público hidráulico: 962,20 euros.
+Hecho imponible.–Constituye el hecho imponible de la tasa la realización, por parte de la Administración de la Comunidad Autónoma de Cantabria, de todas las actividades tendentes a la obtención por el sujeto pasivo, de la autorización ambiental integrada.
+Sujetos pasivos.–Serán sujetos pasivos de la tasa las personas físicas y jurídicas, así como las Entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la autorización ambiental integrada.
+Devengo.–La tasa se devenga cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+Tarifas.–Se establecen tres tarifas, dependiendo del grado de complejidad en la autorización ambiental integrada:
+Tarifa tipo A. Se aplicará a aquellas solicitudes que requieran, evaluación de impacto ambiental y viertan sus aguas residuales al dominio público marítimo-terrestre: 1.893,76 euros.
+Tarifa tipo B. Se aplicará a aquellas solicitudes que requieran evaluación de impacto ambiental y viertan sus aguas residuales al dominio público hidráulico o a la red de saneamiento municipal, o que no requieran evaluación de impacto ambiental y viertan sus aguas residuales al dominio público marítimo-terrestre: 1.301,92 euros.
+Tarifa tipo C. Se aplicará a aquellas solicitudes que no requieran evaluación de impacto ambiental y viertan sus aguas residuales a la red de saneamiento municipal o al dominio público hidráulico: 991,07 euros.
 2. Tasa por Ordenación de las Actividades Emisoras de Gases de Efecto Invernadero.
-Hecho imponible. Constituye el hecho imponible de la tasa, la realización de las siguientes actividades cuando sean ejecutadas por la Consejería de Medio Ambiente con exclusión del sector privado, y resulten de solicitud o recepción obligatoria para los administrados.
+Hecho imponible.–Constituye el hecho imponible de la tasa, la realización de las siguientes actividades cuando sean ejecutadas por la Consejería de Medio Ambiente con exclusión del sector privado, y resulten de solicitud o recepción obligatoria para los administrados.
 Están sujetas a gravamen las siguientes actuaciones:
-La autorización de emisión de gases de efecto invernadero, establecida en el artículo 4 del Real Decreto Ley 5/2004, de 27 de agosto, por el que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
-La modificación de la autorización, cuando según el artículo 6 del Real Decreto Ley 5/2004, se produzcan cambios en la instalación que obliguen a la revisión de la misma, o su renovación.
-La revisión del informe anual verificado, relativo a las emisiones de gases de efecto invernadero, según se regula en el artículo 23 del Real Decreto Ley 5/2004.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, a las que se presten los servicios o para las que se realicen las actividades gravadas.
-Devengo. La tasa se devengará en el momento de solicitar la actuación administrativa. Tarifas:
-Tarifa 1. Autorización de emisión de gases de efecto invernadero: 754,96 euros.
-Tarifa 2. Modificación y renovación de la autorización de emisión de gases de efecto invernadero: 301,98 euros.
-Tarifa 3. Revisión del informe anual sobre emisiones del año anterior: 186,01 euros.
-3. Tasa por Control Administrativo de las Operaciones de descontaminación de vehículos al final de su vida útil.
-Hecho imponible. Constituye el hecho imponible de la tasa la prestación de los servicios cuando sean ejecutadas por la Consejería de Medio Ambiente con exclusión del sector privado, y resulten de solicitud o recepción obligatoria para los administrados.
-Están sujetas a gravamen las siguientes actuaciones:
-Emisión de impresos de certificados de destrucción, regulados por el Real Decreto 1383/2002, de 20 de diciembre sobre gestión de vehículos al final de su vida útil, y en la Orden INT/249/2004, de 5 de febrero, por la que se regula la baja definitiva de los vehículos descontaminados al final de su vida útil.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades a que se refiere el artículo 35.4 de la Ley General a las que se presten los servicios o para las que se realicen las actividades gravadas.
-Exenciones.- Están exentos del pago de la tasa los entes públicos territoriales e institucionales.
-Devengo. La tasa se devengará en el momento de solicitar el servicio.
+1. La autorización de emisión de gases de efecto invernadero, establecida en el artículo 4 del Real Decreto Ley 5/2004, de 27 de agosto, por el que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+2. La modificación de la autorización, cuando según el artículo 6 del Real Decreto Ley 5/2004, se produzcan cambios en la instalación que obliguen a la revisión de la misma, o su renovación.
+3. La revisión del informe anual verificado, relativo a las emisiones de gases de efecto invernadero, según se regula en el artículo 23 del Real Decreto Ley 5/2004.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, a las que se presten los servicios o para las que se realicen las actividades gravadas.
+Devengo.–La tasa se devengará en el momento de solicitar la actuación administrativa.
 Tarifas:
-Tarifa 1. Emisión de un paquete de 125 impresos de certificados de destrucción: 12,5 euros.
+Tarifa 1. Autorización de emisión de gases de efecto invernadero: 777,61 euros.
+Tarifa 2. Modificación y renovación de la autorización de emisión de gases de efecto invernadero: 311,04 euros.
+Tarifa 3. Revisión del informe anual sobre emisiones del año anterior: 191,59 euros.
+3. Tasa por Control Administrativo de las Operaciones de descontaminación de vehículos al final de su vida útil.
+Hecho imponible.–Constituye el hecho imponible de la tasa la prestación de los servicios cuando sean ejecutadas por la Consejería de Medio Ambiente con exclusión del sector privado, y resulten de solicitud o recepción obligatoria para los administrados.
+Están sujetas a gravamen las siguientes actuaciones:
+1. Emisión de impresos de certificados de destrucción, regulados por el Real Decreto 1383/2002, de 20 de diciembre, sobre gestión de vehículos al final de su vida útil, y en la Orden INT/249/2004, de 5 de febrero, por la que se regula la baja definitiva de los vehículos descontaminados al final de su vida útil.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades a que se refiere el artículo 35.4 de la Ley General a las que se presten los servicios o para las que se realicen las actividades gravadas.
+Exenciones.–Están exentos del pago de la tasa los entes públicos territoriales e institucionales.
+Devengo.–La tasa se devengará en el momento de solicitar el servicio.
+Tarifas:
+Tarifa 1. Emisión de un paquete de 125 impresos de certificados de destrucción: 12,88 euros.
+4. Tasa de gestión final de residuos urbanos.
+Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por parte de la Consejería de Medio Ambiente de los siguientes servicios relativos a actividades de gestión de residuos urbanos.
+a) Almacenamiento en los centros de transferencia y transporte hasta las instalaciones de valorización o eliminación.
+b) Gestión final de los residuos urbanos, mediante valorización o eliminación.
+Sujetos pasivos.–Serán sujetos pasivos de la tasa los municipios, mancomunidades o consorcios en cuyo favor se presten o para los que se realicen los servicios o las actividades gravadas.
+Devengo y período impositivo.–La tasa se devengará en el momento de la entrega de los residuos urbanos en las plantas de transferencia, o en las instalaciones de gestión final, cuando sean depositados directamente en dichas instalaciones, sin almacenamiento previo en plantas de transferencia. La liquidación de la tasa se realizará con periodicidad mensual.
+Tarifas:
+Tarifa: 22,66 euros por tonelada métrica.
+La determinación del número de toneladas se efectuará mediante pesada directa de los residuos urbanos en el momento de su entrega en los centros de transferencia o, en su defecto, en las instalaciones de gestión final, cuando los residuos sean depositados directamente en dichas instalaciones sin almacenamiento previo en plantas de transferencia. Cuando los residuos entregados en las anteriores instalaciones procedan de la recogida realizada en diversos Entes locales, y no sea posible determinar físicamente las cantidades que correspondan a cada uno de ellos, el cálculo del número de toneladas que corresponde a cada sujeto pasivo se realizará en función de la frecuencia y la capacidad de los elementos de recogida de cada uno.
+Bonificaciones.–Sobre la tarifa aplicable, se establece una bonificación del 11,95 por ciento, hasta el momento de la entrada en funcionamiento de la planta de incineración con recuperación energética, ubicada en el complejo de Meruelo.
 Consejería de Cultura, Turismo y Deporte
 1. Tasas por servicios de certificaciones, copias, diligencias y reproducción de documentos en el Archivo Histórico.
-Hecho imponible. Constituye el hecho imponible de la presente tasa la prestación por la Consejería de Cultura, Turismo y Deporte de los servicios enumerados a continuación, realizados por el Archivo Histórico:
-Calificación de documentos y autenticación de firmas en los privados.
-Inscripción anotaciones y cancelaciones.
-Busca, copias, títulos, certificaciones e informes.
-Sujeto pasivo. Quedan sujetos al pago de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria que hagan uso de estos servicios.
-Devengo. El tributo se devengará y exigirá con ocasión del uso de los servicios mencionados.
+Hecho imponible.–Constituye el hecho imponible de la presente tasa la prestación por la Consejería de Cultura, Turismo y Deporte de los servicios enumerados a continuación, realizados por el Archivo Histórico:
+1. Calificación de documentos y autenticación de firmas en los privados.
+2. Inscripción anotaciones y cancelaciones.
+3. Busca, copias, títulos, certificaciones e informes.
+Sujeto pasivo.–Quedan sujetos al pago de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria que hagan uso de estos servicios.
+Devengo.–El tributo se devengará y exigirá con ocasión del uso de los servicios mencionados.
 Tarifas:
 Tarifa 1. Certificaciones:
-Por página mecanografiada: 3,75 euros.
-Por año de antigüedad: 0,208 euros.
+Por página mecanografiada: 3,86 euros.
+Por año de antigüedad: 0,214 euros.
 Tarifa 2. Diligencias de autenticación de fotocopias y cualquier otro tipo de reproducción de documentos hechos en el Archivo:
-Por página original reproducida: 2,50 euros.
+Por página original reproducida: 2,58 euros.
 Tarifa 3. Fotocopias:
-Por cada fotocopia DIN A4: 0,094 euros.
-Por cada fotocopia DIN A-3: 0,188 euros.
+Por cada fotocopia DIN A4: 0,097 euros.
+Por cada fotocopia DIN A-3: 0,194 euros.
 2. Tasa por ordenación del sector turístico.
-Hecho imponible. Constituye el hecho imponible de la tasa, la prestación de los servicios o la realización de las actividades enumeradas en las tarifas cuando sean ejecutadas por la Consejería de Cultura, Turismo y Deportes con exclusión del sector privado y resulten de solicitud o recepción obligatoria para los administrados.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten los servicios o actividades gravados o sean destinatarias de los mismos cuando su recepción resulte obligatoria.
-Devengo. La tasa se devengará en el momento de solicitar el servicio o la actuación administrativa, o en el momento de efectuarse éstos si no fuera precisa solicitud alguna.
+Hecho imponible.–Constituye el hecho imponible de la tasa, la prestación de los servicios o la realización de las actividades enumeradas en las tarifas cuando sean ejecutadas por la Consejería de Cultura, Turismo y Deportes con exclusión del sector privado y resulten de solicitud o recepción obligatoria para los administrados.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten los servicios o actividades gravados o sean destinatarias de los mismos cuando su recepción resulte obligatoria.
+Devengo.–La tasa se devengará en el momento de solicitar el servicio o la actuación administrativa, o en el momento de efectuarse éstos si no fuera precisa solicitud alguna.
 Tarifas:
 Tarifa 1:
-a) Emisión de informes preceptivos para la autorización de apertura, ampliaciones y mejoras de restaurantes y cafeterías: 25,01 euros.
+a) Emisión de informes preceptivos para la autorización de apertura, ampliaciones y mejoras de restaurantes y cafeterías: 25,76 euros.
 b) Emisión de informes preceptivos para la autorización de apertura, ampliaciones y mejoras de hoteles y pensiones:
-Hasta 20 habitaciones: 31,26 euros.
-Más de 20 habitaciones: 37,52 euros.
+Hasta 20 habitaciones: 32,20 euros.
+Más de 20 habitaciones: 38,65 euros.
 c) Emisión de informes preceptivos para la autorización de apertura de campamentos de turismo:
-Hasta 250 plazas 31,26 euros.
-Más de 250 plazas: 37,52 euros.
+Hasta 250 plazas: 32,20 euros.
+Más de 250 plazas: 38,65 euros.
 d) Emisión de informes preceptivos para la autorización de apertura de apartamentos turísticos:
-Hasta 20 apartamentos: 31,26 euros.
-Más de 20 apartamentos: 37,52 euros.
-Tarifa 2.
-Emisión de informes preceptivos para la Concesión del título-licencia de agencia de viajes: 25,01 euros.
-Tarifa 3.
-Expedición del carnet de guía y guía-intérprete: 4,69 euros.
-Tarifa 4.
-a) Sellado de listas de precios de bares, cafeterías y restaurantes: 4,69 euros.
-b) Sellado de listas de precios de alojamientos turísticos: 6,25 euros.
-c) Entrega del Libro de Inspección: 15,64 euros.
-d) Diligencias en Libro de Inspección por cambios de titularidad, denominación, categoría, etc.: 4,69 euros.
+Hasta 20 apartamentos: 32,20 euros.
+Más de 20 apartamentos: 38,65 euros.
+Tarifa 2:
+Emisión de informes preceptivos para la Concesión del título-licencia de agencia de viajes: 25,76 euros.
+Tarifa 3:
+Expedición del carné de guía y guía-intérprete: 4,83 euros.
+Tarifa 4:
+a) Sellado de listas de precios de bares, cafeterías y restaurantes: 4,83 euros.
+b) Sellado de listas de precios de alojamientos turísticos: 6,44 euros.
+c) Entrega del Libro de Inspección: 16,11 euros.
+d) Diligencias en Libro de Inspección por cambios de titularidad, denominación, categoría, etc.: 4,83 euros.
 Consejería de Educación
 1. Tasa para expedición de Títulos y Diplomas académicos.
-Hecho imponible. Constituye el hecho imponible de la tasa la prestación del servicio por la Administración Educativa de la expedición de títulos y diplomas académicos, docentes y profesionales de enseñanza no universitaria que se enumeran en las tarifas.
-Sujeto pasivo. Será sujeto pasivo de la tasa quien solicite dicho servicio o actividad o quien resulte beneficiado por el mismo.
-Devengo. La tasa se devengará en el momento de solicitar la prestación de los servicios.
-Exenciones a los miembros de las familias numerosas. A los miembros de familias numerosas les será de aplicación las exenciones y bonificaciones que en cada momento se establezcan por la legislación reguladora de protección familiar.
-Forma de pago. La tasa se abonará en un solo pago en el momento de su devengo.
-Tarifas. Las cuotas de la tasa se ajustarán a las tarifas siguientes:
+Hecho imponible.–Constituye el hecho imponible de la tasa la prestación del servicio por la Administración Educativa de la expedición de títulos y diplomas académicos, docentes y profesionales de enseñanza no universitaria que se enumeran en las tarifas.
+Sujeto pasivo.–Será sujeto pasivo de la tasa quien solicite dicho servicio o actividad o quien resulte beneficiado por el mismo.
+Devengo.–La tasa se devengará en el momento de solicitar la prestación de los servicios.
+Exenciones a los miembros de las familias numerosas.–A los miembros de familias numerosas les será de aplicación las exenciones y bonificaciones que en cada momento se establezcan por la legislación reguladora de protección familiar.
+Forma de pago.–La tasa se abonará en un solo pago en el momento de su devengo.
+Tarifas.–Las cuotas de la tasa se ajustarán a las tarifas siguientes:
 Tarifa 1. Aplicable para la expedición de los títulos no gratuitos derivados de la Ley Orgánica 1/1990, de Ordenación General del Sistema Educativo (LOGSE):
-Bachillerato LOGSE. Tarifa Normal: 44,14 euros.
-Técnico. Tarifa normal: 17,99 euros.
-Técnico Superior. Tarifa normal: 44,14 euros.
-Certificado de Aptitud de las Escuelas de Idiomas.
-Tarifa normal: 21,24 euros.
-Título Profesional: 82,66 euros.
-Bachillerato LOGSE. Familia numerosa primera categoría: 22,07 euros.
-Técnico. Familia numerosa primera categoría: 8,99 euros.
-Técnico Superior. Familia numerosa primera categoría: 22,07 euros.
-Título Profesional Familia Numerosa Primera Categoría: 41,33 euros.
-Certificado de Aptitud de las Escuelas de Idiomas. Familia numerosa primera categoría: 10,62 euros.
+Bachillerato LOGSE. Tarifa Normal: 45,46 euros.
+Técnico. Tarifa normal: 18,53 euros.
+Técnico Superior. Tarifa normal: 45,46 euros.
+Certificado de Aptitud de las Escuelas de Idiomas. Tarifa normal: 21,88 euros.
+Título Profesional: 85,14 euros.
+Bachillerato LOGSE. Familia numerosa primera categoría: 22,73 euros.
+Técnico. Familia numerosa primera categoría: 9,26 euros.
+Técnico Superior. Familia numerosa primera categoría: 22,73 euros.
+Título Profesional Familia Numerosa Primera Categoría: 42,57 euros.
+Certificado de Aptitud de las Escuelas de Idiomas. Familia numerosa primera categoría: 10,94 euros.
 Tarifa 2. Para los casos de solicitud de duplicados por extravío, modificaciones, etc., imputables al interesado:
-Bachillerato LOGSE: 3,96 euros.
-Técnico: 2,10 euros.
-Técnico Superior: 3,96 euros.
-Certificado de Aptitud de Escuelas de Idiomas: 1,98 euros.
-[ignorar]Título Profesional: 3,96 euros.
-2. Tasa por participación en procesos de selección para el acceso a cuerpos docentes:
-Hecho imponible. Constituye el hecho imponible la participación en procesos de selección para el acceso de cuerpos docentes, convocados por la Consejería de Educación .
-Sujeto pasivo. Serán sujetos pasivos las personas físicas que soliciten la participación en tales procesos de selección.
-Devengo. La tasa se devengará en el momento de presentar la solicitud de participación en los procesos de selección y se exigirá de acuerdo con las siguientes tarifas:
-Procesos de selección para cuerpos docentes del Grupo «A»: 31,26 euros.
-Procesos de selección para cuerpos docentes del Grupo «B»: 25,01 euros.
+Bachillerato LOGSE: 4,08 euros.
+Técnico: 2,16 euros.
+Técnico Superior: 4,08 euros.
+Certificado de Aptitud de Escuelas de Idiomas: 2,04 euros.
+Título Profesional: 4,08 euros.
+2. Tasa por participación en procesos de selección para el acceso a cuerpos docentes.
+Hecho imponible.–Constituye el hecho imponible la participación en procesos de selección para el acceso de cuerpos docentes, convocados por la Consejería de Educación.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas que soliciten la participación en tales procesos de selección.
+Devengo.–La tasa se devengará en el momento de presentar la solicitud de participación en los procesos de selección y se exigirá de acuerdo con las siguientes tarifas:
+Procesos de selección para cuerpos docentes del Grupo «A»: 25,00 euros.
+Procesos de selección para cuerpos docentes del Grupo «B»: 25,00 euros.
 Consejería de Relaciones Institucionales
 1. Tasa por servicios administrativos.
-Hecho imponible. Constituye el hecho imponible la prestación por la Consejería de Educación y Juventud de los servicios enumerados en las tarifas.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria que lo soliciten o a las que se preste el servicio gravado.
-Devengo. La tasa se devengará en el momento de solicitar la actuación administrativa. Si esta solicitud no fuera precisa, el devengo se producirá al efectuarse de oficio la actividad constitutiva del hecho imponible.
-Tarifa. La tasa se exigirá de acuerdo con las siguientes tarifas:
-Tarifa 1. Autorización de campamentos y acampadas: 5,16 euros.
+Hecho imponible.–Constituye el hecho imponible la prestación por la Consejería de Educación y Juventud de los servicios enumerados en las tarifas.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria que lo soliciten o a las que se preste el servicio gravado.
+Devengo.–La tasa se devengará en el momento de solicitar la actuación administrativa. Si esta solicitud no fuera precisa, el devengo se producirá al efectuarse de oficio la actividad constitutiva del hecho imponible.
+Tarifa.–La tasa se exigirá de acuerdo con las siguientes tarifas:
+Tarifa 1. Autorización de campamentos y acampadas: 5,31 euros.
 Consejería de Sanidad, Consumo y Servicios Sociales
 1. Tasa por prestación de servicios de salud e inspecciones sanitarias de salud pública.
-Hecho imponible. Constituye el hecho imponible la prestación de servicios de salud relativos a inspecciones sanitarias, realizados a través de los Centros o dependencias sanitarias de la Consejería de Sanidad, Consumo y Servicios Sociales.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
-Devengo. La tasa se devengará en el momento de solicitar la prestación del servicio o, cuando éste se realice, si se ejecuta de oficio por la Administración. Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Hecho imponible.–Constituye el hecho imponible la prestación de servicios de salud relativos a inspecciones sanitarias, realizados a través de los Centros o dependencias sanitarias de la Consejería de Sanidad, Consumo y Servicios Sociales.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
+Devengo.–La tasa se devengará en el momento de solicitar la prestación del servicio o, cuando éste se realice, si se ejecuta de oficio por la Administración.
+Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
 A) Para apertura, reforma o cambio de titularidad en los locales destinados a:
 A.1 Hoteles (según categoría):
-De 4.ª categoría: 25,01 euros.
-De 3.ª categoría: 37,52 euros.
-De 2.ª categoría: 62,53 euros.
-De 1.ª categoría: 93,79 euros.
-De lujo: 125,05 euros.
-A.2 Casas de huéspedes y pensiones: 16,26 euros.
+De 4.ª categoría: 25,76 euros.
+De 3.ª categoría: 38,65 euros.
+De 2.ª categoría: 64,41 euros.
+De 1.ª categoría: 96,60 euros.
+De lujo: 128,80 euros.
+A.2 Casas de huéspedes y pensiones: 16,75 euros.
 A.3 Camping (según categoría):
-De 3.ª categoría: 6,25 euros.
-De 2.ª categoría: 12,51 euros.
-De 1.ª categoría: 18,76 euros.
+De 3.ª categoría: 6,44 euros.
+De 2.ª categoría: 12,89 euros.
+De 1.ª categoría: 19,32 euros.
 A.4 Estaciones de transporte colectivo:
-Autobuses, ferrocarriles y análogos: 18,76 euros.
+Autobuses, ferrocarriles y análogos: 19,32 euros.
 A.5 Espectáculos públicos (según aforo):
-Hasta 200 localidades: 9,38 euros.
-De 201 a 500 localidades: 17,51 euros.
-De 501 a 1.000 localidades: 28,14 euros.
-Más de 1.000: 45,02 euros.
-A.6 Guarderías: 9,38 euros.
-A.7 Residencias de ancianos: 9,38 euros.
-A.8 Balnearios: 21,89 euros.
-A.9 Embotelladoras de agua (mineromedicinales): 28,14 euros.
+Hasta 200 localidades: 9,66 euros.
+De 201 a 500 localidades: 18,04 euros.
+De 501 a 1.000 localidades: 28,98 euros.
+Más de 1.000: 46,37 euros.
+A.6 Guarderías: 9,66 euros.
+A.7 Residencias de ancianos: 9,66 euros.
+A.8 Balnearios: 22,55 euros.
+A.9 Embotelladoras de agua (mineromedicinales): 28,98 euros.
 A.10 Centros docentes (según capacidad):
-Hasta 100 alumnos: 9,38 euros.
-De 101 a 250 alumnos: 17,51 euros.
-Más de 250 alumnos: 28,14 euros.
-A.11 Centros de producción, almacenamiento de productos sanitarios y cosméticos: 18,76 euros.
+Hasta 100 alumnos: 9,66 euros.
+De 101 a 250 alumnos: 18,04 euros.
+Más de 250 alumnos: 28,98 euros.
+A.11 Centros de producción, almacenamiento de productos sanitarios y cosméticos: 19,32 euros.
 A.12 Oficinas de farmacia:
-Apertura y traspasos: 250,11 euros.
-Traslados: 125,05 euros.
+Apertura y traspasos: 257,61 euros.
+Traslados: 128,80 euros.
 A.13 Farmacias hospitalarias:
-Aperturas: 25,01 euros.
-A.14 Botiquines de hospitales y rurales: 16,26 euros.
-A.15 Comunicación puesta en mercado de productos cosméticos: 8,13 euros.
-A.16 Peluquerías de señoras y caballeros: 6,87 euros.
-A.17 Institutos de belleza: 9,38 euros.
-A.18 Instalaciones deportivas (gimnasios, piscinas, etc.): 6,87 euros.
-A.19 Casinos, Sociedades de recreo y análogos (según volumen y categoría): 9,38/45,02 euros.
-A.20 Otros establecimientos no especificados en los apartados anteriores según volumen y categoría: 9,38/55,03 euros
+Aperturas: 25,76 euros.
+A.14 Botiquines de hospitales y rurales: 16,75 euros.
+A.15 Comunicación puesta en mercado de productos cosméticos: 8,37 euros.
+A.16 Peluquerías de señoras y caballeros: 7,08 euros.
+A.17 Institutos de belleza: 9,66 euros.
+A.18 Instalaciones deportivas (gimnasios, piscinas, etcétera): 7,08 euros.
+A.19 Casinos, Sociedades de recreo y análogos (según volumen y categoría): 9,66/46,37 euros.
+A.20 Otros establecimientos no especificados en los apartados anteriores según volumen y categoría: 9,66/56,68 euros.
 B) Tramitación de expedientes y autorizaciones efectuadas en el ejercicio de funciones de policía sanitaria mortuoria.
 B.1 Estudios, proyecto, informe, apertura e inspección de:
-Cementerios: 15,64 euros.
-Empresa funeraria: 21,89 euros.
-Criptas dentro cementerio: 3,75 euros.
-Criptas fuera cementerio: 3,75 euros.
-Furgones: 2,50 euros.
+Cementerios: 16,11 euros.
+Empresa funeraria: 22,55 euros.
+Criptas dentro cementerio: 3,86 euros.
+Criptas fuera cementerio: 3,86 euros.
+Furgones: 2,58 euros.
 B.2 Traslado de un cadáver sin inhumar:
-Dentro provincia: 14,38 euros.
-Otra provincia: 22,51 euros.
-Extranjero: 131,62 euros.
+Dentro provincia: 14,81 euros.
+Otra provincia: 23,19 euros.
+Extranjero: 135,57 euros.
 B.3 Exhumación de un cadáver antes de los cinco años de su enterramiento:
-Mismo cementerio: 15,64 euros.
-En Cantabria: 21,89 euros.
-En otras Comunidades Autónomas: 25,01 euros.
-B.4 Exhumación con o sin traslado de los restos cadavéricos después de los cinco años de defunción: 3,13 euros.
-B.5 Mondas de cementerios (por restos): 2,18 euros.
-B.6 Inhumación de un cadáver en cripta dentro de cementerios: 12,51 euros.
-B.7 Inhumación de un cadáver en cripta fuera de cementerio: 106,29 euros.
-B.8 Embalsamiento de un cadáver: 14,38 euros.
-B.9 Conservación transitoria: 9,38 euros.
+Mismo cementerio: 16,11 euros.
+En Cantabria: 22,55 euros.
+En otras Comunidades Autónomas: 25,76 euros.
+B.4 Exhumación con o sin traslado de los restos cadavéricos después de los cinco años de defunción: 3,22 euros.
+B.5 Mondas de cementerios (por restos): 2,25 euros.
+B.6 Inhumación de un cadáver en cripta dentro de cementerios: 12,89 euros.
+B.7 Inhumación de un cadáver en cripta fuera de cementerio: 109,48 euros.
+B.8 Embalsamamiento de un cadáver: 14,81 euros.
+B.9 Conservación transitoria: 9,66 euros.
 C) Convalidación, ampliación de actividades y otras actuaciones sanitarias.
-C.1 Diligencia libros recetarios de oficinas de farmacia: 3,13 euros.
+C.1 Diligencia libros recetarios de oficinas de farmacia: 3,22 euros.
 C.2 Por expedición de certificados a petición:
-Médicos: 3,13 euros.
-Actividades: 9,38 euros.
-Exportaciones de alimentos: 3,13 euros.
-C.3 Visados y compulsas: 1,88 euros
+Médicos: 3,22 euros.
+Actividades: 9,66 euros.
+Exportaciones de alimentos: 3,22 euros.
+C.3 Visados y compulsas: 1,94 euros.
 2. Tasas por pruebas de laboratorio de salud pública.
-Hecho imponible. Constituye el hecho imponible las pruebas de laboratorio realizadas a través de los centros o dependencias sanitarias de la Consejería de Sanidad y Servicios Sociales, cuando por cualquier causa no puedan efectuarse por el sector privado y su realización venga impuesta por las disposiciones normativas vigentes.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esa Tasa.
-Devengo. La Tasa se devengará en el momento de realizar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración
-Tarifas: La Tasa se exigirá de acuerdo con las siguientes tarifas:
+Hecho imponible.–Constituye el hecho imponible las pruebas de laboratorio realizadas a través de los centros o dependencias sanitarias de la Consejería de Sanidad y Servicios Sociales, cuando por cualquier causa no puedan efectuarse por el sector privado y su realización venga impuesta por las disposiciones normativas vigentes.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esa Tasa.
+Devengo.–La Tasa se devengará en el momento de realizar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración.
+Tarifas.–La Tasa se exigirá de acuerdo con las siguientes tarifas:
 1. Determinaciones generales en aguas:
-1. pH: 20,40 euros.
-2. Conductividad: 20,40 euros.
-3. Turbidez: 20,40 euros.
-4. Oxidabilidad al MnO4K: 20,40 euros.
-5. Amonio: 20,40 euros.
-6. Nitritos: 20,40 euros.
-7. Nitratos: 20,40 euros.
-8. Residuo seco: 20,40 euros.
-9. Alcalinidad: 20,40 euros.
-10. Dureza: 20,40 euros.
-11. Cloruros: 20,40 euros.
-12. Sulfatos: 20,40 euros.
-13. Fluoruros: 20,40 euros.
-14. Boro: 20,40 euros.
-15. Coliformes totales: 20,40 euros.
-16. Aerobios: 20,40 euros.
-17. E. Coli: 20,40 euros.
-18. Cloro: 20,40 euros.
-19. Estreptococos: 20,40 euros.
-20. Clostridium sulfito-reductores: 20,40 euros.
-2. Determinaciones generales en alimentos:
-1. Destilación con arrastre de vapor: 20,40 euros.
-2. Nitrógeno Básico Volátil Total: 20,40 euros.
-3. Humedad: 20,40 euros.
-4. pH: 20,40 euros.
-5. Cloruros: 20,40 euros.
-6. Metabisulfito: 20,40 euros.
-7. Grado alcohólico: 20,40 euros.
-8. Gluten: 20,40 euros.
-9. Aerobios totales: 20,40 euros.
-10. Anaerobios totales: 20,40 euros.
-11. Mohos y levaduras: 20,40 euros.
-12. Esporos aerobios: 20,40 euros.
-13. Esporos anaerobios: 20,40 euros.
-14. Estafilococos: 20,40 euros.
-15. Enterobacteriaceas: 20,40 euros.
-16. Coliformes totales: 20,40 euros.
-17. Escherichia coli:20,40 euros.
-18. Inhibidores: 20,40 euros.
-3. Determinaciones específicas en aguas y alimentos.
-1. Determinación de metales por Espectrofotometría de Absorción Atómica: 93,84 euros.
-2. Determinación por HPLC: 93,84 euros.
-3. Determinación por Cromatografía de Gases: 93,84 euros.
-4. Determinación de Residuos Zoosanitarios por Enzimoinmunoensayo y/o Cromatografía de capa fina: 93,84 euros.
-5. Clostridium perfringens: 93,84 euros.
-6. Listeria: 93,84 euros.
-7. Salmonella: 93,84 euros.
+1. pH: 21,01 euros.
+2. Conductividad: 21,01 euros.
+3. Turbidez: 21,01 euros.
+4. Oxidabilidad al MnO4K: 21,01 euros.
+5. Amonio: 21,01 euros.
+6. Nitritos: 21,01 euros.
+7. Nitratos: 21,01 euros.
+8. Residuo seco: 21,01 euros.
+9. Alcalinidad: 21,01 euros.
+10. Dureza: 21,01 euros.
+11. Cloruros: 21,01 euros.
+12. Sulfatos: 21,01 euros.
+13. Fluoruros: 21,01 euros.
+14. Boro: 21,01 euros.
+15. Coliformes totales: 21,01 euros.
+16. Aerobios: 21,01 euros.
+17. E. Coli: 21,01 euros.
+18. Cloro: 21,01 euros.
+19. Estreptococos: 21,01 euros.
+20. Clostridium sulfito-reductores: 21,01 euros.
+2. Determinaciones generales en alimentos.
+1. Destilación con arrastre de vapor: 21,01 euros.
+2. Nitrógeno Básico Volatil Total: 21,01 euros.
+3. Humedad: 21,01 euros.
+4. pH: 21,01 euros.
+5. Cloruros: 21,01 euros.
+6. Metabisulfito: 21,01 euros.
+7. Grado alcohólico: 21,01 euros.
+8. Gluten: 21,01 euros.
+9. Aerobios totales: 21,01 euros.
+10. Anaerobios totales: 21,01 euros.
+11. Mohos y levaduras: 21,01 euros.
+12. Esporos aerobios: 21,01 euros.
+13. Esporos anaerobios: 21,01 euros.
+14. Estafilococos: 21,01 euros.
+15. Enterobacteriaceas: 21,01 euros.
+16. Coliformes totales: 21,01 euros.
+17. Escherichia coli: 21,01 euros.
+18. Inhibidores: 21,01 euros.
+3. Determinaciones especificas en aguas y alimentos.
+1. Determinación de metales por Espectrofotometría de Absorción Atómica: 96,66 euros.
+2. Determinación por HPLC: 96,66 euros.
+3. Determinación por Cromatografía de Gases: 96,66 euros.
+4. Determinación de Residuos Zoosanitarios por Enzimoinmunoensayo y/o Cromatografía de capa fina: 96,66 euros.
+5. Clostridium perfringens: 96,66 euros.
+6. Listeria: 96,66 euros.
+7. Salmonella: 96,66 euros.
 3. Tasa por prestación de servicios de Seguridad Alimentaria.
-Hecho imponible. Constituye el hecho imponible la autorización, inscripción, convalidación, cambio de domicilio industrial, cambio de titular, ampliación de actividad de las industrias, establecimientos y actividades sujetos a Autorización Sanitaria de Funcionamiento o Inscripción en el Registro General Sanitario de Alimentos, así como cualquier otra actividad enumerada en las tarifas.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a los que se presten los servicios objeto de esa Tasa.
-Devengo. La tasa se devengará en el momento que se expida la correspondiente documentación.
-Tarifas: La Tasa se exigirá de acuerdo con las siguientes tarifas:
+Hecho imponible.–Constituye el hecho imponible la autorización, inscripción, convalidación, cambio de domicilio industrial, cambio de titular, ampliación de actividad de las industrias, establecimientos y actividades sujetos a Autorización Sanitaria de Funcionamiento o Inscripción en el Registro General Sanitario de Alimentos, así como cualquier otra actividad enumerada en las tarifas.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las Entidades del artículo 35.4 de la Ley General Tributaria a los que se presten los servicios objeto de esa tasa.
+Devengo.–La tasa se devengará en el momento que se expida la correspondiente documentación.
+Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
 3.1 Autorización Sanitaria, o Registro General Sanitario de Alimentos:
 3.1.1 Por Autorización sanitaria de funcionamiento o Inscripción inicial en el Registro:
-1 a 5 empleados: 91,80 euros.
-6 a 15 empleados: 99,96 euros.
-16 a 25 empleados: 109,14 euros.
-Más de 25 empleados: 117,30 euros.
+1 a 5 empleados: 94,55 euros.
+6 a 15 empleados: 102,96 euros.
+16 a 25 empleados: 112,41 euros.
+Más de 25 empleados: 120,82 euros.
 3.1.2 Por Convalidación, o cambio de domicilio industrial:
-1 a 5 empleados: 83,64 euros.
-6 a 15 empleados: 91,80 euros.
-16 a 25 empleados: 100,98 euros.
-Más de 25 empleados: 110,16 euros.
+1 a 5 empleados: 86,15 euros.
+6 a 15 empleados: 94,55 euros.
+16 a 25 empleados: 104,01 euros.
+Más de 25 empleados: 113,46 euros.
 3.1.3 Por ampliación de actividad:
-1 a 5 empleados: 74,46 euros.
-6 a 15 empleados: 83,64 euros.
-16 a 25 empleados: 91,80 euros.
-Más de 25 empleados: 100,98 euros.
-3.1.4 Por cambio de titular, o modificación de otros datos que sean objeto de asiento en el expediente de Autorización o Registro: 23,46 euros.
+1 a 5 empleados: 76,69 euros.
+6 a 15 empleados: 86,15 euros.
+16 a 25 empleados: 94,55 euros.
+Más de 25 empleados: 104,01 euros.
+3.1.4 Por cambio de titular, o modificación de otros datos que sean objeto de asiento en el expediente de Autorización o Registro: 24,16 euros.
 3.2 Registro de Empresas y Entidades Autorizadas para Formación de Manipuladores de Alimentos:
-3.2.1 Por inscripción inicial de Entidad o Empresa: 64,26 euros.
-3.2.2 Por convalidación, o autorización de personal docente u otras modificaciones del expediente de autorización: 23,46 euros.
-3.2.3 Por tramitación de Carné de Manipulador: 0,153 euros /carné.
-3.3. Certificados sanitarios de productos alimenticios:
-3.3.1 Por certificado sanitario de reconocimiento de productos alimenticios(certificados de exportación y otros a petición de parte):
-Hasta 1.000 kg. o litros: 36,72 euros.
-Más de 1.000 kg. o litros: 40,80 euros.
-3.3.2 Por certificado sanitario de industria o establecimiento alimentario que no conlleve inspección: 3,06 euros.
+3.2.1 Por inscripción inicial de Entidad o Empresa: 66,19 euros.
+3.2.2 Por convalidación, o autorización de personal docente u otras modificaciones del expediente de autorización: 24,16 euros.
+3.2.3 Por tramitación de Carné de Manipulador: 0,158 euros/carné.
+3.3 Certificados sanitarios de productos alimenticios:
+3.3.1 Por certificado sanitario de reconocimiento de productos alimenticios (certificados de exportación y otros a petición de parte):
+Hasta 1.000 kg. o litros: 37,82 euros.
+Más de 1.000 kg. o litros: 42,02 euros.
+3.3.2 Por certificado sanitario de industria o establecimiento alimentario que no conlleve inspección: 3,15 euros.
 4. Tasas por servicios relacionados con asistencia sanitaria.
-Hecho imponible. Constituye el hecho imponible el informe y asesoramiento para la creación, ampliación, modificación, funcionamiento, traslado o cierre de los centros, servicios o establecimientos de asistencia sanitaria; la inspección de centros, servicios y establecimientos sanitarios; la inscripción y control sanitario de las entidades de seguro libre de asistencia médico-farmacéutica; diligenciado de libros de hospitales así como cualquier otro enumerado en las tarifas y realizado por personal o en las dependencias de la Consejería de Sanidad, Consumo y Servicios Sociales.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
-Devengo. La tasa se devengará en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio.
-Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
+Hecho imponible.–Constituye el hecho imponible el informe y asesoramiento para la creación, ampliación, modificación, funcionamiento, traslado o cierre de los centros, servicios o establecimientos de asistencia sanitaria; la inspección de centros, servicios y establecimientos sanitarios; la inscripción y control sanitario de las entidades de seguro libre de asistencia médico-farmacéutica; diligenciado de libros de hospitales así como cualquier otro enumerado en las tarifas y realizado por personal o en las dependencias de la Consejería de Sanidad, Consumo y Servicios Sociales.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
+Devengo.–La tasa se devengará en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio.
+Tarifas.–La tasa se exigirá de acuerdo con las siguientes tarifas:
 A) Por el estudio e informe previo a la resolución de los expedientes de autorización administrativa de creación, ampliación, modificación, permiso de funcionamiento, traslado o cierre de centros, servicios o establecimientos de asistencia sanitaria:
-A.1. Consulta previa y asesoramiento: 31,26 euros.
-A.2. Hospitales: 156,33 euros.
-A.3. Otros centros, servicios y establecimientos: 62,53 euros.
+A.1 Consulta previa y asesoramiento: 32,20 euros.
+A.2 Hospitales: 161,02 euros.
+A.3 Otros centros, servicios y establecimientos: 64,41 euros.
 B) Inspección de Centros, servicios y establecimientos sanitarios:
-B.1 A petición del titular (por inspección o día de inspección cuando suponga más de uno): 50,02 euros.
-B.2 De oficio: 31,26 euros.
+B.1 A petición del titular (por inspección o día de inspección cuando suponga más de uno): 51,52 euros.
+B.2 De oficio: 32,20 euros.
 C) Entidades de seguro libre de asistencia médico-farmacéutica:
-C.1 Inscripción en el Registro de la Dirección General de Ordenación y Atención Sanitaria: 31,26 euros.
+C.1 Inscripción en el Registro de la Dirección General de Ordenación y Atención Sanitaria: 32,20 euros.
 C.2 Prestación de servicios de control sanitario: El 2 por 1.000 de las primas satisfechas por los asegurados a las entidades de seguro libre con actuación en el territorio de la Comunidad Autónoma de Cantabria.
-D) Diligenciado de libros de hospitales: 6,25 euros.
+D) Diligenciado de libros de hospitales: 6,44 euros.
 E) Inspección sanitaria de vehículos destinados a traslado sanitario con expedición de certificado (cuota de autorización de funcionamiento):
-E.1. Ambulancias y similares: 12,51 euros.
-E.2. Otros vehículos: 25,01 euros.
+E.1 Ambulancias y similares: 12,89 euros.
+E.2 Otros vehículos: 25,76 euros.
 5. Tasas por inspecciones y registro de centros, establecimientos y entidades de servicios sociales.
-Hecho imponible. Constituye el hecho imponible la inspección a centros y entidades de servicios sociales y su inscripción en el correspondiente registro, realizada por la Consejería de Sanidad, Consumo y Servicios Sociales.
-Sujeto pasivo. Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
-Devengo. La tasa se devengará en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración.
+Hecho imponible.–Constituye el hecho imponible la inspección a centros y entidades de servicios sociales y su inscripción en el correspondiente registro, realizada por la Consejería de Sanidad, Consumo y Servicios Sociales.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria a las que se presten los servicios objeto de esta tasa.
+Devengo.–La tasa se devengará en el momento de solicitar la prestación del servicio o cuando éste se realice, si se ejecuta de oficio por la Administración.
 Tarifas:
 A) Visitas de inspección a centros y establecimientos de servicios sociales.
-A.1 Visitas para concesión de autorizaciones previas y visitas periódicas de inspección: 31,26 euros.
-A.2 Visitas para concesión de autorización definitiva: 62,53 euros.
-A.3 Inspección de oficio: 31,26 euros.
+A.1 Visitas para concesión de autorizaciones previas y visitas periódicas de inspección: 32,20 euros.
+A.2 Visitas para concesión de autorización definitiva: 64,41 euros.
+A.3 Inspección de oficio: 32,20 euros.
 B) Inscripción en el registro de centros y entidades de servicios sociales.
-B.1. Cuotas de inscripción: 15,64 euros.
+B.1 Cuotas de inscripción: 16,11 euros.
 6. Tasas por inspecciones y controles sanitarios de animales y sus productos.
-Objeto del tributo.-Las tasas, que gravan la inspección y control veterinario de animales y sus productos. A tal efecto, las tasas en lo sucesivo se denominarán:
+Objeto del tributo.–Las tasas, que gravan la inspección y control veterinario de animales y sus productos. A tal efecto, las tasas en lo sucesivo se denominarán:
 Tasa por inspecciones y controles sanitarios de carnes frescas y carnes de conejo y caza.
 Tasa por controles sanitarios respecto de determinadas sustancias y sus residuos en animales vivos y sus productos destinados al consumo humano.
 Dichos controles e inspecciones serán los realizados por los técnicos facultativos en las siguientes operaciones:
@@ -1438,7 +1421,7 @@ Sacrificio de animales.
 Despiece de las canales.
 Operaciones de almacenamiento de carnes frescas para consumo humano.
 Control de determinadas sustancias y residuos en animales y sus productos.
-Hecho imponible.- Constituye el hecho imponible de las presentes tasas, la prestación de las actividades realizadas por la Administración de la Comunidad Autónoma de Cantabria para preservar la salud pública y sanidad animal, mediante la práctica de inspecciones y controles sanitarios de animales y sus carnes frescas destinadas al consumo, así como de otros productos de origen animal, efectuadas por los facultativos de los servicios correspondientes, tanto en los locales o establecimientos de sacrificio, despiece y almacenamiento frigorífico, sitos en el territorio de la Comunidad, como los demás controles y análisis realizados en los centros habilitados al efecto.
+Hecho imponible.–Constituye el hecho imponible de las presentes tasas, la prestación de las actividades realizadas por la Administración de la Comunidad Autónoma de Cantabria para preservar la salud pública y sanidad animal, mediante la práctica de inspecciones y controles sanitarios de animales y sus carnes frescas destinadas al consumo, así como de otros productos de origen animal, efectuadas por los facultativos de los servicios correspondientes, tanto en los locales o establecimientos de sacrificio, despiece y almacenamiento frigorífico, sitos en el territorio de la Comunidad, como los demás controles y análisis realizados en los centros habilitados al efecto.
 A efectos de la exacción del tributo, las actividades de inspección y control sanitario que se incluyen dentro del hecho imponible se catalogan de la siguiente forma:
 a) Inspecciones y controles sanitarios «ante mortem» para la obtención de carnes frescas de ganado bovino, porcino, ovino, caprino y otros rumiantes, conejos y caza menor de pluma y pelo, solípedos/équidos y aves de corral.
 b) Inspecciones y controles sanitarios «post mortem», de los animales sacrificados para la obtención de las mismas carnes frescas.
@@ -1446,7 +1429,7 @@ c) Control documental de las operaciones realizadas en el establecimiento.
 d) El control y estampillado de las canales, vísceras y despojos destinados al consumo humano así como el marcado o marchamado de las piezas obtenidas en las salas de despiece.
 e) Control de las operaciones de almacenamiento de carnes frescas para el consumo humano, desde el momento en que así se establezca, excepto las relativas a pequeñas cantidades realizadas en locales destinados a la venta a los consumidores finales.
 f) Control de determinadas sustancias y residuos en animales y sus productos, en la forma prevista por la normativa vigente.
-Sujeto pasivo.-Son sujetos pasivos obligados al pago de los tributos, según el tipo de tasa de que se trate, las siguientes personas o entidades:
+Sujeto pasivo.–Son sujetos pasivos obligados al pago de los tributos, según el tipo de tasa de que se trate, las siguientes personas o entidades:
 a) En el caso de las tasas relativas a las inspecciones y controles sanitarios oficiales «ante mortem» y «post mortem» de los animales sacrificados, estampillado de canales, vísceras y despojos destinados al consumo humano, los titulares de los establecimientos donde se lleve a cabo el sacrificio, o se practique la inspección, ya sean personas físicas o jurídicas.
 b) En las tasas relativas al control de las operaciones de despiece:
 1. Las mismas personas determinadas en el párrafo anterior cuando las operaciones de despiece se realicen en el mismo matadero.
@@ -1457,7 +1440,7 @@ Los sujetos pasivos anteriores deberán trasladar, cargando su importe en factur
 En el caso de que el interesado, a su vez, haya adquirido el ganado vivo a un tercero, para sacrificio, podrá exigir de éste el importe de la tasa correspondiente al concepto definido en la letra f) del hecho imponible.
 Se entenderá que son interesados, no sólo las personas físicas o jurídicas que soliciten los mencionados servicios, sino también las herencias yacentes, comunidades de bienes y demás entidades que, aunque no tengan personalidad jurídica propia, constituyan una unidad económica o un patrimonio separado.
 Responsables de la percepción de las tasas: Serán responsables subsidiarios, en los supuestos y con el alcance previsto en el artículo 43 de la Ley General Tributaria, los Administradores de las sociedades y los síndicos, interventores o liquidadores de quiebras, concursos, sociedades y entidades en general que se dediquen a las actividades cuya inspección y control genera el devengo de las tasas.
-Devengo.-Las tasas que corresponde satisfacer se devengarán en el momento en que se lleven a cabo las actividades de inspección y control sanitario de animales y sus productos en los establecimientos o instalaciones en que se desarrollen las mismas, sin perjuicio de que se exija su previo pago cuando la realización del control sanitario se inicie a solicitud del sujeto pasivo, o del interesado.
+Devengo.–Las tasas que corresponde satisfacer se devengarán en el momento en que se lleven a cabo las actividades de inspección y control sanitario de animales y sus productos en los establecimientos o instalaciones en que se desarrollen las mismas, sin perjuicio de que se exija su previo pago cuando la realización del control sanitario se inicie a solicitud del sujeto pasivo, o del interesado.
 En caso de que en un mismo establecimiento y a solicitud del interesado se realicen en forma sucesiva las tres operaciones de sacrificio, despiece y almacenamiento, o dos de ellas en fases igualmente sucesivas, el total de la cuantía de la tasa se determinará de forma acumulada, al comienzo del proceso con independencia del momento del devengo de las cuotas correspondientes, sin perjuicio de lo previsto en las reglas relativas a la acumulación de cuotas.
 Lugar de realización del hecho imponible: Se entenderá realizado el hecho imponible en el territorio de la Comunidad Autónoma de Cantabria, cuando en el mismo radique el establecimiento en que se sacrifiquen los animales, se despiecen los canales, se almacenen las carnes, o se efectúen los controles de determinadas sustancias y residuos en animales y sus productos, sin que puedan existir restituciones a favor de otras Comunidades Autónomas.
 Se exceptúa de la norma general anterior la cuota correspondiente a la investigación de residuos en el caso de que, a pesar de haberse producido el sacrificio del ganado en un establecimiento radicado en esta Comunidad, el laboratorio autorizado que desarrolle dicha investigación no dependa de la misma, en cuyo caso, la tasa correspondiente se atribuirá a la Administración de la que efectivamente dependa el indicado centro.
@@ -1473,39 +1456,39 @@ Las cuotas tributarias relativas a las actividades conjuntas de inspección y co
 a) Para ganado:
 Clase de ganado/Cuota por animal sacrificado.
 Bovino:
-Mayor con más de 218 kg de peso por canal: 2,03 euros.
-Menor con menos de 218 kg de peso por canal: 1,12 euros.
-Solípedo/équidos: 1,99 euros.
+Mayor con más de 218 kg. de peso por canal: 2,09 euros.
+Menor con menos de 218 kg. de peso por canal: 1,15 euros.
+Solípedo/équidos: 2,05 euros.
 Porcino y jabalíes:
-Comercial de 25 o más kg de peso por canal: 0,582 euros.
-Lechones de menos de 25 kg de peso por canal: 0,228 euros.
+Comercial de 25 o más kg de peso por canal: 0,599 euros.
+Lechones de menos de 25 kg de peso por canal: 0,235 euros.
 Ovino, caprino y otros rumiantes:
-Con más de 18 kg de peso por canal: 0,228 euros.
-Entre 12 y 18 kg de peso por canal: 0,156 euros.
-De menos de 12 kg de peso por canal: 0,072 euros.
+Con más de 18 kg de peso por canal: 0,235 euros.
+Entre 12 y 18 kg de peso por canal: 0,161 euros.
+De menos de 12 kg de peso por canal: 0,074 euros.
 b) Para aves de corral, conejos y caza menor:
-Clase de ganado / Cuota por animal sacrificado euros.
-Para aves adultas pesadas, conejos y caza menor de pluma y pelo, con más de 5 kilogramos de peso por canal: 0,018134 euros.
-Para aves de corral jóvenes de engorde, conejos y caza menor de pluma y pelo, de engorde de entre 2,5 y 5 kilogramos de peso por canal: 0,008754 euros.
-Para pollos y gallinas de carne y demás aves de corral jóvenes de engorde, conejos y caza menor de pluma y pelo, con menos de 2,5 kilogramos de peso por canal: 0,004377 euros.
-Para gallinas de reposición: 0,004377 euros.
+Clase de ganado/Cuota por animal sacrificado euros.
+Para aves adultas pesadas, conejos y caza menor de pluma y pelo, con más de 5 kilogramos de peso por canal: 0,018678 euros.
+Para aves de corral jóvenes de engorde, conejos y caza menor de pluma y pelo, de engorde de entre 2,5 y 5 kilogramos de peso por canal: 0,009017 euros.
+Para pollos y gallinas de carne y demás aves de corral jóvenes de engorde, conejos y caza menor de pluma y pelo, con menos de 2,5 kilogramos de peso por canal: 0,004508 euros.
+Para gallinas de reposición: 0,004508 euros.
 Para las operaciones de despiece y almacenamiento la cuota se determinará en función del número de toneladas sometidas a la operación de despiece y a las de control de almacenamiento. A estos últimos efectos y para las operaciones de despiece se tomará como referencia el peso real de la carne antes de despiezar, incluidos los huesos.
-La cuota relativa a las inspecciones y controles sanitarios en las salas de despiece, incluido el etiquetado y marcado de piezas obtenidas de las canales se fija en 1,350633 euros por tonelada.
-La cuota correspondiente al control e inspección de las operaciones de almacenamiento se exigirá desde el momento en que se establezcan por haberse producido el desarrollo previsto en el anexo de la Directiva 96/43/CE, la cual se cifra igualmente en 1,350633 euros por tonelada.
+La cuota relativa a las inspecciones y controles sanitarios en las salas de despiece, incluido el etiquetado y marcado de piezas obtenidas de las canales se fija en 1,391152 euros por tonelada.
+La cuota correspondiente al control e inspección de las operaciones de almacenamiento se exigirá desde el momento en que se establezcan por haberse producido el desarrollo previsto en el anexo de la Directiva 96/43/CE, la cual se cifra igualmente en 1,391152 euros por tonelada.
 Las cuotas tributarias se obtendrán, en cada caso, multiplicando las cuotas antes fijadas por los coeficientes que a continuación se señalan, en función del volumen de las operaciones realizadas por los respectivos establecimientos:
 a) Para operaciones de sacrificio:
 Coeficiente.
 a.1) Sacrificio de ganado:
 Establecimientos en los que se obtengan más de 12 Tm/día en canal: 1,00.
 Establecimientos en los que se obtengan de 10 a 12 Tm/día en canal: 1,10.
-Establecimientos en los que se obtengan de 7 a 10 Tm/día en canal: 1,30.
-Establecimientos en los que se obtengan de 4 a 7 Tm/día en canal: 1,60.
-Establecimientos en los que se obtengan de 2 a 4 Tm/día en canal: 1,80.
-Establecimientos en los que se obtengan menos de 2 Tm/día en canal: 2,00.
+Establecimientos en los que se obtengan de 7 a 10 Tm/ día en canal: 1,30.
+Establecimientos en los que se obtengan de 4 a 7 Tm/ día en canal: 1,60.
+Establecimientos en los que se obtengan de 2 a 4 Tm/ día en canal: 1,80.
+Establecimientos en los que se obtengan menos de 2 Tm/ día en canal: 2,00.
 a.2) Sacrificio de aves de corral:
 Establecimientos en los que se sacrifiquen más de 8.600 aves/día: 1,00.
 Establecimientos en los que se sacrifiquen de 7.000 a 8.600 aves/día: 1,10.
-Establecimientos en los que se sacrifiquen de 5000 a 7.000 aves/día: 1,30.
+Establecimientos en los que se sacrifiquen de 5.000 a 7.000 aves/día: 1,30.
 Establecimientos en los que se sacrifiquen de 3.000 a 5.000 aves/día: 1,60.
 Establecimientos en los que se sacrifiquen de 1.000 a 3.000 aves/día: 1,80.
 Establecimientos en los que se sacrifiquen menos de 1.000 aves/día: 2,00.
@@ -1519,7 +1502,7 @@ Establecimientos en los que se despiecen de 10 a 12 Tm/día: 1,10.
 Establecimientos en los que se despiecen de 7 a 10 Tm/día: 1,30.
 Establecimientos en los que se despiecen de 4 a 7 Tm/día: 1,60.
 Establecimientos en los que se despiecen de 2 a 4 Tm/día: 1,80.
-Establecimientos en los que se despiecen menos de 2 Tm/día: 2,00.
+Establecimientos en los que se despiecen menos de 2 Tm/día; 2,00.
 c) Para operaciones de almacenamiento:
 Para expediciones e inspecciones de más de 10 Tm: 1,00.
 Para expediciones e inspecciones de 8 a 10 Tm: 1,10.
@@ -1529,9 +1512,9 @@ Para expediciones e inspecciones de 1 a 3 Tm: 1,80.
 Para expediciones e inspecciones de menos de 1 Tm: 2,00.
 Para la aplicación de los coeficientes anteriores, se tendrán en cuenta las siguientes reglas:
 1. La referencia al volumen de operaciones diarias se aplicará en función de los días hábiles o habilitados en que los establecimientos permanezcan abiertos u obtengan las carnes frescas.
-2. Para las operaciones de almacenamiento, se tendrá en cuenta, exclusivamente, el volumen de las partidas a controlar e inspeccionar
-3. Las referencias a los establecimientos serán extensibles, en igual medida, a los puntos de sacrificio habilitados eventual o temporalmente para la realización de los sacrificios y de las operaciones subsiguientes
-4. A estos efectos, los titulares de los establecimientos dedicados al sacrificio de animales y al despiece de canales, presentarán una declaración anual ante las autoridades sanitarias competentes por razón del territorio, en la que se determine y justifique una estimación del número de jornadas anuales en que el establecimiento habrá de realizar operaciones y el número de Tm. resultante del peso de las canales obtenidas o de las carnes manipuladas, según las reglas aplicables, en cada caso, para obtener los respectivos pesos que se especifican en el presente artículo y con referencia a las operaciones registradas en el año anterior.
+2. Para las operaciones de almacenamiento, se tendrá en cuenta, exclusivamente, el volumen de las partidas a controlar e inspeccionar.
+3. Las referencias a los establecimientos serán extensibles, en igual medida, a los puntos de sacrificio habilitados eventual o temporalmente para la realización de los sacrificios y de las operaciones subsiguientes.
+4. A estos efectos, los titulares de los establecimientos dedicados al sacrificio de animales y al despiece de canales, presentarán una declaración anual ante las autoridades sanitarias competentes por razón del territorio, en la que se determine y justifique una estimación del número de jornadas anuales en que el establecimiento habrá de realizar operaciones y el número de Tm resultante del peso de las canales obtenidas o de las carnes manipuladas, según las reglas aplicables, en cada caso, para obtener los respectivos pesos que se especifican en el presente artículo y con referencia a las operaciones registradas en el año anterior.
 Reglas relativas a la acumulación de cuotas:
 Las cuotas tributarias devengadas en cada caso se deberán acumular cuando concurra la circunstancia de una integración de todas o algunas de las fases de devengo en un mismo establecimiento, de acuerdo con las siguientes reglas:
 a) En caso de que en el mismo establecimiento se efectúen operaciones de sacrificio, despiece y almacenamiento se aplicarán los siguientes criterios para la exacción y devengo del tributo:
@@ -1541,41 +1524,41 @@ b) Cuando concurran en un mismo establecimiento únicamente operaciones de sacri
 c) En el caso de que en el mismo establecimiento se realicen solamente operaciones de despiece y almacenamiento, no se devengará la cuota relativa a inspecciones y controles sanitarios de carnes por la operación de almacenamiento.
 Se entenderá que la tasa percibida por el sacrificio cubre igualmente los gastos de control de las operaciones de despiece, o incluso por operaciones de despiece y de almacenamiento, cuando la situación de los locales en los que se desarrollan las mismas, permita, a los técnicos facultativos, llevar a cabo el control de todas ellas sin un incremento apreciable del tiempo, que normalmente sería preciso dedicar, por sí sólo, a las operaciones de sacrificio.
 Cuota tributaria de la tasa por controles sanitarios respecto de determinadas sustancias y sus residuos en animales vivos y sus productos:
-Por los controles sanitarios de determinadas sustancias y la investigación de residuos en los animales vivos destinados al sacrificio y sus carnes, a los que se hace referencia en el apartado de la cuota tributaria de la tasa por inspecciones y controles sanitarios de carnes frescas y carnes de conejo y caza, practicados según los métodos de análisis previstos en las reglamentaciones técnico sanitarias sobre la materia, dictadas por el propio Estado o catalogadas de obligado cumplimiento en virtud de normas emanadas de la Unión Europea, se percibirá una cuota de 1,350633 euros por Tm resultante de la operación de sacrificio, de acuerdo con las reglas por las que se regula la liquidación de cuotas.
-El importe de dicha tasa a percibir y que asciende a 1,350633 euros por Tm, se podrá cifrar, igualmente, con referencia a los pesos medios a nivel nacional de los canales obtenidos del sacrificio de los animales, de acuerdo con la escala que se incluye al final de este apartado.
-Por el control de determinadas sustancias y residuos en productos de la acuicultura, se percibirá una cuota de 0,100047 euros por Tm.
-La investigación de sustancias y residuos en la leche y productos lácteos devengará una cuota de 0,020009 euros por cada 1.000 litros de leche cruda utilizada como materia prima.
-Por el control de determinadas sustancias y residuos en ovoproductos y miel se percibirá una cuota de 20,009376 euros por Tm.
-Unidades / Cuota por unidad (euros).
-De bovino mayor con más de 218 kilogramos de peso por canal: 0,344 euros.
-De terneros con menos de 218 kilogramos de peso por canal: 0,240 euros.
-De porcino comercial y jabalíes de más de 25 kilogramos de peso por canal: 0,104 euros.
-De lechones y jabalíes de menos de 25 kilogramos de peso por canal: 0,026263 euros.
-De corderos y otros rumiantes de menos de 12 kilogramos de peso por canal: 0,008754 euros.
-De corderos y otros rumiantes de entre 12 y 18 kilogramos de peso por canal: 0,020009 euros.
-De ovino mayor y otros rumiantes con más de 18 kilogramos de peso por canal: 0,025011 euros.
-De cabrito lechal de menos de 12 kilogramos de peso por canal: 0,008754 euros.
-De caprino de entre 12 y 18 kilogramos de peso por canal: 0,020009 euros.
-De caprino mayor de más de 18 kilogramos de peso por canal: 0,025011 euros.
-De ganado caballar: 0,198 euros.
-De aves de corral, conejos y caza menor: 0,002189 euros.
-Liquidación e ingreso.-Los obligados al pago de las tasas trasladarán las mismas cargando su importe total en las correspondientes facturas a los interesados, practicando las liquidaciones procedentes de acuerdo a lo señalado en los artículos anteriores.
+Por los controles sanitarios de determinadas sustancias y la investigación de residuos en los animales vivos destinados al sacrificio y sus carnes, a los que se hace referencia en el apartado de la cuota tributaria de la tasa por inspecciones y controles sanitarios de carnes frescas y carnes de conejo y caza, practicados según los métodos de análisis previstos en las reglamentaciones técnico sanitarias sobre la materia, dictadas por el propio Estado o catalogadas de obligado cumplimiento en virtud de normas emanadas de la Unión Europea, se percibirá una cuota de 1,391152 euros por Tm resultante de la operación de sacrificio, de acuerdo con las reglas por las que se regula la liquidación de cuotas.
+El importe de dicha tasa a percibir y que asciende a 1,391152 euros por Tm, se podrá cifrar, igualmente, con referencia a los pesos medios a nivel nacional de los canales obtenidos del sacrificio de los animales, de acuerdo con la escala que se incluye al final de este apartado.
+Por el control de determinadas sustancias y residuos en productos de la acuicultura, se percibirá una cuota de 0,103048 euros por Tm.
+La investigación de sustancias y residuos en la leche y productos lácteos devengará una cuota de 0,020609 euros por cada 1.000 litros de leche cruda utilizada como materia prima.
+Por el control de determinadas sustancias y residuos en ovoproductos y miel se percibirá una cuota de 20,609657 euros por Tm.
+Unidades/Cuota por unidad (euros).
+De bovino mayor con más de 218 kilogramos de peso por canal: 0,354 euros.
+De terneros con menos de 218 kilogramos de peso por canal: 0,247 euros.
+De porcino comercial y jabalíes de más de 25 kilogramos de peso por canal: 0,107 euros.
+De lechones y jabalíes de menos de 25 kilogramos de peso por canal: 0,027051 euros.
+De corderos y otros rumiantes de menos de 12 kilogramos de peso por canal: 0,009017 euros.
+De corderos y otros rumiantes de entre 12 y 18 kilogramos de peso por canal: 0,020609 euros.
+De ovino mayor y otros rumiantes con más de 18 kilogramos de peso por canal: 0,025761 euros.
+De cabrito lechal de menos de 12 kilogramos de peso por canal: 0,009017 euros.
+De caprino de entre 12 y 18 kilogramos de peso por canal: 0,020609 euros.
+De caprino mayor de más de 18 kilogramos de peso por canal: 0,025761 euros.
+De ganado caballar: 0,204 euros.
+De aves de corral, conejos y caza menor: 0,002255 euros.
+Liquidación e ingreso.–Los obligados al pago de las tasas trasladarán las mismas cargando su importe total en las correspondientes facturas a los interesados, practicando las liquidaciones procedentes de acuerdo a lo señalado en los artículos anteriores.
 Dichas liquidaciones deberán ser registradas en un libro oficial habilitado al efecto y autorizado por la autoridad sanitaria correspondiente. La omisión de este requisito dará origen a la imposición de las sanciones de orden tributario que correspondan, con independencia de las que se puedan determinar al tipificar las conductas de los titulares de las explotaciones en el orden sanitario.
 El ingreso, en cada caso, se realizará mediante autoliquidación del sujeto pasivo correspondiente, en la forma y plazos que se establezcan reglamentariamente.
-Los titulares de los establecimientos dedicados al sacrificio de ganado podrán deducir el coste suplido del personal auxiliar y ayudantes, el cual no podrá superar la cifra de 3,026419 euros por Tm para los animales de abasto y 0,950445 euros por Tm para las aves de corral, conejos y caza menor. A tal efecto, se podrá computar la citada reducción aplicando las siguientes cuantías por unidad sacrificada:
+Los titulares de los establecimientos dedicados al sacrificio de ganado podrán deducir el coste suplido del personal auxiliar y ayudantes, el cual no podrá superar la cifra de 3,117212 euros por Tm para los animales de abasto y 0,978958 euros por Tm para las aves de corral, conejos y caza menor. A tal efecto, se podrá computar la citada reducción aplicando las siguientes cuantías por unidad sacrificada:
 Unidades/Costes suplidos máximos por auxiliares administrativos (por unidad sacrificada).
-De bovino mayor con más de 218 kilogramos de peso por canal: 0,166 euros.
-De terneros con menos de 218 kilogramos de peso por canal: 0,114 euros.
-De porcino comercial y jabalíes de más de 25 kilogramos de peso por canal: 0,050024 euros.
-De lechones y jabalíes de menos de 25 kilogramos de peso por canal: 0,050024 euros.
-De corderos y otros rumiantes de menos de 12 kilogramos de peso por canal: 0,007503 euros.
-De corderos y otros rumiantes de entre 12 y 18 kilogramos de peso por canal: 0,007816 euros.
-De ovino mayor y otros rumiantes con más de 18 kilogramos de peso por canal: 0,012505 euros.
-De cabrito lechal de menos de 12 kilogramos de peso por canal: 0,004377 euros.
-De caprino de entre 12 y 18 kilogramos de peso por canal: 0,007816 euros.
-De caprino mayor de más de 18 kilogramos de peso por canal: 0,050024 euros.
-De ganado caballar: 0,094 euros.
-De aves de corral, conejos y caza menor: 0,001063 euros.
+De bovino mayor con más de 218 kilogramos de peso por canal: 0,171 euros.
+De terneros con menos de 218 kilogramos de peso por canal: 0,117 euros.
+De porcino comercial y jabalíes de más de 25 kilogramos de peso por canal: 0,051525 euros.
+De lechones y jabalíes de menos de 25 kilogramos de peso por canal: 0,051525 euros.
+De corderos y otros rumiantes de menos de 12 kilogramos de peso por canal: 0,007728 euros.
+De corderos y otros rumiantes de entre 12 y 18 kilogramos de peso por canal: 0,008050 euros.
+De ovino mayor y otros rumiantes con más de 18 kilogramos de peso por canal: 0,012880 euros.
+De cabrito lechal de menos de 12 kilogramos de peso por canal: 0,004508 euros.
+De caprino de entre 12 y 18 kilogramos de peso por canal: 0,008050 euros.
+De caprino mayor de más de 18 kilogramos de peso por canal: 0,051525 euros.
+De ganado caballar: 0,097 euros.
+De aves de corral, conejos y caza menor: 0,001095 euros.
 Pesos medios:
 Para efectuar la transformación a euros por unidad sacrificada se utilizarán, según el tipo de ganado, los siguientes pesos medios:
 Tipo de ganado/Peso medio por canal (Kilogramos).
@@ -1589,29 +1572,38 @@ De ovino mayor y otros rumiantes con más de 18 kilogramos de peso por canal: 18
 De cabrito lechal de menos de 12 kilogramos de peso por canal: 6,7.
 De caprino de entre 12 y 18 kilogramos de peso por canal: 15.
 De caprino mayor de más de 18 kilogramos de peso por canal: 18,8.
-De ganado caballar: 145,9.
-De aves de corral, conejos y caza menor: 1,6.
-Infracciones y sanciones tributarias.-En todo lo relativo a la calificación de infracciones tributarias, así como en la determinación de las sanciones correspondientes se estará, en cada caso, a lo dispuesto en los artículos 178 y siguientes de la Ley General Tributaria.
-Exenciones y bonificaciones.-Sobre las cuotas que resulten de las liquidaciones practicadas según las reglas contenidas en los apartados anteriores, no se concederá exención ni bonificación alguna, cualquiera que sea el titular de las explotaciones o el territorio en que se encuentren ubicados.
-Normas adicionales.-El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea en forma directa o indirecta.
+De ganado caballar: 145,9. De aves de corral, conejos y caza menor: 1,6.
+Infracciones y sanciones tributarias.–En todo lo relativo a la calificación de infracciones tributarias, así como en la determinación de las sanciones correspondientes se estará, en cada caso, a lo dispuesto en los artículos 178 y siguientes de la Ley General Tributaria.
+Exenciones y bonificaciones.–Sobre las cuotas que resulten de las liquidaciones practicadas según las reglas contenidas en los apartados anteriores, no se concederá exención ni bonificación alguna, cualquiera que sea el titular de las explotaciones o el territorio en que se encuentren ubicados.
+Normas adicionales.–El importe de la tasa correspondiente no podrá ser objeto de restitución a terceros a causa de la exportación de las carnes, ya sea en forma directa o indirecta.
 7. Tasa por habilitación de profesionales sanitarios.
-Hecho Imponible.-Constituye el hecho imponible de esta Tasa, la prestación por la Administración de la Comunidad Autónoma de Cantabria de servicios, o realización de determinadas pruebas de capacitación para la habilitación de profesionales sanitarios.
-Devengo.-La Tasa se devengará en el momento de presentarse la solicitud de la actividad administrativa constitutiva del hecho imponible.
-Sujeto Pasivo.-Son sujetos pasivos contribuyentes de la Tasa, las personas físicas o jurídicas que soliciten la prestación del servicio o actuaciones administrativas que constituyen el hecho imponible.
-Tarifa.-La Tasa se exigirá conforme a la siguiente tarifa:
-Habilitación de profesionales sanitarios: 31,26 euros.
+Hecho Imponible.–Constituye el hecho imponible de esta Tasa, la prestación por la Administración de la Comunidad Autónoma de Cantabria de servicios, o realización de determinadas pruebas de capacitación para la habilitación de profesionales sanitarios.
+Devengo.–La tasa se devengará en el momento de presentarse la solicitud de la actividad administrativa constitutiva del hecho imponible.
+Sujeto pasivo.–Son sujetos pasivos contribuyentes de la tasa, las personas físicas o jurídicas que soliciten la prestación del servicio o actuaciones administrativas que constituyen el hecho imponible.
+Tarifa.–La tasa se exigirá conforme a la siguiente tarifa:
+Habilitación de profesionales sanitarios: 32,20 euros.
 8. Tasa por participación en pruebas selectivas de personal estatutario.
-Hecho imponible.-Constituye el hecho imponible la participación en pruebas selectivas para la adquisición de la condición de personal estatutario fijo convocadas por la Consejería de Sanidad y Servicios Sociales.
-Sujeto pasivo.-Serán sujetos pasivos las personas físicas que soliciten la participación en tales pruebas selectivas.
-Exenciones.-Estarán exentos del pago de esta Tasa quienes se encuentren en situación de desempleo que acreditarán con la presentación de la cartilla de demandante de empleo expedida un mes de antelación a la convocatoria de las pruebas selectivas, como mínimo.
-Devengo.-La Tasa se devengará en el momento de presentar la solicitud de participación en las pruebas selectivas y se exigirá de acuerdo con las siguientes tarifas:
-Pruebas selectivas de acceso a plazas del Grupo A: 25,01 euros.
-Pruebas selectivas de acceso a plazas del Grupo B: 18,76 euros.
-Pruebas selectivas de acceso a plazas del Grupo C: 12,51 euros.
-Pruebas selectivas de acceso a plazas del Grupo D: 9,38 euros.
-Pruebas selectivas de acceso a plazas del Grupo E: 7,50 euros.
-Téngase en cuenta, en relación a la actualización de tasas de la Administración de la Comunidad Autónoma de Cantabria, el art. 23 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
-Se modifica por los arts. 15 a 22 y el anexo de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004
+Hecho imponible.–Constituye el hecho imponible la participación en pruebas selectivas para la adquisición de la condición de personal estatutario fijo convocadas por la Consejería de Sanidad y Servicios Sociales.
+Sujeto pasivo.–Serán sujetos pasivos las personas físicas que soliciten la participación en tales pruebas selectivas.
+Exenciones.–Estarán exentos del pago de esta tasa quienes se encuentren en situación de desempleo que acreditarán con la presentación de la cartilla de demandante de empleo expedida un mes de antelación a la convocatoria de las pruebas selectivas, como mínimo.
+Devengo.–La tasa se devengará en el momento de presentar la solicitud de participación en las pruebas selectivas y se exigirá de acuerdo con las siguientes tarifas:
+Pruebas selectivas de acceso a plazas del Grupo A: 25,00 euros.
+Pruebas selectivas de acceso a plazas del Grupo B: 25,00 euros.
+Pruebas selectivas de acceso a plazas del Grupo C: 10,00 euros.
+Pruebas selectivas de acceso a plazas del Grupo D: 10,00 euros.
+Pruebas selectivas de acceso a plazas del Grupo E: 10,00 euros.
+Tasas de la Fundación Marqués de Valdecilla
+1. Tasa por dictamen previo de los ensayos clínicos con medicamentos, emitido por el Comité Ético de Investigación Clínica de Cantabria.
+Hecho imponible.–Constituye el hecho imponible la emisión del dictamen previo de los ensayos clínicos con medicamentos por el Comité Ético de Investigación Clínica de Cantabria.
+Sujeto pasivo.–Serán sujetos pasivos de las tasa las personas físicas y jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que tenga la condición de promotor del ensayo clínico.
+Devengo.–La tasa se devenga desde el momento en que el promotor del ensayo clínico solicita el dictamen del Comité Ético de Investigación Clínica de Cantabria.
+Afectación.–Los recursos generados por los ingresos correspondientes a la tasa se destinarán a la financiación de la entidad de derecho público «Fundación Marqués de Valdecilla».
+Tarifas:
+Por evaluación de ensayo clínico: 1.000 euros.
+Por evaluación de enmiendas relevantes: 200 euros.
+Téngase en cuenta, en relación a la actualización de tasas de la Administración del Gobierno de Cantabria y sus Organismos Públicos, el art. 20 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677
+Se modifica por los art. 12 a 19 y el anexo de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677
+Se modifica por los art. 15 a 22 y el anexo de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004
 Se modifica por los arts. 14 a 18 y el anexo de la Ley 4/2003, de 30 de diciembre. Ref. BOE-A-2004-1514
 Se modifica por los arts. 4 a 7 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590
 Redactado conforme a la corrección de errores publicada en BOCT, núm. 22, de 25 de enero de 2003. Ref. BOE-A-2003-3134

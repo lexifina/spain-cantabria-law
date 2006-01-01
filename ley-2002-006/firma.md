@@ -27,6 +27,7 @@ Consejería de Presidencia, Ordenación del Territorio y Urbanismo:
 2. Solicitud de reconocimiento de «utilidad pública» de una asociación.
 3. Inscripción de agrupaciones en el Registro de Agrupaciones Municipales de Voluntarios de Protección Civil.
 4. Inscripción de la constitución de fundaciones en el Registro de Fundaciones.
+5. Solicitudes en materia de gestión de personal formuladas por los interesados, salvo en materia de vacaciones, permisos y licencias.
 Consejería de Industria, Trabajo y Desarrollo Tecnológico:
 1. Autorización a instalaciones de producción de energía eléctrica con energías renovables no hidráulicas o residuos agrícolas.
 2. Autorización e inscripción de parques eólicos.
@@ -199,4 +200,5 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por el art. 7.3 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
 Se modifica por el art. 5.6 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
