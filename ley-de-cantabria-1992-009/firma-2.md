@@ -761,7 +761,7 @@ e) Por estancia, durante cada 24 horas siguientes: 80,64 euros.
 Quinta.–Tarifa T-9.2: Ocupación de las rampas de varada.
 La cuantía por ocupación parcial de las rampas de varada, por día o fracción, será:
 a) Por cada día o fracción a pinazas, gabarras, embarcaciones para servicio del Puerto y buques de comercio: 3,78 euros.
-Por cada día o fracción a buques de pesca con cubierta y embarcaciones de recreo con motor: 1,88 euros.
+b) Por cada día o fracción a buques de pesca con cubierta y embarcaciones de recreo con motor: 1,88 euros.
 c) Por cada día o fracción a buques sin cubierta y embarcaciones de recreo sin motor: 0,515 euros.
 Sexta.–Tarifa T-9.3: Básculas:
 La cuantía será de 1,94 euros por cada pesada.
@@ -1096,14 +1096,13 @@ Tarifa 3. Por la expedición de precintas, etiquetas, contraetiquetas y otros si
 a) La base imponible de la tasa será la correspondiente al valor documentado.
 b) El tipo impositivo será el 200 por 100 de la base imponible.
 Consejería de Economía y Hacienda
-1. Tasa por tramitación de la Licencia Comercial Específica.
-Hecho imponible.–Constituye el hecho imponible de la Tasa la prestación del servicio de tramitación de los expedientes de solicitud de la licencia comercial específica de la Comunidad Autónoma de Cantabria para grandes Establecimientos Comerciales y Establecimientos de Descuento Duro.
-Sujeto Pasivo.–Son sujetos pasivos de la Tasa las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten de la Administración de la Comunidad Autónoma de Cantabria la práctica de la actividad administrativa que integra su hecho imponible.
-Base imponible.–Constituye la base imponible la superficie útil de exposición y ventas de los establecimientos, entendida como la totalidad de los espacios donde se exponen las mercancías con carácter habitual y permanente, o destinados a tal fin con carácter eventual o periódico, y a los que puede acceder la clientela para efectuar las compras; los espacios internos destinados al tránsito de personas; la superficie de la zona de cajas; la comprendida entre estas y las puertas de salida, así como las dedicadas a actividades de prestación de servicios.
-En los establecimientos comerciales que dispongan de secciones de venta asistida por dependiente, se considerará superficie útil de exposición y venta la zona ocupada por las personas vendedoras detrás del mostrador, a la cual no tiene acceso el público.
-Tarifa.–Se establece una tarifa de 3,21 euros por metro cuadrado de superficie útil de exposición y ventas. El importe de la tarifa podrá actualizarse anualmente en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria.
-Devengo.–La Tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
-Se faculta al Consejero que ostente las competencias en materia de comercio para aprobar las disposiciones interpretativas o aclaratorias necesarias, así como los modelos de gestión, liquidación y recaudación de la Tasa.
+1. Tasa por tramitación de la licencia comercial específica.
+Hecho imponible: Constituye el hecho imponible de la tasa la prestación del servicio de tramitación de los expedientes de solicitud de la licencia comercial específica de la Comunidad Autónoma de Cantabria para Grandes Establecimientos Comerciales y Establecimientos de Descuento Duro.
+Sujeto pasivo: Son sujetos pasivos de la presente tasa las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten a la Administración de la Comunidad Autónoma de Cantabria la práctica de la actividad administrativa que integra su hecho imponible. Cuando quien solicite la licencia comercial específica sea el promotor o promotores de un equipamiento comercial de carácter colectivo, deberán satisfacer la tasa sobre la totalidad de la superficie útil de exposición y venta al público del establecimiento, con independencia de que puedan o no coincidir con las personas que explotarán los Grandes Establecimientos Comerciales o los Establecimientos de Descuento Duro que lo integran que, en cuanto estén sujetos a licencia comercial específica, también devengarán el pago de la correspondiente tasa.
+Base imponible: Constituye la base imponible la superficie útil de exposición y ventas de los establecimientos en los términos definidos en el artículo 5 de la Ley de Estructuras comerciales de Cantabria.
+Tarifa: Se establece una tarifa de 3,21 euros por metro cuadrado de superficie útil de exposición y venta al público. El importe de la tarifa podrá actualizarse anualmente en la Ley de Presupuestos Generales de la Comunidad Autónoma de Cantabria.
+Devengo: La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se tramitará sin que se haya efectuado el pago correspondiente.
+Se faculta al Consejero que ostente las competencias en materia de comercio para aprobar las disposiciones interpretativas o aclaratorias necesarias, así como los modelos de gestión, liquidación y recaudación de la tasa.
 Consejería de Medio Ambiente
 1. Tasa de Autorización Ambiental Integrada.
 Hecho imponible.–Constituye el hecho imponible de la tasa la realización, por parte de la Administración de la Comunidad Autónoma de Cantabria, de todas las actividades tendentes a la obtención por el sujeto pasivo, de la autorización ambiental integrada.
@@ -1602,9 +1601,10 @@ Tarifas:
 Por evaluación de ensayo clínico: 1.000 euros.
 Por evaluación de enmiendas relevantes: 200 euros.
 Téngase en cuenta, en relación a la actualización de tasas de la Administración del Gobierno de Cantabria y sus Organismos Públicos, el art. 20 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677
-Se modifica por los art. 12 a 19 y el anexo de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677
-Se modifica por los art. 15 a 22 y el anexo de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004
-Se modifica por los arts. 14 a 18 y el anexo de la Ley 4/2003, de 30 de diciembre. Ref. BOE-A-2004-1514
+Se modifica por la disposición adicional 6 de la Ley 8/2006, de 27 de junio. Ref. BOE-A-2006-14315
+Se modifica por los art. 12 a 19 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677
+Se modifica por los art. 15 a 22 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004
+Se modifica por los arts. 14 a 18 de la Ley 4/2003, de 30 de diciembre. Ref. BOE-A-2004-1514
 Se modifica por los arts. 4 a 7 de la Ley 10/2002, de 23 de diciembre. Ref. BOE-A-2003-1590
 Redactado conforme a la corrección de errores publicada en BOCT, núm. 22, de 25 de enero de 2003. Ref. BOE-A-2003-3134
 Se modifica por los arts. 2 a 5 y la disposición adicional 1 de la Ley 9/2001, de 27 de diciembre. Ref. BOE-A-2002-1376
