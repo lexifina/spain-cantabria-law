@@ -1,0 +1,2 @@
+Disposición adicional única. De la tramitación telemática de los procedimientos en materia de juego.
+La Consejería competente en materia de juego, en el plazo de seis meses desde la entrada en vigor de esta Ley, aprobará las normas necesarias para la puesta en marcha de la tramitación telemática de procedimientos en materia de juego, como medio de traslación de la Sociedad de la Información al sector empresarial del juego.
