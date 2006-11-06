@@ -1,0 +1,5 @@
+Tercera. Instrumentos de planificación.
+1. El Plan de Ordenación de los Recursos Naturales, en desarrollo de los criterios generales del Plan Director de Parques Nacionales establecerá, de forma coordinada para la totalidad del espacio, su zonificación, la regulación de los usos y actividades que se desarrollan o puedan desarrollarse, así como las medidas de conservación, restauración y mejora de los recursos naturales que sean necesarias.
+2. El Plan Rector de Uso y Gestión establecerá las normas, directrices y criterios generales de uso y ordenación, zonificación y regulación de las actuaciones a realizar en este Parque.
+3. El Plan de Desarrollo Sostenible definirá las líneas maestras para las actuaciones, infraestructuras e inversiones públicas encaminadas al desarrollo socio-económico del ámbito del Parque.
+4. Todos estos instrumentos y aquellos otros documentos que los desarrollen, serán elaborados por una Comisión constituida al efecto por representantes de las Consejerías con competencias en materia de espacios naturales protegidos de las tres Comunidades Autónomas, y aprobado según las normas de tramitación aplicables en cada una de dichas Comunidades.

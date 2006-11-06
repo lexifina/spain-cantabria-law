@@ -1,0 +1,2 @@
+Décima. Medios económicos vinculados al cumplimiento del presente Convenio.
+Las Comunidades Autónomas firmantes, para realizar la gestión coordinada del Parque, aportarán los medios materiales necesarios que, como mínimo, serán los recibidos en concepto de traspaso por el Estado a las Comunidades Autónomas de Cantabria, de Castilla y León y del Principado de Asturias para la gestión del Parque Nacional de los Picos de Europa.
