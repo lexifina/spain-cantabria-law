@@ -1,0 +1,2 @@
+Artículo único. Aprobación del texto refundido de la Ley de medidas fiscales en materia de tributos cedidos por el Estado.
+De conformidad con la delegación legislativa contenida en la disposición adicional primera de la Ley de Cantabria 7/2007, de 27 de diciembre, de medidas fiscales y de contenido financiero, se aprueba el texto refundido de la Ley de medidas fiscales en materia de tributos cedidos por el Estado, que se inserta a continuación.
