@@ -174,6 +174,8 @@ Consejería de Educación y Juventud:
 19. Extinción de la autorización de Centros Docentes Privados.
 20. Autorización para impartir docencia en Centros Privados de enseñanza en los niveles educativos de Educación Infantil, Primaria, Secundaria Obligatoria, Bachillerato y FP.
 21. Solicitudes del personal docente cuando de ellas pudieran derivarse efectos económicos o puedan producirlos, o cuando los efectos puedan incidir en la potestad autoorganizativa de la Administración.
+22. Autorización para la implantación de las Enseñanzas Universitarias Oficiales de Grado en el marco del Espacio Europeo de Educación Superior en la Comunidad Autónoma de Cantabria.
+23. Autorización para la implantación de las Enseñanzas Universitarias Oficiales de Posgrado en el marco del Espacio Europeo de Educación Superior en la Comunidad Autónoma de Cantabria.
 Consejería de Sanidad, Consumo y Servicios Sociales:
 1. Autorización sanitaria de funcionamiento y convalidación de industrias y establecimientos sujetos a inscripción en el Registro General Sanitario de Alimentos.
 2. Autorización sanitaria de funcionamiento y convalidación de los establecimientos que realizan actividades de elaboración, distribución y comercio de comidas preparadas, no sujetos a inscripción en el Registro General Sanitario de alimentos, y de carnicerías-salchicherías en el Registro Sanitario de la Comunidad Autónoma de Cantabria.
@@ -200,5 +202,6 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por el art. 11 de la Ley 9/2008, de 26 de diciembre. Ref. BOE-A-2009-1177.
 Se modifica por el art. 7.3 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
 Se modifica por el art. 5.6 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
