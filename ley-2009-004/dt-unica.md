@@ -1,0 +1,2 @@
+Disposición transitoria única. Adaptación normativa y régimen transitorio.
+En el plazo de seis meses a contar desde la fecha de vigencia de esta Ley, los órganos tripartitos de participación actualmente existentes y en funcionamiento deberán adaptarse a su contenido y requerimientos. Mientras tanto, seguirán en vigor sus respectivas normas de organización y funcionamiento en lo que no se opongan a la presente Ley.
