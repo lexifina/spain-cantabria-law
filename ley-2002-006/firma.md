@@ -81,6 +81,7 @@ Consejería de Industria, Trabajo y Desarrollo Tecnológico:
 50. Modificación de la primera inscripción en el Registro de empresas de radiodifusión.
 51. Extensión de convenios colectivos de trabajo.
 52. Primera solicitud de autorización para la actividad de empresas de trabajo temporal en el ámbito regional.
+53. Procedimiento de inscripción, acreditación y modificación de Centros y Entidades de Formación Profesional para el Empleo y de las especialidades formativas.
 Consejería de Obras Públicas, Vivienda y Urbanismo:
 1. Reversión de fincas objeto de expropiación forzosa (cuando no se ejecute la obra o no se establezca el servicio que motivó la expropiación, o hubiere alguna parte sobrante de los bienes expropiados o desapareciese la afectación).
 2. Procedimiento para la exigencia de responsabilidad patrimonial a la Consejería de Obras Públicas, Vivienda y Urbanismo.
@@ -92,7 +93,7 @@ Consejería de Obras Públicas, Vivienda y Urbanismo:
 8. Modificación de trazado de conducciones de abastecimiento de agua.
 9. Ampliación del período de subsidiación del préstamo cualificado para adquirientes de viviendas.
 10. Calificación provisional y definitiva de las actuaciones objeto de rehabilitación.
-Consejería de Ganadería, Agricultura y Pesca:
+Consejería de Desarrollo Rural, Ganadería, Pesca y Biodiversidad:
 1. Autorización de vacíos sanitarios de explotaciones.
 2. Autorización de traslado de animales.
 3. Guía de origen y sanidad pecuaria.
@@ -111,7 +112,7 @@ Consejería de Ganadería, Agricultura y Pesca:
 16. Autorización para la instalación o ampliación de establecimientos de cultivo marinos.
 17. Expedición del carné de mariscador profesional de primera y segunda clase.
 18. Permisos temporales de pesca en aguas interiores.
-19. Obtención y expedición de las tarjetas de identidad profesional náutico pesquera de patrón local de pesca y patrón costero polivalente.
+19. Obtención y expedición de las tarjetas de identidad profesional náutico pesquera.
 20. Ocupaciones en montes de utilidad pública en interés particular.
 21. Ocupaciones en montes de utilidad pública en interés público.
 22. Permiso para la realización de actividades sometidas a autorización previa en montes de utilidad pública o consorciados con la Administración.
@@ -126,6 +127,14 @@ Consejería de Ganadería, Agricultura y Pesca:
 31. Declaración de utilidad pública de montes.
 32. Catalogación y descatalogación de montes de utilidad pública.
 33. Legitimación de gravámenes.
+34. Expedición de tarjeta de identidad profesional de buceo.
+35. Expedición y actualización del Libro Registro de Actividades Subacuaticas.
+36. Autorización para el ejercicio del buceo profesional.
+37. Inscripción en el Censo de Facultativos Especialistas en Medicina Subacuática e Hiperbárica de Cantabria.
+38. Autorización para realizar trabajos subacuáticos.
+39. Expedición del Documento de Calificación Empresarial en los Sectores de Explotaciones Forestales y Aserrío de Madera de Rollo.
+40. Registro de Industrias Agroalimentarias, Forestales y Pesqueras de la Comunidad Autónoma de Cantabria.
+41. Registro de Envasadores y Embotelladores de Vinos y Bebidas Alcohólicas de la Comunidad Autónoma de Cantabria.
 Consejería de Economía y Hacienda:
 1. Devolución de ingresos indebidos de naturaleza tributaria.
 2. Solicitud de aplazamiento o fraccionamiento del pago de deudas, tanto en período voluntario como ejecutivo.
@@ -202,6 +211,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por el art. 14 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931.
 Se modifica por el art. 11 de la Ley 9/2008, de 26 de diciembre. Ref. BOE-A-2009-1177.
 Se modifica por el art. 7.3 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
 Se modifica por el art. 5.6 de la Ley 7/2004, de 27 de diciembre. Ref. BOE-A-2005-1004.
