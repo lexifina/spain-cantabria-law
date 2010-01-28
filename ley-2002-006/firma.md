@@ -93,7 +93,7 @@ Consejería de Obras Públicas, Vivienda y Urbanismo:
 8. Modificación de trazado de conducciones de abastecimiento de agua.
 9. Ampliación del período de subsidiación del préstamo cualificado para adquirientes de viviendas.
 10. Calificación provisional y definitiva de las actuaciones objeto de rehabilitación.
-Consejería de Desarrollo Rural, Ganadería, Pesca y Biodiversidad:
+Consejería de Ganadería, Agricultura y Pesca:
 1. Autorización de vacíos sanitarios de explotaciones.
 2. Autorización de traslado de animales.
 3. Guía de origen y sanidad pecuaria.
@@ -200,7 +200,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 12. Acreditación y renovación de la acreditación de Comités Éticos de Investigación Clínica, de laboratorios en materia de consumo, y de centros, establecimientos y servicios de tratamiento de personas dependientes a opiáceos.
 13. Reconocimiento, declaración, calificación y revisión del grado de minusvalía.
 14. Solicitudes de concertación de plazas y solicitudes de ingreso en centros de salud mental, de atención a personas dependientes y de servicios sociales.
-15. Inscripciones registrales en materia de sanidad, consumo y servicios sociales.
+15. Inscripciones registrales en materia de sanidad y consumo.
 16. Gestión de pensiones no contributivas.
 17. Acreditación de Entidades de Mediación en Adopción Internacional.
 18. Confirmación de la preasignación de un menor extranjero para adopción internacional.
@@ -211,6 +211,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por la disposición final.1 de la Ley 8/2010, de 23 de diciembre. Ref. BOE-A-2011-1141.
 Se modifica por el art. 14 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931.
 Se modifica por el art. 11 de la Ley 9/2008, de 26 de diciembre. Ref. BOE-A-2009-1177.
 Se modifica por el art. 7.3 de la Ley 6/2005, de 26 de diciembre. Ref. BOE-A-2006-677.
