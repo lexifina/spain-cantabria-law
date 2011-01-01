@@ -20,6 +20,10 @@ Plazo: Doce meses.
 Plazo: Doce meses.
 3. Dejar sin efecto la declaración de Bien de Interés Cultura y Bien de Interés Local.
 Plazo: Doce meses.
+Consejería de Obras Públicas, Ordenación del Territorio, Vivienda y Urbanismo:
+1. Procedimiento sancionador por infracciones en materia de viviendas de protección oficial.
+Plazo: Doce meses.
+Se modifica por el art. 13 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651.
 ANEXO II
 Relación de procedimientos administrativos en los que el silencio administrativo tiene efectos desestimatorios
 Consejería de Presidencia, Ordenación del Territorio y Urbanismo:
