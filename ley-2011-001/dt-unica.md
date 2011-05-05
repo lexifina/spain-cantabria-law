@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen aplicable a las personas mediadoras que hayan ejercido la mediación con anterioridad a la entrada en vigor de la Ley.
+Quienes hayan ejercido funciones asimilables a la mediación con anterioridad a la entrada en vigor de la presente Ley y cumplan los requisitos de formación exigidos reglamentariamente por la Consejería competente en materia de Justicia, podrán solicitar su inscripción en el Registro de Personas Mediadoras. En todo caso, podrá exigirse la realización de complementos de formación como requisito previo a la inscripción.
