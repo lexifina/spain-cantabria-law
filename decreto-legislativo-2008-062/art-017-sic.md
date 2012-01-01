@@ -1,3 +1,5 @@
+CAPÍTULO VI
+Tasas sobre Apuestas y Combinaciones Aleatorias
 TÍTULO II
 Disposiciones comunes para la aplicación de los tributos cedidos
 CAPÍTULO I
