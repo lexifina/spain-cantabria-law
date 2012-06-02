@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Supresión de la escala de analista de informática tributaria del cuerpo facultativo superior.
+Se suprime la Escala de Analista de Informática Tributaria del Cuerpo Facultativo Superior creada por Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+Los funcionarios de carrera pertenecientes a la Escala de Analista de Informática Tributaria del Cuerpo Facultativo Superior, cualquiera que sea situación administrativa en la que se encuentren pasarán a integrarse automáticamente en la especialidad Analista de Informática del Cuerpo Facultativo Superior.

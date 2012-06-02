@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Supresión de la escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios.
+Se suprime la escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios creada por Ley de Cantabria 4/2008, de 24 de noviembre, por la que se crea la Agencia Cántabra de la Administración Tributaria.
+Los funcionarios de carrera pertenecientes a la Escala de Técnico de Gestión de Sistemas Informáticos Tributarios del Cuerpo de Diplomados y Técnicos Medios, cualquiera que sea situación administrativa en la que se encuentren, pasarán a integrarse automáticamente en la especialidad Técnico de Gestión de Sistemas del Cuerpo de Diplomados y Técnicos Medios.
