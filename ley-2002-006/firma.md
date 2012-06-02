@@ -161,7 +161,7 @@ Consejería de Economía y Hacienda:
 5. Suspensión de los plazos de presentación en el impuesto sobre sucesiones y donaciones.
 6. Recurso de Reposición previo a la Reclamación Económico-Administrativa.
 7. Reclamaciones Económico-Administrativas.
-8. Gestión financiera y Contratación Administrativa.
+8. Gestión financiera y Contratación Administrativa, con excepción de lo previsto en el tercer párrafo del número 7 del Acuerdo 6/2012, de 6 de marzo, del Consejo de Política Fiscal y Financiera por el que se fijan las líneas generales de un mecanismo extraordinario de financiación para el pago a los proveedores de las Comunidades Autónomas.
 9. Concesiones sobre bienes de dominio público.
 10. Reconocimiento de la condición de entidad colaboradora en la recaudación del Gobierno de Cantabria.
 Consejería de Medio Ambiente y Ordenación del Territorio:
@@ -229,6 +229,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por la disposición adicional.4 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709.
 Se modifica por el art. 9.2 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
 Se modifica por la disposición final.1 de la Ley 8/2010, de 23 de diciembre. Ref. BOE-A-2011-1141.
 Se modifica por el art. 14 de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931.

@@ -1255,12 +1255,12 @@ Tarifas: La tasa se exigirá conforme a la siguiente tarifa:
 Tarifa 1. Emisión de un paquete de 125 impresos de certificados de destrucción: 14,57 euros.
 4. Tasa de gestión final de residuos urbanos.
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por parte de la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo de los siguientes servicios relativos a actividades de gestión de residuos urbanos.
-a) Almacenamiento en los centros de transferencia y transporte hasta las instalaciones de valorización o eliminación,
-b) Gestión final de los residuos urbanos, mediante valorización o eliminación.
+Almacenamiento en los centros de transferencia y transporte hasta las instalaciones de valorización o eliminación.
+Gestión final de los residuos urbanos, mediante valorización o eliminación.
 Sujetos pasivos.–Serán sujetos pasivos de la tasa los municipios, mancomunidades o consorcios en cuyo favor se presten o para los que se realicen los servicios o las actividades gravadas.
 Devengo y período impositivo.–La tasa se devengará en el momento de la entrega de los residuos urbanos en las plantas de transferencia, o en las instalaciones de gestión final, cuando sean depositados directamente en dichas instalaciones, sin almacenamiento previo en plantas de transferencia. La liquidación de la tasa se realizará con periodicidad mensual.
-Tarifas.–La tasa se exigirá conforme a la siguientes tarifas:
-Tarifa.–48,25 euros por tonelada métrica.
+Tarifas.–La tasa se exigirá conforme a la siguiente tarifa:
+Tarifa.–62,73 euros por tonelada métrica.
 La determinación del número de toneladas se efectuará mediante pesada directa de los residuos urbanos en el momento de su entrega en los centros de transferencia o, en su defecto, en las instalaciones de gestión final, cuando los residuos sean depositados directamente en dichas instalaciones sin almacenamiento previo en plantas de transferencia. Cuando los residuos entregados en las anteriores instalaciones procedan de la recogida realizada en diversos Entes locales, y no sea posible determinar físicamente las cantidades que correspondan a cada uno de ellos, el cálculo del número de toneladas que corresponde a cada sujeto pasivo se realizará en función de la frecuencia y la capacidad de los elementos de recogida de cada uno.
 5. Tasa de inspección en materia de emisiones a la atmósfera.
 Hecho imponible.–Constituye el hecho imponible de la tasa la realización, por parte de la Administración de la Comunidad Autónoma de Cantabria, de todas las actuaciones en relación con los servicios de inspección, que conlleven toma de muestras y análisis en materia de emisiones a la atmósfera en aquellas actividades potencialmente contaminadoras de la atmósfera según definición de la ley 34/2007 de 15 de noviembre, de calidad del aire y protección de la atmósfera.
@@ -1287,11 +1287,25 @@ En caso de no medirse todos los contaminantes incluidos en este muestreo, se cob
 Para el caso de muestreos tipos 2 y 3 parciales el cálculo de la tasa se realizará según la formula especificada, aplicándose a cada foco el importe resultante de la disgregación anterior.
 6. Tasa por clausura de vertedero o depósito incontrolado de residuos sólidos urbanos.
 Hecho imponible.–Constituye el hecho imponible de la tasa la prestación por parte de la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo del servicio de clausura de un vertedero o depósito incontrolado de residuos sólidos urbanos, cuando la entidad local correspondiente no cumpla con las obligaciones establecidas en el artículo 4 del Decreto 9/1988, de 1 de marzo, por el que se regula el control, inspección y vigilancia de los residuos sólidos urbanos.
-Sujetos pasivos.–Serán sujetos pasivos de la tasa las entidades locales para los que se realicen los servicios de clausura del vertedero o depósito incontrolado de residuos sólidos urbanos.
-Devengo.–La tasa se devengará cuando se proceda al clausurado del vertedero por la Consejería de Medio Ambiente.
-Tarifas.–La tasa se exigirá conforme a la siguiente tarifa:
-Tarifa.–0,45 euros por Kilogramo.
-La determinación del número de kilogramos se efectuará tomando como dato el indicado por el sistema de pesaje del gestor donde se envíen los residuos.
+Sujetos pasivos.–Serán sujetos pasivos de la tasa las entidades locales para las que se realicen los servicios de clausura del vertedero o depósito incontrolado de residuos sólidos urbanos.
+Devengo.–La tasa se devengará cuando se proceda al clausurado del vertedero por la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo.
+Tarifas.–Las tarifas de la tasa se configuran en función de la tipología de vertedero o depósito de residuo sólido urbano y del tipo de residuos sólidos urbanos.
+Según la tipología especificada se aplicaran las siguientes tarifas:
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad menor a las 30 toneladas de residuos y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo A Distancia 1): 152,20 euros por tonelada métrica.
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad menor a las 30 toneladas de residuos y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo A Distancia 2): 158,85 euros por tonelada métrica.
+Tasa de clausura de vertederos o depósitos incontrolados con una cantidad mayor o igual a 30 toneladas y menor a 150 toneladas de residuo y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo B Distancia 1): 102,34 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 30 toneladas y menor a 150 toneladas de residuo y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo B Distancia 2): 107,94 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 150 toneladas de residuo y situados a una distancia menor o igual a 50 km. del gestor autorizado del residuo. (Tipo C Distancia 1): 59,07 euros por tonelada métrica.
+Tasa de clausura vertederos o depósitos incontrolados con una cantidad mayor o igual a 150 toneladas de residuo y situados a una distancia mayor a 50 km. del gestor autorizado del residuo. (Tipo C Distancia 2): 63,27 euros por tonelada métrica.
+Tarifas adicionales para aquellos supuestos en que los residuos extraídos tengan una caracterización diferente de residuos de la construcción y demolición (RCDs):
+– Residuos inertes de baja densidad: 1.657,27 euros por tonelada métrica.
+– Residuos de aparatos eléctricos y electrónicos (RAEE's): 466,56 euros por tonelada métrica.
+– Neumáticos: 373,25 euros por tonelada métrica.
+– Residuos con aceite mineral: 618,19 euros por tonelada métrica.
+– Residuos que contengan amianto: 2.169,50 euros por tonelada métrica.
+– Residuos con pintura y disolventes u otros residuos peligrosos no contemplados en los apartados anteriores: 2.248,82 euros por tonelada métrica.
+La determinación del número de toneladas se efectuará tomando como dato el indicado por el sistema de pesaje del gestor donde se envíen los residuos.
+Las fracciones inferiores a una tonelada métrica se liquidarán en proporción a la tarifa fijada.
 7. Tasa por abastecimiento de agua.
 Hecho Imponible.
 Constituye el hecho imponible de la tasa de abastecimiento la prestación de los servicios de abastecimiento en alta, tanto de agua bruta como de agua de consumo humano, gestionada por la Administración del Gobierno de Cantabria.
@@ -1660,7 +1674,17 @@ A.2 Visitas para concesión de autorización de funcionamiento: 72,86 euros.
 A.3 Inspección de oficio: 36,43 euros.
 B) Inscripción en el Registro de Entidades Centros y Servicios Sociales.
 B.1 Cuotas de inscripción: 18,22 euros.
+10. Tasa por solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida.
+a) Hecho imponible.–Constituye el hecho imponible la solicitud de revisión de la valoración de la situación de dependencia o de la prestación reconocida conforme a la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia.
+b) Sujeto pasivo.–Son sujetos pasivos quienes soliciten la revisión de la valoración de la situación de dependencia, o de la prestación reconocida, conforme a lo dispuesto en el artículo 30 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia.
+c) Devengo.–La tasa se devengará en el momento en que se presente la solicitud de revisión de la valoración de la situación de dependencia, o de la prestación reconocida.
+d) Pago.–El pago de la tasa se realizará mediante autoliquidación del sujeto pasivo.
+e) Cuota.–El importe de la tasa se divide en dos tipos de tarifa, en función de la revisión solicitada:
+– tarifa correspondiente a la revisión de la valoración de la situación de dependencia: 30 euros.
+– tarifa correspondiente a la revisión de la prestación reconocida: 14 euros.
+c) Exenciones.–Estarán exentos del pago de la tasa los solicitantes de revisión si hubiera mediado más de un año desde la fecha de la resolución administrativa por la que se haya procedido al reconocimiento de la situación de dependencia o a la asignación de recurso a través del Programa Individual de Atención o desde la resolución administrativa por la que se haya resuelto la última solicitud de revisión.
 Téngase en cuenta, en relación con la actualización de tasas de la Administración de la Comunidad Autónoma de Cantabria y de sus Entes de Derecho Público, el art. 6 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
+Se modifica por los arts. 22 y 23 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709#a2-4
 Se modifica por los arts. 2 a 5 y el anexo y se deroga lo indicado por la disposición derogatoria 3.c) de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552
 Se modifica por los arts. 3 a 9 y el anexo de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651
 Se modifica por los arts. 3 a 9 y el anexo de la Ley 6/2009, de 28 de diciembre. Ref. BOE-A-2010-931
