@@ -1,0 +1,4 @@
+Artículo 88 bis. Prescripción de infracciones.
+1. Las infracciones tipificadas en la presente Ley prescriben a los tres años en el caso de las muy graves, a los dos años en el caso de las graves y al año en el caso de las leves.
+2. El plazo de prescripción comenzará a contarse a partir del mismo día de comisión de la infracción. No obstante, cuando se tratare de infracciones continuadas, el día inicial del cómputo será la fecha de finalización de la actividad o la del último acto en que la infracción se consumare. Asimismo, cuando el hecho o actividad constitutivo de la infracción no pudieran ser conocidos por no manifestarse externamente en el momento de comisión, el plazo de prescripción comenzará a computarse desde la aparición de signos externos que lo revelaren.
+Se añade por el art. 23.7 de la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627.
