@@ -1,0 +1,2 @@
+Disposición adicional única. Caducidad del reconocimiento.
+El reconocimiento de la «Universidad Europea del Atlántico» caducará en el caso de que, transcurrido el plazo de cuatro años desde la entrada en vigor de la presente Ley, no se hubiera solicitado la autorización para el inicio de las actividades académicas a que se refiere el artículo 4 de esta Ley, o cuando esta autorización hubiera sido denegada, mediante resolución firme, por falta de cumplimiento de los requisitos previstos en el ordenamiento jurídico.
