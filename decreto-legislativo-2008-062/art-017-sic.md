@@ -1,3 +1,5 @@
+CAPÍTULO V
+Juegos de suerte, envite o azar
 CAPÍTULO VI
 Tasas sobre Apuestas y Combinaciones Aleatorias
 TÍTULO II

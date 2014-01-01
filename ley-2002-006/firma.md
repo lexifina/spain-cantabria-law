@@ -45,7 +45,7 @@ Consejería de Presidencia, Ordenación del Territorio y Urbanismo:
 3. Inscripción de agrupaciones en el Registro de Agrupaciones Municipales de Voluntarios de Protección Civil.
 4. Inscripción de la constitución de fundaciones en el Registro de Fundaciones.
 5. Solicitudes en materia de gestión de personal formuladas por los interesados, salvo en materia de vacaciones, permisos y licencias.
-Consejería de Industria, Trabajo y Desarrollo Tecnológico:
+Consejería de Innovación, Industria, Turismo y Comercio:
 1. Autorización a instalaciones de producción de energía eléctrica con energías renovables no hidráulicas o residuos agrícolas.
 2. Autorización e inscripción de parques eólicos.
 3. Admisión a trámite de solicitud de derechos mineros.
@@ -94,8 +94,8 @@ Consejería de Industria, Trabajo y Desarrollo Tecnológico:
 46. Suspensión de autorización de transportes.
 47. Tramitación de proyectos de nuevos servicios públicos de transporte por cable sujetos a concesión.
 48. Obtención de certificados de capacitación profesional para ejercer la profesión de transportista y de Consejero de Seguridad para el transporte de mercancías.
-49. Concesión de emisoras de radiodifusión sonora en ondas métricas con modulación de frecuencia (emisoras municipales, comerciales y culturales de FM).
-50. Modificación de la primera inscripción en el Registro de empresas de radiodifusión.
+49. Otorgamiento de licencias para la prestación de servicios de comunicación audiovisual.
+50. Autorización previa de negocios jurídicos que afecten a una licencia para la prestación de servicios de comunicación audiovisual.
 51. Extensión de convenios colectivos de trabajo.
 52. Primera solicitud de autorización para la actividad de empresas de trabajo temporal en el ámbito regional.
 53. Procedimiento de inscripción, acreditación y modificación de Centros y Entidades de Formación Profesional para el Empleo y de las especialidades formativas.
@@ -218,7 +218,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 12. Acreditación y renovación de la acreditación de Comités Éticos de Investigación Clínica, de laboratorios en materia de consumo, y de centros, establecimientos y servicios de tratamiento de personas dependientes a opiáceos.
 13. Reconocimiento, declaración, calificación y revisión del grado de minusvalía.
 14. Solicitudes de concertación de plazas y solicitudes de ingreso en centros de salud mental, de atención a personas dependientes y de servicios sociales.
-15. Inscripciones registrales en materia de sanidad y consumo
+15. Inscripciones registrales en materia de sanidad y consumo.
 16. Gestión de pensiones no contributivas.
 17. Acreditación de Entidades de Mediación en Adopción Internacional.
 18. Confirmación de la preasignación de un menor extranjero para adopción internacional.
@@ -229,6 +229,7 @@ Consejería de Sanidad, Consumo y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por el art. 25 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510.
 Se modifica por la disposición adicional.4 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709.
 Se modifica por el art. 9.2 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
 Se modifica por la disposición final.1 de la Ley 8/2010, de 23 de diciembre. Ref. BOE-A-2011-1141.
