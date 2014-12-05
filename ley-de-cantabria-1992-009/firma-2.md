@@ -1329,28 +1329,8 @@ Residuos con pintura y disolventes u otros residuos peligrosos no contemplados e
 La determinación del número de toneladas se efectuará tomando como dato el indicado por el sistema de pesaje del gestor donde se envíen los residuos.
 Las fracciones inferiores a una tonelada métrica se liquidarán en proporción a la tarifa fijada.
 7. Tasa por abastecimiento de agua.
-Hecho Imponible. Constituye el hecho imponible de la tasa de abastecimiento la prestación de los servicios de abastecimiento en alta, tanto de agua bruta como de agua de consumo humano, gestionada por la Administración del Gobierno de Cantabria.
-Obligados tributarios. Son sujetos pasivos de la tasa de abastecimiento a título de contribuyentes los entes locales, y excepcionalmente otras personas físicas o jurídicas privadas, a los que se preste el servicio.
-Los entes locales podrán repercutir en sus tarifas el importe de la tasa de abastecimiento sobre los usuarios finales del servicio.
-Tarifas. Las tarifas de la tasa de abastecimiento en alta se configuran mediante una parte fija y una parte variable del siguiente modo:
-Uno. Tarifa de abastecimiento de agua de consumo humano:
-Parte fija: La parte fija consiste en una cantidad trimestral expresada en euros que se calcula, para cada ejercicio, a partir de la multiplicación del mayor de los consumos medios trimestrales por una tarifa de 0,08356 euros/m3. Para el cálculo de la media trimestral se considerarán los dos años anteriores, salvo cuando se trate de nuevos suministros ó de suministros que no alcancen los dos años, en cuyo caso se tomará el mayor volumen de entre el solicitado para el primer trimestre y el mayor consumo medio.
-Parte variable. La parte variable queda fijada en 0,13160 euros/metro cúbico suministrado para los trimestres de invierno (trimestres naturales primero, segundo y cuarto) y en 0,16716 euros/metro cúbico suministrado para el trimestre de verano (tercer trimestre natural).
-Dos. Tarifa de abastecimiento de agua bruta:
-El usuario podrá optar por una de las modalidades de tarifa, aplicándose por defecto la modalidad 1.
-Los usuarios no previstos en los proyectos de instalaciones de abastecimiento de agua del alta del anexo que se acompaña y los usuarios de nuevas instalaciones optarán por la modalidad 2, solicitando, con una antelación mínima de tres meses al comienzo de la prestación del servicio, el caudal de garantía que quieren les sea asegurado por la administración gestora.
-El suministro se prestará en fracciones de 15 días.
-Modalidad 1:
-Parte fija: La parte fija consiste en una cantidad anual expresada en euros que resulta de multiplicar el caudal punta previsto para cada usuario en los respectivos proyectos de obras ya ejecutados ó a ejecutar en el futuro, expresado en litros/segundo, por una tarifa de 475,75 euros / l/sg.
-Parte variable: La parte variable queda fijada en 0,04747 euros/metro cúbico suministrado.
-Modalidad 2:
-Parte fija: La parte fija consiste en una cantidad anual expresada en euros que resulta de multiplicar el mayor de entre el caudal de garantía solicitado y el caudal máximo histórico suministrado, por una tarifa de 475,75 euros / l/sg. El caudal de garantía solicitado tendrá un mínimo, calculado a partir de multiplicar la población empadronada en el municipio por 0.004 l/sg/habitante y un máximo igual al caudal punta de proyecto referido en la modalidad 1.
-Parte variable: La parte variable queda fijada en 0,04747 euros/metro cúbico suministrado, para el volumen de garantía, que se calcula teniendo en cuenta un suministro durante 15 días con el caudal considerado en la parte fija. Los volúmenes que excedan quincenalmente ese volumen, se facturarán a 0,47460 euros/metro cúbico suministrado.
-No será de aplicación la parte fija en los supuestos de suministro de agua a los servicios públicos de extinción de incendios y emergencias.
-Deuda tributaria. La deuda tributaria se obtendrá sumando la parte fija y la parte variable.
-Período impositivo y devengo: El período impositivo para el abastecimiento de agua de consumo humano es el trimestre natural, devengándose la tasa el último día de cada trimestre. El período impositivo para el abastecimiento de agua bruta es el año natural.
-Liquidación de la tasa: La Administración del Gobierno de Cantabria girará las liquidaciones correspondientes a los sujetos pasivos de acuerdo con lo previsto en la Ley 9/1992, de 18 de diciembre, de tasas y precios públicos de la Comunidad Autónoma de Cantabria y en el resto de normativa tributaria que resulte de aplicación.
-La tasa de abastecimiento de agua de consumo humano se liquidará trimestralmente. La tasa de abastecimiento de agua bruta será liquidada anualmente por la Administración del Gobierno de Cantabria durante el primer trimestre del año siguiente al de la prestación del servicio.
+La tasa autonómica de abastecimiento de agua se regula en la Ley.../2014, de ..........., de abastecimiento y saneamiento de aguas de la Comunidad Autónoma de Cantabria.
+Téngase en cuenta el art. 46 de la por Ley 2/2014, de 26 de noviembre. Ref. BOE-A-2014-13624
 8. Tasa por tramitación de solicitudes de autorizaciones en suelo rústico y en zona de servidumbre de protección del dominio público marítimo terrestre.
 Hecho imponible. Constituye el hecho imponible de la presente tasa la actividad realizada por la Consejería de Medio Ambiente, Ordenación del Territorio y Urbanismo en la tramitación de solicitudes de autorización en suelo rústico, tanto si la competencia resolutoria es de la Comunidad Autónoma como si se residencia en el Ayuntamiento, todo ello según lo establecido en la legislación vigente en la materia, así como la tramitación de solicitudes de autorizaciones en el ámbito de la zona de servidumbre de protección del dominio público marítimo terrestre, incluido el suelo urbano.
 Sujeto pasivo. Serán sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria, que soliciten la autorización de construcciones en suelo rústico cuando la competencia para otorgarlas resida en la Comisión Regional de Ordenación del Territorio y Urbanismo, así como cuando soliciten a la citada Comisión la emisión del preceptivo informe para resolver por parte del Ayuntamiento y la tramitación de autorizaciones en el ámbito de la zona de servidumbre de protección del dominio público marítimo-terrestre, incluido el suelo urbano.
@@ -1746,6 +1726,8 @@ Tarifa 2: Renovación de la licencia de funcionamiento a fabricantes de producto
 Tarifa 3: Modificación sujeta a autorización de la licencia de funcionamiento de fabricantes de productos sanitarios a medida: 92,48 euros.
 Devengo y pago. La tasa se devengará en el momento en que se presta el servicio o se ejecuta la actuación, pero puede ser exigida la justificación del ingreso en el momento de la presentación de la solicitud.
 Téngase en cuenta, en relación con la actualización de tasas de la Administración de la Comunidad Autónoma de Cantabria y de sus Entes de Derecho Público, el art. 9 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
+Se modifica por la disposición adicional 5 y se deroga lo indicado por la disposición derogatoria única.1) de la Ley 2/2014, de 26 de noviembre. Ref. BOE-A-2014-13624
+Véase el art. 46 de la citada ley.
 Se modifica por los arts. 2 a 8 y el anexo de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510
 Se modifica por los arts. 2 a 7 y el anexo de la Ley 10/2012, de 26 de diciembre. Ref. BOE-A-2013-627
 Se modifica por los arts. 22 y 23 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709#a2-4
