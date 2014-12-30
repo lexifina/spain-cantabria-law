@@ -1,0 +1,2 @@
+Disposición adicional decimoprimera. Ámbito territorial de precio máximo.
+En tanto el Gobierno no delimite los ámbitos territoriales a los que se refiere el artículo 8, a los efectos de determinar el precio máximo aplicable a las viviendas que obtengan calificación provisional a partir de la entrada en vigor de la ley, todos los municipios de la Comunidad Autónoma de Cantabria constituyen un único ámbito territorial, en el cual el precio máximo se incrementa un 15 por ciento.
