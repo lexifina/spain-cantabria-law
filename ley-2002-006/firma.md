@@ -35,6 +35,9 @@ Plazo: ocho meses (a contar de la fecha en que se declare definitivamente admiti
 Plazo: un año.
 4. Procedimiento sancionador por infracciones de la normativa de defensa de consumidores y usuarios.
 Plazo: un año.
+5. Procedimiento sancionador en materia de minas.
+Plazo: un año.
+Se modifica por la disposición adicional.4 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478.
 Se modifica por el art. 9.1 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
 Se modifica por el art. 13 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651.
 ANEXO II
