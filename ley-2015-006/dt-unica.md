@@ -1,0 +1,3 @@
+Disposición transitoria única. Aplicación temporal de normas en materia de personal estatutario.
+1. Lo dispuesto en los artículos 50.4 y 52.2 de la Ley de Cantabria 9/2010, de 23 de diciembre, de personal estatutario de Instituciones Sanitarias de la Comunidad Autónoma de Cantabria resultará de aplicación a los nombramientos efectuados con anterioridad a la entrada en vigor de la presente norma.
+2. Lo dispuesto en el artículo 52.5 de la Ley de Cantabria 9/2010, de 23 de diciembre, de personal estatutario de Instituciones Sanitarias de la Comunidad Autónoma de Cantabria, no será aplicable a los titulares de plazas vinculadas que, a la entrada en vigor de la presente Ley, ya hubieran cumplido la edad legal de jubilación forzosa prevista para el personal estatutario.
