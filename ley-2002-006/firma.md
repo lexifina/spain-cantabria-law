@@ -18,7 +18,7 @@ Consejería de Cultura, Turismo y Deporte:
 Plazo: Doce meses.
 2. Declaración de Bien de Interés Local.
 Plazo: Doce meses.
-3. Dejar sin efecto la declaración de Bien de Interés Cultura y Bien de Interés Local.
+3. Dejar sin efecto la declaración de Bien de Interés Cultural y Bien de Interés Local.
 Plazo: Doce meses.
 Consejería de Obras Públicas, Ordenación del Territorio, Vivienda y Urbanismo.
 1. Procedimiento sancionador por infracciones en materia de viviendas de protección oficial.
@@ -37,17 +37,22 @@ Plazo: un año.
 Plazo: un año.
 5. Procedimiento sancionador en materia de minas.
 Plazo: un año.
+Consejería de Educación, Cultura y Deporte. [sic]
+Procedimientos selectivos para el ingreso, accesos y adquisición de nuevas especialidades de cuerpos docentes.
+Plazo: Un año.
+Se modifica por el art. 21.1 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
 Se modifica por la disposición adicional.4 de la Ley 6/2015, de 28 de diciembre. Ref. BOE-A-2016-478.
 Se modifica por el art. 9.1 de la Ley 5/2011, de 29 de diciembre. Ref. BOE-A-2012-552.
 Se modifica por el art. 13 de la Ley 11/2010, de 23 de diciembre. Ref. BOE-A-2011-1651.
 ANEXO II
 Relación de procedimientos administrativos en los que el silencio administrativo tiene efectos desestimatorios
-Consejería de Presidencia, Ordenación del Territorio y Urbanismo:
+Consejería de Presidencia y Justicia:
 1. Autorización de horarios especiales de establecimientos de hostelería.
 2. Solicitud de reconocimiento de «utilidad pública» de una asociación.
 3. Inscripción de agrupaciones en el Registro de Agrupaciones Municipales de Voluntarios de Protección Civil.
 4. Inscripción de la constitución de fundaciones en el Registro de Fundaciones.
 5. Solicitudes en materia de gestión de personal formuladas por los interesados, salvo en materia de vacaciones, permisos y licencias.
+6. Inscripción de estatutos de los Colegios Profesionales y sus modificaciones en el Registro de Colegios Profesionales de Cantabria.
 Consejería de Innovación, Industria, Turismo y Comercio:
 1. Autorización a instalaciones de producción de energía eléctrica con energías renovables no hidráulicas o residuos agrícolas.
 2. Autorización e inscripción de parques eólicos.
@@ -206,6 +211,7 @@ Consejería de Educación y Juventud:
 21. Solicitudes del personal docente cuando de ellas pudieran derivarse efectos económicos o puedan producirlos, o cuando los efectos puedan incidir en la potestad autoorganizativa de la Administración.
 22. Autorización para la implantación de las Enseñanzas Universitarias Oficiales de Grado en el marco del Espacio Europeo de Educación Superior en la Comunidad Autónoma de Cantabria.
 23. Autorización para la implantación de las Enseñanzas Universitarias Oficiales de Posgrado en el marco del Espacio Europeo de Educación Superior en la Comunidad Autónoma de Cantabria.
+24. Solicitudes en materia de compatibilidad formuladas por el personal docente.
 Consejería de Sanidad y Servicios Sociales:
 1. Autorización sanitaria de funcionamiento y convalidación de industrias y establecimientos sujetos a inscripción en el Registro General Sanitario de Alimentos.
 2. Autorización sanitaria de funcionamiento y convalidación de los establecimientos que realizan actividades de elaboración, distribución y comercio de comidas preparadas, no sujetos a inscripción en el Registro General Sanitario de alimentos, y de carnicerías-salchicherías en el Registro Sanitario de la Comunidad Autónoma de Cantabria.
@@ -232,6 +238,7 @@ Consejería de Sanidad y Servicios Sociales:
 23. Otorgamiento, modificación o renovación de autorizaciones de productos, actividades o servicios que, por afectar al ser humano, puedan suponer un riesgo para la salud de las personas.
 Subvenciones y Ayudas Públicas:
 Una vez transcurrido el plazo fijado para la resolución en la orden de convocatoria o en la normativa que regule la subvención, sin haber recaído acuerdo expreso, se entenderán denegadas por silencio administrativo todas las solicitudes de subvención que se gestionen por la Administración de la Comunidad Autónoma de Cantabria y sus Entidades Públicas.
+Se modifica por el art. 21.2 y 3 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
 Se modifica por el art. 29 de la Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
 Se modifica por el art. 25 de la Ley 10/2013, de 27 de diciembre. Ref. BOE-A-2014-510.
 Se modifica por la disposición adicional.4 de la Ley 2/2012, de 30 de mayo. Ref. BOE-A-2012-7709.

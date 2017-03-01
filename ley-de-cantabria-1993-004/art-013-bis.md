@@ -16,6 +16,8 @@ m) Ejercer las potestades disciplinarias conforme a las disposiciones vigentes, 
 n) Reconocer, a efectos de trienios, los servicios prestados en las Administraciones Públicas.
 ñ) Conceder licencias.
 o) En general, la jefatura de personal y los actos de administración y gestión ordinaria, cuantas otras competencias le atribuya la normativa vigente, así como las que, en relación con las citadas, le atribuya, mediante Decreto, el Consejo de Gobierno.
+p) Elaborar y proponer al Consejo de Gobierno el proyecto de oferta pública de empleo docente.
 2. Las competencias enumeradas en el número anterior se ejercerán por los órganos de la Consejería, conforme a la distribución que al efecto se establezca y con sujeción a las normas de procedimientos que reglamentariamente se determinen.
 3. Los centros docentes públicos tendrán en materia de gestión de personal aquellas facultades, entre las recogidas en el número uno de este artículo, que en las normas de desarrollo de la presente Ley le sean reconocidas y las que les sean delegadas.
+Se añade el apartado 1.p) por el art. 22 de la Ley 2/2017, de 24 de febrero. Ref. BOE-A-2017-3025
 Se añade por el art. 5 de la Ley 13/1998 de 23 de diciembre . Ref. BOE-A-1999-5940
