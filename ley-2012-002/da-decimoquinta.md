@@ -1,3 +1,3 @@
 Disposición adicional decimoquinta. Creación de la Comisión de participación de las mujeres.
-Se crea la Comisión de Participación de las Mujeres como un órgano colegiado de carácter consultivo en materia de participación de las mujeres en el desarrollo político, laboral, social, económico y cultural, así como en igualdad de género en la Comunidad Autónoma de Cantabria, adscrito a la Consejería competente en materia de igualdad y mujer.
-La composición, organización y bases de funcionamiento de la Comisión de Participación de las Mujeres se determinará reglamentariamente. En todo caso estarán representados en él la Administración autonómica, las asociaciones de mujeres, así como las entidades locales.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 3/2018, de 28 de mayo. Ref. BOE-A-2018-8793
