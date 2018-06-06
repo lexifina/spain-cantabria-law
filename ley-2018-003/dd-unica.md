@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la disposición adicional decimoquinta de la Ley de Cantabria 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria, y cualesquiera otras normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
