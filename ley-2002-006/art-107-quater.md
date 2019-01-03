@@ -1,3 +1,0 @@
-Artículo 107 quáter. Supresión de trámites en los procedimientos iniciados a instancia de parte.
-En los procedimientos iniciados a instancia de parte, la Administración podrá suprimir la obligación de aportar documentación que afecte a datos de carácter personal, debiendo ser ella quien los recabe utilizando medios electrónicos. Tal supresión requerirá en todo caso que se cuente con el consentimiento de los interesados en los términos establecidos por la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
-Se añade por el art. 1.4 de la Ley 1/2010, de 27 de abril. Ref. BOE-A-2010-8506.
