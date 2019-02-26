@@ -1,3 +1,3 @@
 Disposición adicional decimosexta. Creación de la Comisión de participación de jóvenes.
-Se crea la Comisión de Participación de Jóvenes como un órgano colegiado de carácter consultivo en materia de participación de los jóvenes en el desarrollo político, laboral, social, económico y cultural de la Comunidad Autónoma de Cantabria, adscrito a la Consejería competente en materia de juventud.
-La composición, organización y bases de funcionamiento de la Comisión de Participación de Jóvenes se determinará reglamentariamente. En todo caso estarán representados en él la Administración autonómica, las asociaciones de jóvenes, así como las entidades locales.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 1/2019, de 14 de febrero. Ref. BOE-A-2019-3488#dd
