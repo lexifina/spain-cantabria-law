@@ -3,4 +3,5 @@ MIGUEL ÁNGEL REVILLA ROÍZ,
 Presidente
 ANEXOS I a III
 [Anexos omitidos. Consúltese el PDF original]
+- Se modifican los anexos I y II por el art. 2.2 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
 - Se modifican los anexos I y III por el art. 26 de la Ley 11/2018, de 21 de diciembre. Ref. BOE-A-2019-1632

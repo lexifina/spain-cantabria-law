@@ -73,12 +73,11 @@ Salas multifuncionales: Locales cerrados y cubiertos, donde se desarrollen varia
 B-3) Actividades deportivas:
 Aquellas actividades mediante las cuales se ofrece al público el ejercicio o la práctica de cualquier deporte, bien en establecimientos o instalaciones acondicionadas para ello o en vías o espacios públicos abiertos.
 Se clasifican en:
-Pruebas deportivas competitivas organizadas.
-Marchas ciclistas no competitivas organizadas.
-Otros eventos deportivos no competitivos organizados.
+Pruebas deportivas competitivas organizadas: será todo espectáculo público y actividad recreativa de carácter deportivo cuyo objeto sea competir en espacio o tiempo por las vías y zonas de dominio público.
+Otros eventos deportivos no competitivos organizados: serán aquellos que no estando incluidos en los apartados anteriores se conciben como el ejercicio físico por las vías y zonas de dominio público, con fines deportivos, turísticos o culturales de más de 50 participantes.
 B-4) Actividades, fiestas y celebraciones populares o tradicionales:
 Pueden consistir en:
-Verbenas, romerías y similares: Aquellas actividades que se celebran generalmente al aire libre. Con motivo de fiestas locales, patronales o populares, con actuaciones musicales, bailes, fuegos artificiales, hostelería y restauración. Con motivo de las mismas, se podrán instalar tenderetes, casetas de feria y cualesquiera otras instalaciones portátiles o desmontables.
+Verbenas, romerías, ferias, comidas populares y similares: Aquellas actividades que se celebran generalmente al aire libre, pudiendo ser con motivo de fiestas locales, patronales o populares. Podrán contar con actuaciones musicales, bailes, fuegos artificiales, hostelería y restauración. Igualmente, se podrán instalar tenderetes, casetas de feria y cualesquiera otras instalaciones portátiles o desmontables.
 Festejos taurinos de carácter popular: Son aquellos que consisten en la suelta o encierros de reses de ganado bovino de lidia en plazas de toros o en vías y plazas públicas para recreo y fomento de la afición de los participantes en tales festejos según los usos tradicionales en la localidad en la que se celebren, y se regularán por su normativa específica.
 B-5) Actividades de exhibición de animales:
 Pueden celebrarse en:
@@ -98,5 +97,6 @@ Salas Multifuncionales: Locales cerrados y cubiertos, donde se desarrollen varia
 B-8) Actividades recreativas o de azar:
 Actividad exclusivamente lúdica consistente en la obtención y disfrute de un tiempo de juego u ocio, mediante la utilización de máquinas, aparatos o elementos manuales o informáticos a cambio del pago de un precio por su uso o por acceder al establecimiento donde se encuentran instalados.
 Juegos recreativos y de azar: Son aquellos que se encuentran definidos en la normativa sectorial de juego.
+Se modifican los apartados B-3 y B-4 por el art. 11.3 de la Ley 5/2019, de 23 de diciembre. Ref. BOE-A-2020-504
 Información relacionada.
 Téngase en cuenta que, según se establece en la disposición final segunda, mediante Decreto del Consejo de Gobierno publicado únicamente en el DOC, se podrán actualizar las cuantías de las sanciones pecuniarias y multas contempladas en la presente ley.
