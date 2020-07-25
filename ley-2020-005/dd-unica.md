@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en la presente ley, especialmente el Decreto 109/2006, de 26 de octubre, por el que se crea y regula el Fondo de Cooperación Municipal, el Decreto 21/2016, de 21 de abril por el que se modifica el Decreto 109/2006, de 26 de octubre, por el que se crea y regula el Fondo de Cooperación Municipal y la Disposición adicional única del Decreto 41/2013, de 20 de junio, de creación del Fondo de Liquidez Municipal.
