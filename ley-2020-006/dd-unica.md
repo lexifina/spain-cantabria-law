@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+A la entrada en vigor de esta ley, quedarán derogadas todas las disposiciones de igual o inferior rango que contradigan o se opongan a lo establecido en la misma y en particular el Decreto 26/1997, de 20 de abril, por el que se crea y regula el Protectorado y Registro de Fundaciones de la Comunidad Autónoma de Cantabria, y la Orden de 29 de abril de 1997, sobre llevanza del Registro de Fundaciones.
