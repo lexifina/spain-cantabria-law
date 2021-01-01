@@ -1,0 +1,3 @@
+Artículo 26 sexies. Consultas a las Administraciones publicas afectadas y a las personas interesadas en la evaluación ambiental estratégica simplificada.
+El plazo previsto en el artículo 30 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que las Administraciones públicas afectadas y las personas interesadas se pronuncien será de veinte días hábiles desde la recepción de la solicitud de informe, a las que se pondrá a su disposición el documento ambiental estratégico y el borrador del plan o programa.
+Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842

@@ -380,7 +380,7 @@ Se añaden los apartados 4 y 5 a la letra b) del grupo 2 del anexo I por las dis
 Se deroga el anexo B2, siendo sustituido por los anexos I y II de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913., por Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
 Se añade el apartado l) al grupo 3 del anexo B1 por la disposición adicional 3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-682.
 ANEXO C
-Proyectos contemplados en el artículo 31
+Proyectos contemplados en el artículo 31. Ley 17/2006.
 1. Acuicultura, ganadería y actividades de los servicios relacionados con las mismas.
 a) Instalaciones de ganadería intensiva que superen las siguientes capacidades:
 1.ª 4.000 plazas para gallinas y otras aves excepto avestruces.
@@ -393,21 +393,18 @@ a) Instalaciones de ganadería intensiva que superen las siguientes capacidades:
 8.ª 20 plazas para avestruces.
 b) Instalaciones para la acuicultura intensiva que tengan una capacidad de producción superior a 25 toneladas año.
 2. Industria de productos alimenticios y bebidas.
-a) Instalaciones industriales para la elaboración de grasas y aceites vegetales y animales.
-b) Instalaciones industriales para fabricación de productos lácteos.
-c) Instalaciones industriales para la fabricación de cerveza y malta.
-d) Instalaciones industriales para la elaboración de confituras y almíbares
+a) Instalaciones industriales para la elaboración de grasas y aceites vegetales y animales. con una producción mayor a 100 Kg/día) Instalaciones industriales para fabricación de productos lácteos con una producción mayor a 100 Kg/día.
+c) Instalaciones industriales para la fabricación de cerveza y malta con una producción mayor a 100 Kg/día.
+d) Instalaciones industriales para la elaboración de confituras y almíbares con una producción mayor a 100 Kg/día.
 e) Instalaciones para el sacrificio o despiece de animales.
-f) Instalaciones industriales para la fabricación de féculas.
-g) Instalaciones industriales para la fabricación de harina de pescado y aceite de pescado.
-h) Instalaciones para el sacrificio de animales.
-i) Instalaciones para el despiece de animales.
-j) Azucareras.
-k) Fabricación de piensos compuestos.
-l) Instalaciones de conservación de ganado sacrificado y volatería.
-m) Fabricación de productos de molinería, almidones y productos amilíceos.
-n) Fabricación de productos para la alimentación animal.
-ñ) Fabricación de otros productos alimenticios:
+f) Instalaciones industriales para la fabricación de féculas con una producción mayor a 100 Kg/día.
+g) Instalaciones industriales para la fabricación de harina de pescado y aceite de pescado con una producción mayor a 100 Kg/día.
+h) Instalaciones para el sacrificio de animales, de despiece de animales o de conservación de ganado sacrificado y volatería, que no estén en el anexo A.
+i) Azucareras con una producción mayor a 100 Kg/día.
+j) Fabricación de piensos compuestos con una producción mayor a 100 Kg/día.
+k) Fabricación de productos de molinería, almidones y productos amilíceos con una producción mayor a 100 Kg/día.
+l) Fabricación de productos para la alimentación animal con una producción mayor a 100 Kg/día.
+m) Fabricación de otros productos alimenticios, con una producción mayor a 100 Kg/día.
 1.º Fabricación de pan y productos de panadería y pastelería frescos.
 2.º Fabricación de galletas y de productos de panadería y pastelería de larga duración.
 3.º Industria del cacao, chocolate y confitería.
@@ -415,7 +412,7 @@ n) Fabricación de productos para la alimentación animal.
 5.º Industrias del café, té e infusiones.
 6.º Elaboración de especias, salsas y condimentos.
 7.º Elaboración de preparados para la alimentación infantil y preparados dietéticos.
-3. Industria del tabaco.-Industria del tabaco.
+3. Industria del tabaco (excluyendo los artículos para fumadores).
 4. Industria extractiva y energética.
 a) Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la Ley de Minas y normativa complementaria.
 b) Minería subterránea.
@@ -435,26 +432,17 @@ k) Instalaciones para la utilización de la fuerza del viento para la producció
 l) Fabricación industrial de briquetas de hulla y de lignito.
 5. Fabricación de textiles y productos textiles.
 a) Preparación e hilado de fibras textiles.
-b) Fabricación y acabado de tejidos textiles y artículos de punto.
-6. Preparación, curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje. Artículos de guarnicionería, talabartería y zapatería.
-a) Preparación, curtido y acabado del cuero.
-b) Fabricación y confección de artículos y prendas de cuero y artículos de peletería.
-c) Fabricación de artículos de marroquinería y viaje, artículos de guarnicionería y talabartería.
-d) Fabricación de calzado.
+b) Fabricación y acabado de tejidos textiles y artículos de punto. Sólo los referentes a fabricación de tejidos impregnados, bañados, recubiertos o estratificados con materias plásticas.
+6. Preparación, curtido y acabado del cuero (exceptuando fabricación de artículos de marroquinería y viaje, artículos de guarnicionería, talabartería y zapatería).
 7. Industria de la madera y del corcho.
-a) Aserrado y cepillado de la madera; preparación industrial de la madera.
-b) Fabricación de estructuras, envases, embalajes, chapas, tableros contrachapados y alistonados de madera y partículas aglomeradas.
-c) Fabricación de muebles de madera.
-d) Fabricación de productos de corcho, cestería y espartería.
-8. Industria del papel.
-a) Fabricas de cartonaje.
-b) Fabricación de artículos de papel y de cartón.
-9. Edición, artes gráficas y reproducción de soportes grabados.
+a) Aserrado y cepillado de la madera; preparación industrial de la madera. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
+b) Fabricación de estructuras, envases, embalajes, chapas, tableros contrachapados y alistonados de madera y partículas aglomeradas. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
+c) Fabricación de muebles de madera. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
+8. Edición, artes gráficas y reproducción de soportes grabados. Cuando se utilizan tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
 a) Impresión de periódicos, libros y revistas.
 b) Composición y fotograbado.
 c) Encuadernación y acabado.
-d) Reproducción de soportes grabados de sonido, vídeo e informática.
-10. Industria química.
+9. Industria química.
 a) Fabricación de productos químicos básicos:
 1.º Fabricación de gases industriales.
 2.º Fabricación de colorantes y pigmentos.
@@ -465,8 +453,8 @@ a) Fabricación de productos químicos básicos:
 b) Fabricación de pesticidas y otros productos agroquímicos.
 c) Fabricación de pinturas, barnices y revestimientos similares; tintas de imprenta y masillas.
 d) Fabricación de productos farmacéuticos.
-e) Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento.
-f) Fabricación de perfumes y productos de belleza e higiene.
+e) Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
+f) Fabricación de perfumes y productos de belleza e higiene. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
 g) Fabricación de otros productos químicos:
 1.º Fabricación de colas y gelatinas.
 2.º Fabricación de aceites esenciales.
@@ -474,17 +462,17 @@ g) Fabricación de otros productos químicos:
 4.º Fabricación de soportes vírgenes para grabación.
 5.º Fabricación de otros productos químicos.
 h) Fabricación de fibras artificiales y sintéticas.
-11. Fabricación de productos de caucho y materias plásticas.
+10. Fabricación de productos de caucho y materias plásticas. Cuando se utilizan sustancias peligrosas o Cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
 a) Fabricación de caucho sintético y productos del caucho.
 b) Fabricación de plásticos y productos de materias plásticas.
-12. Fabricación de otros productos de minerales no metálicos (proyectos no incluidos en los anexos A y B2).
+11. Fabricación de otros productos de minerales no metálicos (proyectos no incluidos en los anexos A y B2).
 a) Fabricación de vidrio y productos de vidrio.
 b) Fabricación de productos cerámicos excepto los destinados a la construcción.
 c) Fabricación de ladrillos, tejas y productos de tierras cocidas para la construcción.
 d) Fabricación de elementos de hormigón, yeso y cemento.
 e) Industria de la piedra y el mármol.
 f) Fabricación de productos abrasivos.
-13. Metalurgia.
+12. Metalurgia.
 a) Fabricación de productos básicos de hierro, acero y ferroaleaciones (CECA).
 b) Fabricación de tubos.
 c) Otras actividades de la transformación del hierro y del acero y producción de ferroaleaciones no CECA y otros procesos de transformación del hierro y del acero:
@@ -499,7 +487,7 @@ e) Fundición de metales:
 2.º Fundición de acero.
 3.º Fundición de metales ligeros.
 4.º Fundición de otros metales no férreos.
-14. Fabricación de productos metálicos, excepto maquinaría y equipo.
+13. Fabricación de productos metálicos, excepto maquinaria y equipo.
 a) Fabricación de estructuras y carpintería metálica.
 b) Fabricación de cisternas, depósitos y contenedores.
 c) Fabricación de generadores, radiadores y calderas de vapor.
@@ -507,77 +495,67 @@ d) Forja, estampación y embutición de metales.
 e) Tratamiento y revestimiento de metales.
 f) Fabricación de artículos de cuchillería y cubertería, herramientas y ferretería.
 g) Fabricación de productos metálicos diversos.
-15. Industria de la construcción de maquinaria y equipo mecánico.
+14. Industria de la construcción de maquinaria y equipo mecánico.
 a) Fabricación de máquinas, equipo y material mecánico.
 b) Fabricación de maquinaria agraria.
 c) Fabricación de máquinas-herramienta.
 d) Fabricación de maquinaria diversa para usos específicos.
 e) Fabricación de armas y municiones.
 f) Fabricación de aparatos electrodomésticos.
-16. Fabricación de máquinas de oficina y equipos informáticos.–Fabricación de máquinas de oficina y equipos informáticos.
-17. Fabricación de maquinaria y material eléctrico.
+15. Fabricación de maquinaria y material eléctrico. Se exceptúa el ensamblaje de componentes.
 a) Fabricación de motores eléctricos, transformadores y generadores.
 b) Fabricación de aparatos de distribución y control eléctricos.
 c) Fabricación de hilos y cables eléctricos aislados.
 d) Fabricación de acumuladores y pilas eléctricas.
 e) Fabricación de lámparas eléctricas y aparatos de iluminación.
-18. Fabricación de material electrónico. Fabricación de equipo y aparatos de radio, televisión y comunicaciones.
+16. Fabricación de material electrónico. Fabricación de equipo y aparatos de radio, televisión y comunicaciones. Se exceptúa el ensamblaje de componentes.
 a) Fabricación de válvulas, tubos y otros componentes electrónicos.
 b) Fabricación de transmisores de radiodifusión y televisión y de aparatos para la radiotelefonía y radiotelegrafía.
 c) Fabricación de aparatos de recepción, grabación y reproducción de sonido e imagen.
-19. Fabricación de equipo e instrumentos medico-quirúrgicos, de precisión óptica y relojería.
+17. Fabricación de equipo e instrumentos médico-quirúrgicos, de precisión óptica y relojería. Se exceptúa el ensamblaje de componentes.
 a) Fabricación de equipo e instrumentos médico-quirúrgicos y de aparatos ortopédicos.
 b) Fabricación de instrumentos y aparatos de medida, verificación, control, navegación y otros fines, excepto equipos de control para procesos industriales.
 c) Fabricación de equipo de control de procesos industriales.
 d) Fabricación de instrumentos de óptica y de equipo fotográfico.
 e) Fabricación de relojes.
-20. Fabricación de vehículos de motor, remolques y semirremolques.
+18. Fabricación de vehículos de motor, remolques y semirremolques.
 a) Fabricación de vehículos de motor.
 b) Fabricación de carrocerías para vehículos de motor, de remolques y semirremolques.
 c) Fabricación de partes, piezas y accesorios no eléctricos para vehículos de motor y sus motores.
-21. Fabricación de otro material de transporte.
+19. Fabricación de otro material de transporte. Se exceptúa el ensamblaje de componentes.
 a) Fabricación de material ferroviario.
 b) Construcción aeronáutica y espacial.
 c) Fabricación de motocicletas y bicicletas.
-22. Otras industrias manufactureras.
-a) Fabricación de artículos de joyería, orfebrería, platería y artículos similares.
-b) Fabricación de instrumentos musicales.
-c) Fabricación de artículos de deporte.
-d) Fabricación de juegos y juguetes.
-e) Otras industrias manufactureras diversas.
-23. Reciclaje.–Reciclaje de papel, cartón, vidrio, y madera.
-24. Depuración de agua.–Plantas de tratamiento de aguas de consumo y residuales.
-25. Talleres de mantenimiento y reparación de vehículos de motor.
+20. Otras industrias manufactureras. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año. Se exceptúa el ensamblaje de componentes.
+a) Fabricación de instrumentos musicales.
+b) Fabricación de artículos de deporte.
+c) Fabricación de juegos y juguetes.
+d) Otras industrias manufactureras diversas.
+21. Reciclaje. Reciclaje de papel, cartón, vidrio, y madera.
+22. Depuración de agua. Plantas de tratamiento de aguas de consumo y residuales.
+23. Talleres de mantenimiento y reparación de vehículos de motor.
 a) Talleres eléctricos, mecánicos y de chapa y pintura para mantenimiento y reparación de vehículos de motor.
 b) Lavado de vehículos de motor y cisternas y remolques de trasporte.
-26. Almacenamiento y venta de productos inflamables y/o combustibles.
+24. Almacenamiento y venta de productos inflamables y/o combustibles.
 a) Almacenamiento y venta de pinturas, barnices y disolventes. Droguerías.
-b) Estaciones de servicio de suministro de combustible para vehículos de motor.
+b) Estaciones de servicio de suministro de combustible para vehículos de motor
 c) Almacenamiento de material pirotécnico.
-27. Hostelería.
-a) Hoteles, moteles, hostales y pensiones, con cocina o restaurante.
+25. Hostelería. Limitado a aquellas con cocina con extracción de humos.
+a) Hoteles, moteles, hostales y pensiones.
 b) Restaurantes, degustaciones de café, self-service, sociedades culturales-recreativas-gastronómicas, comedores colectivos, provisión de comidas preparadas, bocaterías.
 c) Bares, cafeterías, bodegas, snak-bar.
-d) Salones recreativos o de juegos.
+d) Salones recreativos o de juegos, bingos.
 e) Boleras, pubs, whiskerías, bares americanos, disco-bar, bingos.
 f) Discotecas, boites, salas de fiesta, salas de baile, salas de fiesta con espectáculos o pases de atracciones, cafés-cantantes, cafés-concierto.
-28. Actividades anexas a los transportes.-Manipulación y depósito de mercancías:
-1.º Manipulación de mercancías.
-2.º Depósito y almacenamiento de mercancías.
-29. Telecomunicaciones.–Estaciones repetidoras de radio y televisión y antenas de telefonía móvil ubicadas en suelo calificado urbanísticamente como rústico.
-30. Estacionamiento de vehículos automóviles.–Garajes comunitarios, aparcamientos públicos y estaciones de autobuses que dispongan de alguna planta en sótano.
-31. Actividades médicas y veterinarias.
+26. Estacionamiento de vehículos automóviles: Únicamente aparcamientos públicos y estaciones de autobuses que dispongan de alguna planta en sótano.
+27. Actividades médicas y veterinarias
 a) Hospitales y clínicas.
 b) Servicios médicos con rehabilitación.
 c) Tanatorios.
 d) Clínicas veterinarias.
 e) Guarderías para animales.
-32. Actividades recreativas, culturales y deportivas.
-a) Actividades cinematográficas.
-b) Academias de baile.
-c) Gimnasios.
-d) Actividades de tiro.
-33. Actividades diversas de servicios personales.–Lavado y limpieza de prendas textiles y de piel.
-34. Otros proyectos.
+28. Actividades diversas de servicios personales. Lavado y limpieza de prendas textiles y de piel. Cuando se utilizan sustancias peligrosas o Cuando se consumen tintas, pinturas, disolventes o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
+29. Otros proyectos.
 a) Plantas asfálticas móviles.
 b) Plantas de tratamiento de áridos móviles.
+Se modifica por el art. 14.9 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
