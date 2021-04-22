@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan expresamente derogados el artículo 6 de la Ley de Cantabria 5/2019, de 23 de diciembre, de Medidas Fiscales y Administrativas, el Decreto 140/2003, de 8 de agosto, para la ordenación de los Cultivos Marinos en la Comunidad Autónoma de Cantabria, así como todas las demás normas y disposiciones de igual o inferior rango que se opongan a lo establecido en la presente ley.
