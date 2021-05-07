@@ -1,0 +1,2 @@
+Disposición adicional única. Patronato.
+De acuerdo con lo establecido en la disposición adicional tercera del Decreto 26/2007, de 8 de marzo, por el que se regulan la composición y funcionamiento de los Patronatos de los Parques Naturales de la Red de Espacios Naturales Protegidos de Cantabria, en el plazo de seis meses desde la entrada en vigor de la presente Ley, mediante decreto se creará el Patronato del Parque Natural de las Dunas de Liencres y Costa Quebrada.
