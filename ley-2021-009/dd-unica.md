@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación de disposiciones.
+Queda derogada la Ley de Cantabria 5/2016, de 19 de diciembre, del Plan Estadístico 2017-2020, el Decreto 6/2019, de 7 de febrero, por el que se aprueba la realización e inclusión en el Programa Anual de Estadística 2019 de estadísticas no incluidas en el Plan Estadístico de Cantabria 2017-2020, así como las demás disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Ley.
