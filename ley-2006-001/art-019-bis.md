@@ -1,0 +1,9 @@
+Artículo 19 bis. Información necesaria en la oferta comercial de bienes y servicios.
+1. Al margen de lo determinado en el artículo anterior respecto al precio, las prácticas comerciales que, de un modo adecuado al medio de comunicación utilizado, incluyan información sobre las características del bien o servicio, posibilitando que el consumidor o usuario tome una decisión sobre la contratación, deberán contener, si no se desprende ya claramente del contexto, al menos la siguiente información:
+a) Nombre, razón social y domicilio completo del empresario responsable de la oferta comercial y, en su caso, nombre, razón social y dirección completa del empresario por cuya cuenta actúa.
+b) Las características esenciales del bien o servicio de una forma adecuada a su naturaleza y al medio de comunicación utilizado.
+c) Los procedimientos de pago, plazos de entrega y ejecución del contrato y el sistema de tratamiento de las reclamaciones, cuando se aparten de las exigencias de la diligencia profesional, entendiendo por tal la definida en el artículo 4.1 de la Ley de Competencia Desleal.
+d) En su caso, existencia del derecho de desistimiento.
+2. A efectos del cumplimiento de lo previsto en el apartado anterior, y sin perjuicio de la normativa sectorial que en su caso resulte de aplicación, la información necesaria a incluir en la oferta comercial deberá facilitarse a los consumidores o usuarios, principalmente cuando se trate de personas consumidoras vulnerables, en términos claros, comprensibles, veraces y en un formato fácilmente accesible, de forma que aseguren su adecuada comprensión y permitan la toma de decisiones óptimas para sus intereses.
+3. El incumplimiento de lo dispuesto en los apartados anteriores será considerado práctica desleal por engañosa en iguales términos a los que establece el artículo 7 de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
+Se añade por el art. 20.9 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
