@@ -86,9 +86,18 @@ Planes y Programas contemplados en el artículo 25
 Grupo 1. Instrumentos de planeamiento y ordenación del territorio.
 a) Plan Regional de Ordenación Territorial.
 b) Normas Urbanísticas Regionales.
-c) Proyectos Singulares de Interés Regional.
-d) Planes y Programas Sectoriales de Incidencia Supramunicipal.
-e) Plan de Ordenación del Litoral.
+c) Planes Territoriales Parciales.
+d) Planes Territoriales Especiales.
+e) Proyectos Singulares de Interés Regional.
+f) Plan de Ordenación del Litoral.
+g) Otros Planes y Programas Sectoriales de Incidencia Supramunicipal.
+Grupo 2. Instrumentos de planeamiento y ordenación urbanística.
+a) Planes Generales de Ordenación Urbana.
+b) Planes Parciales.
+c) Planes Especiales.
+d) Estudios de Detalle Especiales.
+e) Áreas de Desarrollo Rural.
+f) Delimitaciones gráficas de suelo urbano.
 Grupo 2. Instrumentos de planeamiento y ordenación urbanística.
 a) Planes Generales de Ordenación Urbana y sus modificaciones puntuales.
 b) Planes Parciales.
@@ -376,6 +385,7 @@ Grupo 10. Los siguientes proyectos que se desarrollen en Espacios Naturales Prot
 a) Plantas de tratamiento de aguas residuales cuando puedan suponer transformaciones ecológicas negativas para el espacio.
 b) Obras de encauzamiento y proyectos de defensa de cursos naturales cuando puedan suponer transformaciones ecológicas negativas para el espacio.
 c) Cualquier proyecto no contemplado en el presente anexo II que suponga un cambio de uso del suelo en una superficie igual o superior a 10 ha.
+Se modifica, con efectos de 22 de septiembre de 2022, los grupos 1 y 2 del anexo B1 por la disposición adicional 2.2 de la Ley 5/2022, de 15 de julio. Ref. BOE-A-2022-13844#da-2
 Se añaden los apartados 4 y 5 a la letra b) del grupo 2 del anexo I por las disposiciones adicionales 1 y 2 de la Ley 5/2017, de 15 de mayo. Ref. BOE-A-2017-6420
 Se deroga el anexo B2, siendo sustituido por los anexos I y II de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913., por Ley 7/2014, de 26 de diciembre. Ref. BOE-A-2015-685.
 Se añade el apartado l) al grupo 3 del anexo B1 por la disposición adicional 3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-682.
