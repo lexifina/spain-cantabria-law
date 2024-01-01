@@ -66,6 +66,7 @@ CONSEJERÍA DE INDUSTRIA, TURISMO, INNOVACIÓN, TRANSPORTE Y COMERCIO:
 a. Tarifa 4: Expedición de Tarjetas precisas para el tacógrafo digital.
 b. Tarifa 5: Capacitación o competencia profesional de empresas transportistas. Cualificación de conductores.
 Tres. La bonificación definida en los apartados 1 y 2 resultará de aplicación a los hechos imponibles devengados desde la fecha de entrada en vigor de la presente disposición adicional en el ejercicio 2022, hasta el 31 de diciembre de 2022.
-Téngase en cuenta que se prorrogan, durante el ejercicio 2023, las bonificaciones recogidas en este precepto, por la diposición adicional 3 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
+Téngase en cuenta que se prorrogan, durante el ejercicio 2024, las bonificaciones recogidas en este precepto, por la diposición adicional 3 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+Se prorrogan, durante el ejercicio de 2024, las bonificaciones recogidas en este precepto, por la disposición adicional 3 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
 Se prorrogan, durante el ejercicio 2023, las bonificaciones recogidas en este precepto, por la diposición adicional 3 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
 Se añade por el art. único de la la Ley 2/2022, de 26 de mayo. Ref. BOE-A-2022-9437

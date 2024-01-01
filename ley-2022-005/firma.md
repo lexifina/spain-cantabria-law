@@ -40,6 +40,14 @@ Tipos | Suelo (m2) | Diámetro (m) | (por ciento) | –
 Jardín. | 1.000 | 30 | – | Ver 3.2.1.b) y c) –
 Parque. | 10.000 | 50 | –
 Zonas verdes ambientales. | – | – | – | –
+e) Zonas verdes preexistentes: son aquellas que mantienen o reproducen la topografía preexistente y, en el caso de desarrollos industriales computarán a efectos del cumplimiento de estándares urbanísticos, independientemente de su topografía.
+Zonas verdes Tipos | Condiciones mínimas | Límites
+Superficie mínima Suelo (m2) | Círculo inscribible Diámetro (m) | Porcentaje máximo (%) | Otras condiciones
+Área de juego. | 200 | 12 | 20 | -
+Jardín. | 1.000 | 30 | - | Ver 3.2.1.b) y c)
+Parque. | 10.000 | 50 | -
+Z. verdes ambient. | - | - | - | -
+Z. verdes preexist. | - | 30 | - | -
 3.3 Condiciones funcionales y dimensionales de las zonas dotacionales.
 3.3.1 La distribución por usos del suelo destinado a equipamientos, se fijará, en cada caso, atendiendo a las necesidades específicas del ámbito y a su posición relativa en el entorno urbano y territorial, aunque los planes podrán optar por una genérica calificación como equipamiento de uso indeterminado cuando convenga posponer la definición o concreción del uso específico de la dotación a un momento posterior a la gestión del plan.
 3.3.2 La superficie mínima de suelo destinada a cada uso, así como sus características funcionales relativas a la ocupación de parcela o a la edificabilidad aplicable serán las precisas para el desarrollo de la actividad de acuerdo con las disposiciones sectoriales que le afecten, distinguiéndose los siguientes tipos de equipamientos públicos: Educativo-cultural, Sanitario-asistencial, Deportivo-recreativo, Administrativo-institucional, Infraestructura-servicio urbano, alojamiento rotacional y Vivienda dotacional.
@@ -106,3 +114,4 @@ b) En el caso de actuaciones de rehabilitación, renovación o regeneración urb
 c) El análisis referido en la letra anterior hará constar, en su caso, la posible participación de empresas en la rehabilitación o prestadoras de servicios energéticos, de abastecimiento de agua o telecomunicaciones, cuando asuman el compromiso de integrarse en la gestión mediante la financiación de parte de la misma, o de la red de infraestructuras que les competa, así como la financiación de la operación por medio de ahorros amortizables en el tiempo.
 6.2 Informe de Sostenibilidad Económica.
 El Informe de Sostenibilidad Económica ponderará el impacto de las actuaciones urbanizadoras en las haciendas públicas afectadas mediante un análisis comparado entre los costes ocasionados por la implantación y el mantenimiento de los suelos dotacionales públicos, las infraestructuras necesarias o la puesta en marcha y la prestación de los servicios resultantes con relación a los ingresos públicos derivados de la ejecución urbanizadora y edificatoria que las actuaciones proporcionan, así como la suficiencia y adecuación del suelo destinado a usos productivos.
+Se añade la letra e) al apartado 3.2.2 por el art. 23.41 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373

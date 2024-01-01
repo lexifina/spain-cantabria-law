@@ -1,5 +1,6 @@
 ANEXO
 De tasas de la Administración de la Comunidad Autónoma de Cantabria, Organismos Públicos y Entes de Derecho Público Dependientes
+Téngase en cuenta que las cuantías de las tasas y precios públicos se actualizan con carácter general en las leyes de presupuestos generales de cada año y que la denominación y estructura de las Consejerías podrá ser modificada por Decreto del Gobierno de Cantabria, publicada únicamente en el "Boletín Oficial de Cantabria", según establece el art. 74 de la Ley 5/2018, de 22 de noviembre. Ref. BOE-A-2018-17138#ar-74. Puede consultar las cuantías actualizadas en la Agencia Cántabra de Admisistración tributaria.
 Tasas con carácter general aplicables en todas las Consejerías, Organismos Públicos y Entes de Derecho Público Dependientes
 1. Tasa por servicios administrativos
 Hecho imponible: Constituye el hecho imponible de esta tasa la prestación por los distintos Órganos de la Administración de la Comunidad Autónoma de Cantabria, Organismos Públicos y Entes de derecho público dependientes, de los servicios o actividades enumerados en las tarifas, siempre que no estén gravados por una tasa específica.
@@ -1131,7 +1132,7 @@ Tarifa 3. Licencia de pesca continental, válida únicamente para el territorio 
 Hecho imponible: Constituye el hecho imponible la prestación por la Consejería de Desarrollo Rural, Ganadería, Pesca, Alimentación y Medio Ambiente de los servicios administrativos inherentes a la expedición de las licencias que, según la legislación vigente, sean necesarias para practicar la caza.
 Sujeto pasivo: Serán sujetos pasivos aquellas personas físicas que soliciten la expedición de la licencia necesaria para la práctica de la caza en la Comunidad Autónoma de Cantabria.
 Devengo: La tasa se devengará en el momento de solicitarse la licencia.
-Exenciones: Estarán exentos del pago de esta tasa los sujetos pasivos que, a la fecha del devengo de la tasa, hayan cumplido los sesenta y cinco años o no superen los 18 y aquellos que tengan reconocido un grado de discapacidad igual o superior al 33%.
+Exenciones: Estarán exentos del pago de esta tasa los sujetos pasivos que, a la fecha del devengo de la tasa, hayan cumplido los 65 años o no superen los 26 años y aquellos que tengan reconocido un grado de discapacidad igual o superior al 33 %.
 Tarifas. La tasa exigirá conforme a las siguientes tarifas:
 Tarifa 1. Licencia de caza, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante un año: 12,43 euros.
 Tarifa 2. Licencia de caza, válida únicamente para el territorio de la Comunidad Autónoma de Cantabria, durante dos años: 24,05 euros.
@@ -1405,20 +1406,18 @@ Tarifa 5. Por la renovación anual de la inscripción en los registros del Conse
 Exención: Están exentos del pago de esta tarifa los sujetos pasivos que en el mismo ejercicio abonen la correspondiente por las tarifas 1 o 2 de la tasa.
 Tarifa 6. Por el levantamiento de actas por personal de la ODECA a petición de parte o como consecuencia de la detección de incumplimientos que den lugar a controles oficiales que excedan de las actividades normales de control: 93,51 euros.
 Consejería de Economía y Hacienda
-Tasa 1. Tasa por Valoración previa de inmuebles objeto de adquisición o transmisión
-Hecho imponible: Constituye hecho imponible de la tasa la emisión, a solicitud de los interesados y a los efectos de los tributos cuya gestión corresponde al Gobierno de Cantabria, de informes sobre el valor de bienes inmuebles que, situados en el territorio de su competencia, vayan a ser objeto de adquisición o transmisión.
-Sujeto pasivo: Son sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten de la Administración del Gobierno de Cantabria la práctica administrativa que integra el hecho imponible.
-Exenciones objetivas: Está exenta la emisión de informes cuando los bienes a valorar se refieran a pisos, viviendas unifamiliares, garajes y cuartos trasteros a los que sea aplicable los coeficientes multiplicadores del valor catastral, regulado en el artículo 57.1.b) de la Ley General Tributaria y en las Ordenes publicadas por la Consejería competente.
-Devengo: La tasa se devenga cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+Tasa 1. Tasa por Valoración previa de inmuebles objeto de adquisición o transmisión.
+Hecho Imponible. Constituye el hecho imponible de la tasa la emisión, a solicitud de los interesados y a los efectos de los tributos cuya gestión corresponde a la Comunidad Autónoma de Cantabria, de informes técnicos sobre el valor de bienes inmuebles que, situados en el territorio de su competencia, vayan a ser objeto de adquisición o transmisión.
+Sujeto Pasivo. Son sujetos pasivos de la tasa las personas físicas o jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria, que soliciten la práctica administrativa que integra el hecho imponible.
+Devengo. La tasa se devenga cuando se solicite la valoración, siendo necesaria la autoliquidación y pago previo de la misma.
 Tarifas. La tasa se exigirá, por cada bien inmueble, de acuerdo con la siguiente tarifa:
-Epígrafe | Denominación | Cuota – Euros
+Epígrafe | Denominación | Cuota euros
 1 | Naves, locales y oficinas. | 42,58
 2 | Terrenos urbanos y urbanizables. | 42,58
 3 | Inmuebles destinados a usos como vivienda. | 38,33
 4 | Resto de inmuebles urbanos cualquiera que sea su uso. | 38,33
-5 | Fincas rústicas sin construcciones. | 
- | – Una finca. | 31,93
- | – Resto, por cada finca. | 15,96
+5 | Fincas rústicas sin construcciones, una finca. | 31,93
+Resto, por cada finca. | 15,96
 6 | Fincas rústicas con construcciones. | 37,65
 Autoliquidación: La tasa será objeto de autoliquidación por los sujetos pasivos en el momento en que se formule la solicitud.
 La aplicación y el desarrollo de la presente tasa se llevarán a cabo mediante orden de la Consejería competente en materia de Hacienda.
@@ -1428,45 +1427,44 @@ Hecho imponible: Constituye el hecho imponible de la presente tasa las actuacion
 Sujeto pasivo: Serán sujetos pasivos de esta tasa las personas físicas o jurídicas y las entidades del artículo 35.4 de la Ley General Tributaria que soliciten o sean destinatarios de la descalificación de viviendas protegidas.
 Devengo: El devengo se produce cuando, una vez se haya obtenido el informe previo favorable, se solicite la descalificación de la vivienda.
 Tarifas. La tasa exigida por el otorgamiento de la descalificación de viviendas protegidas tiene una única tarifa, que será de 288,07 euros por vivienda.
-2. Tasa por expedición de certificados de profesionalidad, acreditaciones parciales acumulables y expedición de duplicados
-Hecho imponible: Constituye el hecho imponible de la tasa la expedición de certificado de profesionalidad y acreditaciones parciales acumulables así como la expedición, por causas no imputables a la Administración, de duplicados de dichos certificados o acreditaciones.
-Sujeto pasivo: Son sujetos pasivos de la tasa las personas que soliciten la prestación del servicio que integra su hecho imponible.
-Exenciones: Gozarán de exención total de la tasa las personas desempleadas que figuren inscritas como tales en las Oficinas de Empleo.
-Devengo: La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
+2. Tasa por expedición de certificados profesionales, certificados de competencias y expedición de duplicados.
+Hecho imponible. Constituye el hecho imponible de la tasa la expedición de certificados profesionales y certificados de competencias, así como la expedición, por causas no imputables a la Administración, de duplicados de dichos certificados.
+Sujeto pasivo. Son sujetos pasivos de la tasa las personas que soliciten la prestación del servicio que integra su hecho imponible.
+Exenciones. Gozarán de exención total de la tasa las personas desempleadas que figuren inscritas como tales en las Oficinas de Empleo.
+Devengo. La tasa se devengará cuando se presente la solicitud que inicie la actuación administrativa, que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.
 Tarifas:
-– Por expedición de certificados de profesionalidad: 14,96 euros.
-– Por expedición de acreditaciones parciales acumulables (por unidad): 12,66 euros.
-– Por expedición de duplicados de certificados de profesionalidad: 11,52 euros.
-– Por expedición de duplicados de acreditaciones parciales acumulables (por unidad): 9,21 euros.
-3. Tasa de autorización previa a la impartición de las acciones formativas vinculadas a certificados de profesionalidad no financiadas con fondos públicos desarrolladas por empresas y centros de formación de iniciativa privada respecto al cumplimiento de requisitos establecidos en el Real Decreto 34/2008, de 18 de enero, y demás normativa de aplicación
-Hecho imponible: Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para dictar resolución de acuerdo a lo previsto en el artículo 19 del Real Decreto 34/2008, de 18 de enero.
-Sujeto pasivo: Son sujetos pasivos de la tasa aquellas empresas y centros de formación de iniciativa privada que pretendan impartir acciones formativas de formación profesional para el empleo conducente a la obtención de certificados de profesionalidad y así lo comuniquen al Servicio Cántabro de Empleo, en los términos previstos en el artículo 19 del Real Decreto 34/2008, de 18 de enero.
-Devengo: La tasa se devengará en el momento que se realice la comunicación de inicio que inicie el conjunto de trámites administrativos, cuyo ingreso será condición para la prestación del servicio.
-Tarifa. La tasa de autorización de impartición de cada acción formativa se exigirá de acuerdo con la siguiente Tarifa:
-– Para la realización de acciones formativas vinculadas a certificados de profesionalidad en modalidad presencial: 210,00 euros.
-– Para la realización de acciones formativas vinculadas a certificados de profesionalidad en modalidad de teleformación: 237,00 euros
-4. Tasa de la evaluación, seguimiento y control de la calidad de la formación conducente a la obtención de certificado de profesionalidad, de acuerdo a lo establecido en el Real Decreto 34/2008, de 18 de enero
-Hecho imponible: Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para efectuar, de acuerdo a lo previsto en el artículo 18 del Real Decreto 34/2008, de 18 de enero, el seguimiento y control de calidad de las acciones formativas desarrolladas por empresas y centros de formación y centros integrados de formación profesional de iniciativa privada previstos en el artículo 12.2 del mencionado Real Decreto.
-Esta tasa únicamente se impondrá cuando la Resolución sea favorable y autorice la impartición de la acción formativa. Será requisito previo para el inicio de la acción formativa.
-Sujeto pasivo: Son sujetos pasivos de la tasa aquellas empresas y centros de formación de iniciativa privada que hayan sido previamente autorizadas, por Resolución favorable del Servicio Cántabro de Empleo, para impartir acciones formativas de formación profesional para el empleo conducente a la obtención de certificados de profesionalidad. La Resolución favorable se dictará tras la comunicación al Servicio Cántabro de Empleo, en los términos previstos en el artículo 19 del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad y los Reales Decretos por los que se establecen certificados de profesionalidad dictados en su aplicación.
-Devengo: La tasa se devengará tras la comunicación de la Resolución favorable y antes del inicio de la acción formativa autorizada y cuyo ingreso será condición para la prestación del servicio.
-Tarifa. La tasa de evaluación, seguimiento y control de la calidad de las acciones formativas desarrolladas por empresas y los centros de formación y los centros integrados de formación profesional de iniciativa privada previstos en el artículo 12.2 del Real Decreto 34/2008, de 18 de enero, se exigirá de acuerdo con la siguiente tarifa:
-– Para la realización de acciones formativas vinculadas a certificados de profesionalidad en modalidad presencial: 132,00 euros.
-– Para la realización de acciones formativas vinculadas a certificados de profesionalidad en modalidad de tele formación, por cada módulo a impartir: 117,00 euros.
-5. Tasa de autorización previa a la impartición de acciones formativas dirigidas a la obtención de competencia clave que permiten el acceso a la formación de certificados de profesionalidad no financiadas con fondos públicos, desarrolladas por empresas y centros de formación de iniciativa privada
-Hecho imponible: Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para dictar resolución de acuerdo a lo previsto en el artículo 19 del Real Decreto 34/2008, de 18 de enero.
-Sujeto pasivo: Son sujetos pasivos de la tasa aquellas empresas y centros de formación de iniciativa privada que pretendan impartir acciones formativas de formación profesional para el empleo dirigidas a la obtención de competencias clave que permiten el acceso a la formación de certificados de profesionalidad y así lo comuniquen al Servicio Cántabro de Empleo, en los términos previstos en el artículo 19 del Real Decreto 34/2008, de 18 de enero.
-Devengo: La tasa se devengará en el momento que se realice la comunicación de inicio que inicie el conjunto de trámites administrativos, cuyo ingreso será condición para la prestación del servicio.
-Tarifa. La tasa de autorización de impartición de cada acción formativa se exigirá de acuerdo con la siguiente Tarifa:
+– Por expedición de certificados profesionales: 14,96 euros.
+– Por expedición de certificados de competencias (por unidad): 12,66 euros.
+– Por expedición de duplicados de certificados profesionales: 11,52 euros.
+– Por expedición de duplicados de certificados de competencias (por unidad): 9,21 euros.
+3. Tasa de autorización previa a la impartición de las acciones formativas vinculadas a certificados profesionales no financiadas con fondos públicos desarrolladas por centros privados no sostenidos con fondos públicos respecto al cumplimiento de requisitos establecidos en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la Ordenación del Sistema de Formación Profesional y demás normativa de aplicación.
+Hecho imponible. Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para dictar resolución de acuerdo a lo previsto en el artículo 205 del Real Decreto 659/2023, de 18 de julio.
+Sujeto pasivo. Son sujetos pasivos de la tasa aquellos centros privados no sostenidos con fondos públicos que pretendan impartir acciones formativas dirigidas a la obtención de certificados profesionales y así lo comuniquen al Servicio Cántabro de Empleo, en los términos previstos en el artículo 205 del Real Decreto 659/2023, de 18 de julio.
+Devengo. La tasa se devengará en el momento que se realice la comunicación que inicie el conjunto de trámites administrativos, cuyo ingreso será condición para la prestación del servicio.
+Tarifa. La tasa de autorización de impartición de cada acción formativa se exigirá de acuerdo con la siguiente tarifa:
+– Para la realización de acciones formativas vinculadas a certificados profesionales en modalidad presencial: 210,00 euros.
+– Para la realización de acciones formativas vinculadas a certificados profesionales en modalidad de teleformación: 237,00 euros.
+4. Tasa de la evaluación, seguimiento y control de la calidad de la formación dirigida a la obtención de certificados profesionales, no financiada con fondos públicos y desarrollada por centros privados no sostenidos con fondos públicos, de acuerdo con lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la Ordenación del Sistema de Formación Profesional.
+Hecho imponible. Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para efectuar, de acuerdo a lo previsto en el artículo 205 del Real Decreto 659/2023, de 18 de julio, el seguimiento y control de calidad de las acciones formativas desarrolladas por centros privados no sostenidos con fondos públicos.
+Esta tasa únicamente se impondrá cuando la resolución sea favorable y autorice la impartición de la acción formativa. Será requisito previo para el inicio de la acción formativa.
+Sujeto pasivo. Son sujetos pasivos de la tasa aquellos centros privados que hayan sido previamente autorizados, por resolución favorable del Servicio Cántabro de Empleo, para impartir acciones formativas conducentes a la obtención de certificados profesionales. La resolución favorable se dictará tras la comunicación al Servicio Cántabro de Empleo, en los términos previstos en el artículo 205 del Real Decreto 659/2023, de 18 de julio y en los Reales Decretos por los que se establecen certificados profesionales dictados en su aplicación.
+Devengo. La tasa se devengará tras la comunicación de la resolución favorable y antes del inicio de la acción formativa autorizada y cuyo ingreso será condición para la prestación del servicio.
+Tarifa. La tasa de evaluación, seguimiento y control de la calidad de las acciones formativas desarrolladas por centros privados no sostenidos con fondos públicos, se exigirá de acuerdo con las siguientes tarifas:
+– Para la realización de acciones formativas vinculadas a certificados profesionales en modalidad presencial: 132,00 euros.
+– Para la realización de acciones formativas vinculadas a certificados profesionales en modalidad teleformación, por cada módulo a impartir: 117,00 euros.
+5. Tasa de autorización previa a la impartición de acciones formativas dirigidas a la obtención de competencia clave que permiten el acceso a la formación de certificados profesionales, no financiadas con fondos públicos, desarrolladas por empresas y centros de formación de iniciativa privada.
+Hecho imponible. Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para dictar resolución.
+Sujeto pasivo. Son sujetos pasivos de la tasa aquellas empresas y centros de formación de iniciativa privada que pretendan impartir acciones formativas de formación profesional dirigidas a la obtención de competencias clave que permiten el acceso a la obtención de certificados profesionales y así lo comuniquen al Servicio Cántabro de Empleo.
+Devengo. La tasa se devengará en el momento que se realice la comunicación que inicie el conjunto de trámites administrativos, cuyo ingreso será condición para la prestación del servicio.
+Tarifa. La tasa de autorización de impartición de cada acción formativa se exigirá de acuerdo con las siguientes tarifas:
 – Para la realización de acciones formativas en modalidad presencial, por cada una de las competencias claves incluidas en la acción formativa: 210,00 euros.
 – Para la realización de acciones formativas en modalidad teleformación, por cada una de las competencias clave incluidas en la acción formativa: 237,00 euros.
-6. Tasa de la evaluación, seguimiento y control de la calidad de la formación dirigida a la obtención de competencia clave que permiten el acceso a la formación de certificados de profesionalidad no financiadas con fondos públicos, de acuerdo a lo establecido en el artículo 18 del Real Decreto 34/2018, de 18 de enero y de los programas formativos que los desarrollan
-Esta tasa únicamente se impondrá cuando la Resolución sea favorable y autorice la impartición de la acción formativa. Será requisito previo para el inicio de la acción formativa.
-Hecho imponible: Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para efectuar, de acuerdo a lo previsto en el artículo 18 del Real Decreto 34/2008, de 18 de enero, el seguimiento y control de calidad de las acciones formativas desarrolladas por empresas y centros de formación y centros integrados de formación profesional de iniciativa privada previstos en el artículo 12.2 del mencionado Real Decreto.
-Esta tasa únicamente se impondrá cuando la Resolución sea favorable y autorice la impartición de la acción formativa. Será requisito previo para el inicio de la acción formativa.
-Sujeto pasivo: Son sujetos pasivos de la tasa aquellas empresas y centros de formación de iniciativa privada que han sido previamente autorizadas, por Resolución favorable del Servicio Cántabro de Empleo, para impartir acciones formativas de formación profesional para el empleo dirigidas a la obtención de competencias clave que permiten la obtención de certificados de profesionalidad. La Resolución favorable se dictará tras la comunicación al Servicio Cántabro de Empleo, en los términos previstos en el artículo 19 del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad y los Reales Decretos por los que se establecen certificados de profesionalidad dictados en su aplicación.
-Devengo: La tasa se devengará tras la comunicación de la Resolución favorable y antes del inicio de la acción formativa autorizada y cuyo ingreso será condición para la prestación del servicio.
-Tarifa. La tasa de evaluación, seguimiento y control de la calidad de las acciones formativas desarrolladas por empresas y los centros de formación y los centros integrados de formación profesional de iniciativa privada previstos en el artículo 12.2 del Real Decreto 34/2008, de 18 de enero, se exigirá de acuerdo con la siguiente Tarifa:
+6. Tasa de la evaluación, seguimiento y control de la calidad de la formación dirigida a la obtención de competencias clave que permiten el acceso a la formación de certificados profesionales no financiados con fondos públicos.
+Hecho imponible. Constituye el hecho imponible de la tasa el conjunto de trámites necesarios para efectuar el seguimiento y control de calidad de las acciones formativas desarrolladas por empresas y centros de formación y centros integrados de formación profesional de iniciativa privada.
+Esta tasa únicamente se impondrá cuando la resolución sea favorable y autorice la impartición de la acción formativa. Será requisito previo para el inicio de la acción formativa.
+Sujeto pasivo. Son sujetos pasivos de la tasa aquellas empresas y centros privados de formación que han sido previamente autorizadas, por resolución favorable del Servicio Cántabro de Empleo, para impartir acciones formativas de formación profesional dirigidas a la obtención de competencias clave que permiten la obtención de certificados profesionales. La resolución favorable, en su caso, se dictará tras la comunicación al Servicio Cántabro de Empleo.
+Devengo. La tasa se devengará tras la comunicación de la resolución favorable y antes del inicio de la acción formativa autorizada y cuyo ingreso será condición para la prestación del servicio.
+Tarifa. La tasa de evaluación, seguimiento y control de la calidad de las acciones formativas desarrolladas por empresas y los centros de formación y los centros integrados de formación profesional de iniciativa privada, se exigirá de acuerdo con las siguientes tarifas:
 – Para la realización de acciones formativas en modalidad presencial, por cada una de las competencias clave incluidas en la acción formativa: 111,00 euros.
 – Para la realización de acciones formativas en modalidad teleformación, por cada una de las competencias clave incluidas en la acción formativa: 117,00 euros.
 7. Tasa por inspecciones y registro de centros, establecimientos y entidades de servicios sociales
@@ -1768,40 +1766,35 @@ Devengo: La Tasa se devengará en el momento de presentarse la solicitud de la a
 Sujeto pasivo: Son sujetos pasivos contribuyentes de la Tasa, las personas físicas o jurídicas que soliciten la prestación del servicio o actuaciones administrativas que constituyen el hecho imponible.
 Tarifa. La tasa se exigirá conforme a la siguiente tarifa:
 – Habilitación de profesionales sanitarios: 40,72 euros.
-7. Tasa por participación en pruebas selectivas de personal estatutario
-Hecho imponible: Constituye el hecho imponible la participación en pruebas selectivas para la adquisición de la condición de personal estatutario fijo convocadas por la Consejería de Sanidad.
-Sujeto pasivo: Serán sujetos pasivos las personas físicas que soliciten la participación en tales pruebas selectivas.
-Exenciones: Estarán exentos del pago de esta tasa:
-– Las personas desempleadas que figuren inscritas como tales en los Servicio Públicos de Empleo con al menos un mes de antelación a la fecha de publicación de la convocatoria del proceso selectivo.
+7. TTasa por participación en pruebas selectivas de personal estatutario.
+a) Hecho imponible: Constituye el hecho imponible la participación en pruebas selectivas para la adquisición de la condición de personal estatutario fijo convocadas por la Consejería competente en la materia.
+b) Sujeto pasivo: Serán sujetos pasivos las personas físicas que soliciten la participación en tales pruebas selectivas.
+c) Exenciones: Estarán exentos del pago de esta tasa:
+– Las personas desempleadas que figuren inscritas como tales en los Servicios Públicos de Empleo con al menos un mes de antelación a la fecha de publicación de la convocatoria del proceso selectivo.
 – Las personas con un grado de discapacidad igual o superior al 33 por ciento, debiendo acompañar a la solicitud certificado acreditativo de tal condición.
-– Las víctimas del terrorismo, entendiendo por tales, las personas que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista y así lo acrediten mediante sentencia judicial firme o en virtud de resolución administrativa por la que se reconozca tal condición, su cónyuge o persona que haya convivido con análoga relación de afectividad, el cónyuge del fallecido y los hijos de los heridos y fallecidos.
-– Las víctimas de la violencia de género a las que hace referencia la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y sus hijos o hijas; para ello deberán aportar la resolución judicial otorgando la orden de protección a favor de la víctima, sentencia condenatoria, medida cautelar a favor de la víctima o cualquier otra en el que el órgano judicial estime la existencia de cualquiera de los delitos o faltas.
-Devengo: La Tasa se devengará en el momento de presentar la solicitud de participación en las pruebas selectivas.
-Tarifas. La Tasa se exigirá conforme a la siguiente tarifa:
-– Pruebas selectivas de acceso a plazas del grupo A1: 31,62 euros.
-– Pruebas selectivas de acceso a plazas del grupo A2: 31,62 euros.
-– Pruebas selectivas de acceso a plazas del grupo C1: 12,63 euros.
-– Pruebas selectivas de acceso a plazas del grupo C2: 12,63 euros.
-– Pruebas selectivas de acceso a plazas del grupo de Agrupaciones Profesionales: 12,63 euros.
+– Las víctimas del terrorismo, entendiendo por tales, las personas que hayan sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista y así lo acrediten mediante sentencia judicial firme o en virtud de resolución administrativa por la que se reconozca tal condición, su cónyuge o persona que haya convivido en análoga relación de afectividad, el cónyuge del fallecido y los hijos de los heridos y fallecidos.
+– Las víctimas de la violencia de género a las que hace referencia la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y sus hijos o hijas; para ello deberán aportar la resolución judicial otorgando la orden de protección a favor de la víctima, sentencia condenatoria, medida cautelar a favor de la víctima o cualquier otra en el que el órgano judicial estime la existencia de cualquiera de los delitos.
+– Los miembros de familias numerosas, debiendo acompañar a la solicitud certificado acreditativo de tal condición.
+d) Devengo: La tasa se devengará en el momento de presentar la solicitud de participación en las pruebas selectivas.
+e) Tarifas. La Tasa se exigirá conforme a la siguiente tarifa:
+Pruebas selectivas de acceso a plazas del grupo A1: 31,62 euros.
+Pruebas selectivas de acceso a plazas del grupo A2: 31,62 euros.
+Pruebas selectivas de acceso a plazas del grupo C1: 12,63 euros.
+Pruebas selectivas de acceso a plazas del grupo C2: 12,63 euros.
+Pruebas selectivas de acceso a plazas del grupo de Agrupaciones Profesionales: 12,63 euros.
 8. Tasa por dictamen previo de los ensayos clínicos con medicamentos, emitido por el Comité Ético de Investigación Clínica de Cantabria
-a) Hecho imponible: Constituye el hecho imponible la emisión del dictamen previo de los ensayos clínicos con medicamentos por el Comité Ético de Investigación Clínica de Cantabria.
-b) Sujeto pasivo: Serán sujetos pasivos de la tasa las personas físicas y jurídicas, así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que tengan la condición de promotor del ensayo clínico.
-c) Devengo: La tasa se devenga desde el momento en que el promotor del ensayo clínico solicita el dictamen del Comité Ético de Investigación Clínica de Cantabria.
-d) Exenciones: Quedan exentos del pago de las tarifas 1 y 2, los ensayos clínicos que se correspondan con la definición de investigación clínica sin ánimo de comercial, de conformidad con Real Decreto 1090/2015, de 4 de diciembre.
-Tarifas:
-1. Por evaluación de ensayo clínico: 1.289,89 euros.
-2. Por evaluación de enmiendas relevantes: 257,96 euros.
-9. Tasa por inscripción en el Registro Oficial de Establecimientos y Servicios Biocidas de Cantabria
+(Suprimida)
+8. Tasa por inscripción en el Registro Oficial de Establecimientos y Servicios Biocidas de Cantabria
 a) Hecho imponible: Constituye el hecho imponible la inscripción, cambio de domicilio industrial, cambio de titular, ampliación de actividad, de los establecimientos y servicios, sujetos a inscripción en el Registro Oficial de Establecimientos y Servicios Biocidas de Cantabria.
 b) Sujeto pasivo: Serán sujetos pasivos las personas físicas o jurídicas que sean titulares de los establecimientos y/o servicios biocidas ubicados en el territorio de la Comunidad Autónoma de Cantabria, que presten los servicios objeto de esta Tasa.
 c) Devengo: la Tasa se devengará en el momento que se expida la correspondiente documentación.
 e) Tarifa: 53,23 euros.
-10. Tasa por participar en concursos para la autorización de apertura de nuevas oficinas de farmacia en Cantabria
+9. Tasa por participar en concursos para la autorización de apertura de nuevas oficinas de farmacia en Cantabria
 Hecho imponible: Constituye el hecho imponible la presentación de la solicitud de participación en los concursos para la autorización de apertura de nuevas oficinas de farmacia en Cantabria.
 Sujeto pasivo: Serán sujetos pasivos las personas físicas que presenten solicitud de participación en los concursos para la autorización de apertura de nuevas oficinas de farmacia en Cantabria.
 Devengo: La tasa se devengará en el momento de presentación de la solicitud de participación en los concursos para la autorización de apertura de nuevas oficinas de farmacia en Cantabria.
 Tarifa: 158,61 euros.
-11. Tasa por solicitudes de autorización en materia de estudios posautorización de tipo observacional de seguimiento prospectivo en Cantabria
+10. Tasa por solicitudes de autorización en materia de estudios posautorización de tipo observacional de seguimiento prospectivo en Cantabria
 a) Hecho imponible: Constituye el hecho imponible la presentación de la solicitud de autorización inicial para la realización de estudios posautorización de tipo observacional de seguimiento prospectivo en Cantabria y la presentación de la solicitud de autorización de modificaciones relevantes de estudios posautorización de tipo observacional de seguimiento prospectivo previamente autorizados en Cantabria.
 b) Sujeto pasivo: Serán sujetos pasivos las personas físicas o jurídicas que presenten solicitud de autorización inicial para la realización de estudios posautorización de tipo observacional de seguimiento prospectivo en Cantabria y las personas físicas o jurídicas que presenten solicitud de autorización de modificaciones relevantes de estudios posautorización de tipo observacional de seguimiento prospectivo previamente autorizados en Cantabria.
 c) Exenciones: Quedan exentos del pago de las tarifas 1 y 2, los estudios posautorización de tipo observacional de seguimiento prospectivo para medicamentos de uso humano (EPA-SP), que se correspondan con la definición de investigación clínica sin ánimo de comercial, de conformidad con Real Decreto 1090/2015, de 4 de diciembre.
@@ -1809,7 +1802,7 @@ d) Devengo: La tasa se devengará en el momento de presentación de las respecti
 e) Tarifas:
 – Tarifa 1. Solicitud de autorización inicial para la realización de estudios posautorización de tipo observacional de seguimiento prospectivo para medicamentos de uso humano (EPA-SP) en Cantabria: 417,32 euros.
 – Tarifa 2. Solicitud de autorización de modificaciones relevantes de estudios posautorización de tipo observacional de seguimiento prospectivo para medicamentos de uso humano (EPA-SP) previamente autorizados en Cantabria: 185,25 euros.
-12. Tasas por copia de documentación de la historia clínica
+11. Tasas por copia de documentación de la historia clínica
 Hecho imponible: Constituye el hecho imponible la expedición de copia de la documentación de la historia clínica que se señala en las tarifas, realizada a través de las instituciones sanitarias del Servicio Cántabro de Salud. La expedición de copia de la restante documentación integrada en la historia clínica se sujetará a las tarifas 5 a 9 de la Tasa General 1 (tasa por servicios administrativos).
 Sujeto pasivo: Serán sujetos pasivos las personas físicas o jurídicas que soliciten copia de determinada documentación de la historia clínica.
 Devengo: La tasa se devengará en el momento de solicitar la copia del documento correspondiente.
@@ -1817,7 +1810,7 @@ Tarifas. La tasa se exigirá de acuerdo con las siguientes tarifas:
 – Copia de informes clínicos en soporte digital: 15,96 euros.
 – Copia de radiografías en soporte acetato: 15,96 euros.
 – Copia en soporte digital de imágenes radiográficas y otras exploraciones de diagnóstico por la imagen: 10,64 euros.
-13. Tasas por autorizaciones administrativas de Establecimientos y Servicios de atención farmacéutica en Cantabria
+12. Tasas por autorizaciones administrativas de Establecimientos y Servicios de atención farmacéutica en Cantabria
 Hecho imponible: Constituye el hecho imponible de la tasa, la realización por los órganos administrativos competentes, de los trámites necesarios para las autorizaciones de los establecimientos y servicios de atención farmacéutica: Oficinas de Farmacia; Botiquines; Servicios de Farmacia Hospitalarios; Depósitos de medicamentos y Almacenes mayoristas de distribución de medicamentos de uso humano.
 Sujeto pasivo: Son sujetos pasivos de la tasa las personas físicas o jurídicas así como las entidades a que se refiere el artículo 35.4 de la Ley General Tributaria que soliciten las autorizaciones preceptivas para los establecimientos y servicios de atención farmacéutica.
 Devengo: La tasa se devengará en el momento de solicitar la prestación del servicio o, cuando éste se realice, si se ejecuta de oficio por la administración.
@@ -1844,7 +1837,7 @@ Tarifa E.2: Autorización de traslado de almacenes mayoristas: 302,88 euros.
 Tarifa E.3: Modificación sujeta a autorización de almacenes mayoristas: 166,38 euros.
 Tarifa E.4: Nombramiento de Director Técnico de almacenes mayoristas: 46,37 euros.
 Tarifa E.5: Inspección y Verificación del cumplimiento de las Buenas Prácticas de Distribución. Emisión del Certificado de Buenas Prácticas de Distribución de almacenes mayoristas: 658,09 euros.
-14. Tasas de fabricantes de productos sanitarios a medida
+13. Tasas de fabricantes de productos sanitarios a medida
 Hecho imponible: Constituye el hecho imponible de esta tasa la prestación, de oficio o a instancia de parte, de los servicios de tramitación para la obtención de la licencia de funcionamiento de los fabricantes de productos sanitarios a medida, esto es, productos fabricados específicamente según la prescripción de un facultativo especialista en la que haga constar, bajo su responsabilidad, las características específicas de diseño y que se destine únicamente a un paciente determinado.
 Sujeto pasivo: Serán sujetos pasivos las personas físicas o jurídicas que presenten solicitud de la licencia de funcionamiento para la fabricación de productos sanitarios a medida.
 Devengo y pago: La tasa se devengará en el momento en que se presta el servicio o se ejecuta la actuación, pero puede ser exigida la justificación del ingreso en el momento de la presentación de la solicitud.
@@ -1852,6 +1845,9 @@ Tarifas. La tasa se exigirá según las siguientes tarifas:
 Tarifa 1: Concesión de la licencia de funcionamiento a fabricantes de productos sanitarios a medida: 211,45 euros.
 Tarifa 2: Renovación de la licencia de funcionamiento a fabricantes de productos sanitarios a medida: 143,19 euros.
 Tarifa 3: Modificación sujeta a autorización de la licencia de funcionamiento de fabricantes de productos sanitarios a medida: 97,46 euros.
+Téngase en cuenta la modificación de las tasas aplicables por la Consejería competente en materia de Juventud, según establece el art. 2.5 bis de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+Se modifica por el art. 2 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+Téngase en cuenta la modificación de las tasas aplicables por la Consejería competente en materia de Juventud, según establece el art. 2.5 bis de la citada Ley.
 Se modifica por el art. 3 y el anexo de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-3297
 Se modifica por el art. 1 y el anexo de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2180
 Se modifica por el art. 1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842

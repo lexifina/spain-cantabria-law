@@ -391,181 +391,155 @@ Se deroga el anexo B2, siendo sustituido por los anexos I y II de la Ley 21/2013
 Se añade el apartado l) al grupo 3 del anexo B1 por la disposición adicional 3 de la Ley 4/2014, de 22 de diciembre. Ref. BOE-A-2015-682.
 ANEXO C
 Proyectos contemplados en el artículo 31. Ley 17/2006.
-1. Acuicultura, ganadería y actividades de los servicios relacionados con las mismas.
-a) Instalaciones de ganadería intensiva que superen las siguientes capacidades:
-1.ª 4.000 plazas para gallinas y otras aves excepto avestruces.
-2.ª 200 plazas para cerdos de engorde.
-3.ª 50 plazas para cerdas de cría.
-4.ª 100 plazas para ganado ovino y caprino.
-5.ª 20 plazas para ganado vacuno de leche.
-6.ª 40 plazas para vacuno de cebo.
-7.ª 1.000 plazas para conejos.
-8.ª 20 plazas para avestruces.
-b) Instalaciones para la acuicultura intensiva que tengan una capacidad de producción superior a 25 toneladas año.
-2. Industria de productos alimenticios y bebidas.
-a) Instalaciones industriales para la elaboración de grasas y aceites vegetales y animales. con una producción mayor a 100 Kg/día) Instalaciones industriales para fabricación de productos lácteos con una producción mayor a 100 Kg/día.
-c) Instalaciones industriales para la fabricación de cerveza y malta con una producción mayor a 100 Kg/día.
-d) Instalaciones industriales para la elaboración de confituras y almíbares con una producción mayor a 100 Kg/día.
-e) Instalaciones para el sacrificio o despiece de animales.
-f) Instalaciones industriales para la fabricación de féculas con una producción mayor a 100 Kg/día.
-g) Instalaciones industriales para la fabricación de harina de pescado y aceite de pescado con una producción mayor a 100 Kg/día.
-h) Instalaciones para el sacrificio de animales, de despiece de animales o de conservación de ganado sacrificado y volatería, que no estén en el anexo A.
-i) Azucareras con una producción mayor a 100 Kg/día.
-j) Fabricación de piensos compuestos con una producción mayor a 100 Kg/día.
-k) Fabricación de productos de molinería, almidones y productos amilíceos con una producción mayor a 100 Kg/día.
-l) Fabricación de productos para la alimentación animal con una producción mayor a 100 Kg/día.
-m) Fabricación de otros productos alimenticios, con una producción mayor a 100 Kg/día.
-1.º Fabricación de pan y productos de panadería y pastelería frescos.
-2.º Fabricación de galletas y de productos de panadería y pastelería de larga duración.
-3.º Industria del cacao, chocolate y confitería.
-4.º Fabricación de pastas alimenticias.
-5.º Industrias del café, té e infusiones.
-6.º Elaboración de especias, salsas y condimentos.
-7.º Elaboración de preparados para la alimentación infantil y preparados dietéticos.
-3. Industria del tabaco (excluyendo los artículos para fumadores).
-4. Industria extractiva y energética.
-a) Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la Ley de Minas y normativa complementaria.
-b) Minería subterránea.
-c) Extracción de petróleo y gas natural con fines comerciales.
-d) Perforaciones o sondeos, con excepción de las perforaciones para investigar la estabilidad de los suelos, en particular:
-1.º Perforaciones geotérmicas.
-2.º Perforaciones para el almacenamiento de residuos nucleares.
-3.º Perforaciones para el abastecimiento de aguas.
-4.º Perforaciones para la investigación de recursos minerales.
-e) Instalaciones industriales en el exterior para la extracción de carbón, petróleo, gas natural, minerales y pizarras bituminosas.
-f) Explotaciones que se hallen ubicadas en terreno de dominio público hidráulico o en zona de policía de cauces.
-g) Producción de lubricantes a partir de petróleo, así como las instalaciones de gasificación y de licuefacción.
-h) Instalaciones industriales para la producción de electricidad, vapor y agua caliente con potencia térmica superior a 500 kW.
-i) Construcción de líneas aéreas para el transporte y distribución de energía eléctrica con un voltaje igual o superior a 12 kV y una longitud superior a 1 kilómetro.
-j) Instalaciones para el almacenamiento de productos petrolíferos con una capacidad de almacenamiento mayor de 500 toneladas.
-k) Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos) con una potencia total superior a 1 MW.
-l) Fabricación industrial de briquetas de hulla y de lignito.
-5. Fabricación de textiles y productos textiles.
-a) Preparación e hilado de fibras textiles.
-b) Fabricación y acabado de tejidos textiles y artículos de punto. Sólo los referentes a fabricación de tejidos impregnados, bañados, recubiertos o estratificados con materias plásticas.
-6. Preparación, curtido y acabado del cuero (exceptuando fabricación de artículos de marroquinería y viaje, artículos de guarnicionería, talabartería y zapatería).
-7. Industria de la madera y del corcho.
-a) Aserrado y cepillado de la madera; preparación industrial de la madera. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
-b) Fabricación de estructuras, envases, embalajes, chapas, tableros contrachapados y alistonados de madera y partículas aglomeradas. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
-c) Fabricación de muebles de madera. Sólo cuando se realizan tratamientos químicos que impliquen manejo de más de 100 kg/año sustancias peligrosas.
-8. Edición, artes gráficas y reproducción de soportes grabados. Cuando se utilizan tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
-a) Impresión de periódicos, libros y revistas.
-b) Composición y fotograbado.
-c) Encuadernación y acabado.
-9. Industria química.
-a) Fabricación de productos químicos básicos:
-1.º Fabricación de gases industriales.
-2.º Fabricación de colorantes y pigmentos.
-3.º Fabricación de productos básicos de química inorgánica.
-4.º Fabricación de productos básicos de química orgánica.
-5.º Fabricación de abonos y compuestos nitrogenados fertilizantes.
-6.º Fabricación de primeras materias plásticas.
-b) Fabricación de pesticidas y otros productos agroquímicos.
-c) Fabricación de pinturas, barnices y revestimientos similares; tintas de imprenta y masillas.
-d) Fabricación de productos farmacéuticos.
-e) Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
-f) Fabricación de perfumes y productos de belleza e higiene. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
-g) Fabricación de otros productos químicos:
-1.º Fabricación de colas y gelatinas.
-2.º Fabricación de aceites esenciales.
-3.º Fabricación de material fotográfico virgen y preparados químicos para fotografía.
-4.º Fabricación de soportes vírgenes para grabación.
-5.º Fabricación de otros productos químicos.
-h) Fabricación de fibras artificiales y sintéticas.
-10. Fabricación de productos de caucho y materias plásticas. Cuando se utilizan sustancias peligrosas o Cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
-a) Fabricación de caucho sintético y productos del caucho.
-b) Fabricación de plásticos y productos de materias plásticas.
-11. Fabricación de otros productos de minerales no metálicos (proyectos no incluidos en los anexos A y B2).
-a) Fabricación de vidrio y productos de vidrio.
-b) Fabricación de productos cerámicos excepto los destinados a la construcción.
-c) Fabricación de ladrillos, tejas y productos de tierras cocidas para la construcción.
-d) Fabricación de elementos de hormigón, yeso y cemento.
-e) Industria de la piedra y el mármol.
-f) Fabricación de productos abrasivos.
-12. Metalurgia.
-a) Fabricación de productos básicos de hierro, acero y ferroaleaciones (CECA).
-b) Fabricación de tubos.
-c) Otras actividades de la transformación del hierro y del acero y producción de ferroaleaciones no CECA y otros procesos de transformación del hierro y del acero:
-1.º Estirado en frío.
-2.º Laminado en frío.
-3.º Producción de perfiles en frío por conformación con plegado.
-4.º Trefilado en frío.
-5.º Producción de ferroaleaciones no CECA y otros procesos de transformación del hierro y del acero.
-d) Producción y primera transformación de metales preciosos y de otros metales no férreos.
-e) Fundición de metales:
-1.º Fundición de hierro.
-2.º Fundición de acero.
-3.º Fundición de metales ligeros.
-4.º Fundición de otros metales no férreos.
-13. Fabricación de productos metálicos, excepto maquinaria y equipo.
-a) Fabricación de estructuras y carpintería metálica.
-b) Fabricación de cisternas, depósitos y contenedores.
-c) Fabricación de generadores, radiadores y calderas de vapor.
-d) Forja, estampación y embutición de metales.
-e) Tratamiento y revestimiento de metales.
-f) Fabricación de artículos de cuchillería y cubertería, herramientas y ferretería.
-g) Fabricación de productos metálicos diversos.
-14. Industria de la construcción de maquinaria y equipo mecánico.
-a) Fabricación de máquinas, equipo y material mecánico.
-b) Fabricación de maquinaria agraria.
-c) Fabricación de máquinas-herramienta.
-d) Fabricación de maquinaria diversa para usos específicos.
-e) Fabricación de armas y municiones.
-f) Fabricación de aparatos electrodomésticos.
-15. Fabricación de maquinaria y material eléctrico. Se exceptúa el ensamblaje de componentes.
-a) Fabricación de motores eléctricos, transformadores y generadores.
-b) Fabricación de aparatos de distribución y control eléctricos.
-c) Fabricación de hilos y cables eléctricos aislados.
-d) Fabricación de acumuladores y pilas eléctricas.
-e) Fabricación de lámparas eléctricas y aparatos de iluminación.
-16. Fabricación de material electrónico. Fabricación de equipo y aparatos de radio, televisión y comunicaciones. Se exceptúa el ensamblaje de componentes.
-a) Fabricación de válvulas, tubos y otros componentes electrónicos.
-b) Fabricación de transmisores de radiodifusión y televisión y de aparatos para la radiotelefonía y radiotelegrafía.
-c) Fabricación de aparatos de recepción, grabación y reproducción de sonido e imagen.
-17. Fabricación de equipo e instrumentos médico-quirúrgicos, de precisión óptica y relojería. Se exceptúa el ensamblaje de componentes.
-a) Fabricación de equipo e instrumentos médico-quirúrgicos y de aparatos ortopédicos.
-b) Fabricación de instrumentos y aparatos de medida, verificación, control, navegación y otros fines, excepto equipos de control para procesos industriales.
-c) Fabricación de equipo de control de procesos industriales.
-d) Fabricación de instrumentos de óptica y de equipo fotográfico.
-e) Fabricación de relojes.
-18. Fabricación de vehículos de motor, remolques y semirremolques.
-a) Fabricación de vehículos de motor.
-b) Fabricación de carrocerías para vehículos de motor, de remolques y semirremolques.
-c) Fabricación de partes, piezas y accesorios no eléctricos para vehículos de motor y sus motores.
-19. Fabricación de otro material de transporte. Se exceptúa el ensamblaje de componentes.
-a) Fabricación de material ferroviario.
-b) Construcción aeronáutica y espacial.
-c) Fabricación de motocicletas y bicicletas.
-20. Otras industrias manufactureras. Cuando se utilizan sustancias peligrosas o cuando se consumen tintas, pinturas o barnices de base no acuosa en cantidades superiores a 100 Kg/año. Se exceptúa el ensamblaje de componentes.
-a) Fabricación de instrumentos musicales.
-b) Fabricación de artículos de deporte.
-c) Fabricación de juegos y juguetes.
-d) Otras industrias manufactureras diversas.
-21. Reciclaje. Reciclaje de papel, cartón, vidrio, y madera.
-22. Depuración de agua. Plantas de tratamiento de aguas de consumo y residuales.
-23. Talleres de mantenimiento y reparación de vehículos de motor.
-a) Talleres eléctricos, mecánicos y de chapa y pintura para mantenimiento y reparación de vehículos de motor.
-b) Lavado de vehículos de motor y cisternas y remolques de trasporte.
-24. Almacenamiento y venta de productos inflamables y/o combustibles.
-a) Almacenamiento y venta de pinturas, barnices y disolventes. Droguerías.
-b) Estaciones de servicio de suministro de combustible para vehículos de motor
-c) Almacenamiento de material pirotécnico.
-25. Hostelería. Limitado a aquellas con cocina con extracción de humos.
-a) Hoteles, moteles, hostales y pensiones.
-b) Restaurantes, degustaciones de café, self-service, sociedades culturales-recreativas-gastronómicas, comedores colectivos, provisión de comidas preparadas, bocaterías.
-c) Bares, cafeterías, bodegas, snak-bar.
-d) Salones recreativos o de juegos, bingos.
-e) Boleras, pubs, whiskerías, bares americanos, disco-bar, bingos.
-f) Discotecas, boites, salas de fiesta, salas de baile, salas de fiesta con espectáculos o pases de atracciones, cafés-cantantes, cafés-concierto.
-26. Estacionamiento de vehículos automóviles: Únicamente aparcamientos públicos y estaciones de autobuses que dispongan de alguna planta en sótano.
-27. Actividades médicas y veterinarias
-a) Hospitales y clínicas.
-b) Servicios médicos con rehabilitación.
-c) Tanatorios.
-d) Clínicas veterinarias.
-e) Guarderías para animales.
-28. Actividades diversas de servicios personales. Lavado y limpieza de prendas textiles y de piel. Cuando se utilizan sustancias peligrosas o Cuando se consumen tintas, pinturas, disolventes o barnices de base no acuosa en cantidades superiores a 100 Kg/año.
-29. Otros proyectos.
-a) Plantas asfálticas móviles.
-b) Plantas de tratamiento de áridos móviles.
+CNAE | Título | Comprobación ambiental | Declaración responsable ambiental
+% | Umbral | % | Umbral
+A | A | AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA). |  |  |  | 
+141 | A0141 | EXPLOTACIÓN DE GANADO VACUNO PARA LA PRODUCCIÓN DE LECHE. | X | ≥ 20 | X | < 20
+142 | A0142 | EXPLOTACIÓN DE GANADO VACUNO DE CEBO. | X | ≥40 | X | < 40
+143 | A0143 | EXPLOTACIÓN DE CABALLOS Y OTROS EQUINOS. |  |  | X | SIN UMBRAL
+145 | A0145 | EXPLOTACIÓN DE GANADO OVINO DE CRÍA. | X | ≥100 | X | < 100
+145 | A0145 | EXPLOTACIÓN DE GANADO OVINO DE CEBO. | X | ≥ 100 | X | < 100
+145 | A0145 | EXPLOTACIÓN DE GANADO CAPRINO. | X | ≥ 100 | X | < 100
+146 | A0146 | EXPLOTACIÓN DE GANADO PORCINO DE CRIA. | X | ≥ 50 | X | < 50
+146 | A0146 | EXPLOTACIÓN DE GANADO PORCINO DE CEBO. | X | ≥ 200 | X | < 200
+147 | A0147 | INSTALACIONES DE GANADERIA PARA GALLINAS Y OTRAS AVES (EXCEPTO AVESTRUCES) CON LAS SIGUIENTES PLAZAS. | X | ≥ 4000 | X | < 4000
+147 | A0147 | INSTALACIONES DE GANADERIA PARA AVESTRUCES CON LAS SIGUIENTES PLAZAS. | X | ≥ 20 | X | < 20
+149 | A0149 | INSTALACIONES DE GANADERIA PARA CONEJOS CON LAS SIGUIENTES PLAZAS. |  |  | X | < 4000
+149 | A0149 | OTRAS EXPLOTACIONES GANADERAS. |  |  | X | SIN UMBRAL
+321 | A0321 Y A0322 | ACUICULTURA. | X | PRODUCCIÓN ≥ 25 T/AÑO | X | PRODUCCIÓN < 25 T/AÑO
+B | B | INDUSTRIAS EXTRACTIVAS (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA). |  |  |  | 
+ | B05 B07 B08 | EXPLOTACIONES Y FRENTES DE UNA MISMA AUTORIZACIÓN O CONCESIÓN A CIELO ABIERTO DE YACIMIENTOS MINERALES Y DEMÁS RECURSOS GEOLÓGICOS DE LAS SECCIONES A, B, C Y D CUYO APROVECHAMIENTO ESTÁ REGULADO POR LA LEY DE MINAS Y NORMATIVA COMPLEMENTARIA. | X | SIN UMBRAL |  | 
+ | B05 B07 B08 | MINERÍA SUBTERRÁNEA. | X | SIN UMBRAL |  | 
+ | B06 | EXTRACCIÓN DE PETRÓLEO Y GAS NATURAL CON FINES COMERCIALES. | X | SIN UMBRAL |  | 
+ | B09 | PERFORACIONES O SONDEOS, CON EXCEPCIÓN DE LAS PERFORACIONES PARA INVESTIGACIÓN, SALVO: | X | SIN UMBRAL |  | 
+ | 1.º PERFORACIONES GEOTÉRMICAS.
+ | 2.º PERFORACIONES PARA EL ALMACENAMIENTO DE RESIDUOS NUCLEARES.
+ | 3.º PERFORACIONES PARA EL ABASTECIMIENTO DE AGUAS.
+ | 4.º PERFORACIONES PARA LA INVESTIGACIÓN DE RECURSOS MINERALES.
+ | B09 | INSTALACIONES INDUSTRIALES EN EL EXTERIOR PARA LA EXTRACCIÓN DE CARBÓN, PETRÓLEO, GAS NATURAL, MINERALES Y PIZARRAS BITUMINOSAS. | X | SIN UMBRAL |  | 
+ |  | PRODUCCIÓN DE LUBRICANTES A PARTIR DE PETRÓLEO, ASÍ COMO LAS INSTALACIONES DE GASIFICACIÓN Y DE LICUEFACCIÓN. | X | SIN UMBRAL |  | 
+ |  | CONSTRUCCIÓN DE LÍNEAS AÉREAS PARA EL TRANSPORTE Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA. | X | VOLTAJE ≥12 KV Y LONGITUD > 1 KM Y QUE NO ESTÉN SOMETIDAS A EIA |  | 
+C | C | INDUSTRIA MANUFACTURERA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA). |  |  |  | 
+101 | C101 | PROCESADO Y CONSERVACIÓN DE CARNE Y ELABORACIÓN DE PRODUCTOS CÁRNICOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+102 | C102 | PROCESADO Y CONSERVACIÓN DE PESCADOS, CRUSTÁCEOS Y MOLUSCOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+103 | C103 | PROCESADO Y CONSERVACIÓN DE FRUTAS Y HORTALIZAS (CONFITURAS, ALMIBARES..). | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+104 | C104 | FABRICACIÓN DE ACEITES Y GRASAS VEGETALES Y ANIMALES. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+105 | C105 | FABRICACIÓN DE PRODUCTOS LÁCTEOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+106 | C106 | FABRICACIÓN DE PRODUCTOS DE MOLINERÍA, ALMIDONES Y PRODUCTOS AMILÁCEOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+107 | C107 | FABRICACIÓN DE PRODUCTOS DE PANADERÍA Y PASTAS ALIMENTICIAS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1081 | C1081 | FABRICACIÓN DE AZÚCAR. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1082 | C1082 | FABRICACIÓN DE CACAO, CHOCOLATE Y PRODUCTOS DE CONFITERÍA. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1083 | C1083 | ELABORACIÓN DE CAFÉ, TÉ E INFUSIONES. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1084 | C1084 | ELABORACIÓN DE ESPECIAS, SALSAS Y CONDIMENTOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1085 | C1085 | ELABORACIÓN DE PLATOS Y COMIDAS PREPARADOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1086 | C1086 | ELABORACIÓN DE PREPARADOS ALIMENTICIOS HOMOGENEIZADOS Y ALIMENTOS DIETÉTICOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1089 | C1089 | ELABORACIÓN DE OTROS PRODUCTOS ALIMENTICIOS N.C.O.P. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+109 | C109 | FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN ANIMAL. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1101 | C1101 | DESTILACIÓN, RECTIFICACIÓN Y MEZCLA DE BEBIDAS ALCOHÓLICAS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1102 | C1102 | ELABORACIÓN DE VINOS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1103 | C1103 | ELABORACIÓN DE SIDRA Y OTRAS BEBIDAS FERMENTADAS A PARTIR DE FRUTAS. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1104 | C1104 | ELABORACIÓN DE OTRAS BEBIDAS NO DESTILADAS, PROCEDENTES DE LA FERMENTACIÓN. | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+1105 | C1105 | FABRICACIÓN DE CERVEZA Y MALTA . | X | PRODUCCIÓN ≥ 100KG/DÍA | X | PRODUCCIÓN < 100KG/DÍA
+ | C1106
+E 413.1 | E 413.1 | INSTALACIONES PARA EL SACRIFICIO DE ANIMALES, DE DESPIECE O DE CONSERVACIÓN DEL GANADO SACRIFICADO Y VOLATERÍA. | X | SIN UMBRAL |  | 
+12 | C12 | INDUSTRIA DEL TABACO. | X | SIN UMBRAL |  | 
+131 | C131 | PREPARACIÓN E HILADO DE FIBRAS TEXTILES. |  |  | X | SIN UMBRAL
+1320 | C1320 | FABRICACIÓN, CONFECCIÓN Y PREPARADO DE TEJIDOS TEXTILES Y DE PUNTO. | X | SOLO LOS REFERENTES A LA FABRICACIÓN DE TEJIDOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES ≥ 100KG/AÑO | X | SOLO LOS REFERENTES A LA FABRICACIÓN DE TEJIDOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS, CON CONSUMO DE DISOLVENTES, Y CONSUMO < 100KG/AÑO
+ | C1330 |  |  |  |  | 
+ | C1391 |  |  |  |  | 
+151 | C151 | PREPARACIÓN, CURTIDO Y ACABADO DEL CUERO; FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA, VIAJE Y DE GUARNICIONERÍA Y TALABARTERÍA; PREPARACIÓN Y TEÑIDO DE PIELES. | X | SOLO LOS REFERENTES A LA FABRICACIÓN DE PRODUCTOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES ≥ 100KG/AÑO | X | SOLO LOS REFERENTES A LA FABRICACIÓN DE PRODUCTOS IMPREGNADOS, BAÑADOS, RECUBIERTOS O ESTRATIFICADOS CON CONSUMO DE DISOLVENTES < 100KG/AÑO
+1512 | C1512 | FABRICACIÓN DE ARTÍCULOS DE MARROQUINERÍA, VIAJE Y DE GUARNICIONERÍA Y TALABARTERÍA. |  |  | X | SIN UMBRAL
+152 | C152 | FABRICACIÓN DE CALZADO. |  |  | X | SIN UMBRAL
+161 | C161 | ASERRADO Y CEPILLADO DE LA MADERA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+162 | C162 | FABRICACIÓN DE PRODUCTOS DE MADERA, CORCHO, CESTERÍA Y ESPARTERÍA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+1621 | C1621 | FABRICACIÓN DE CHAPAS Y TABLEROS DE MADERA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+1623 | C1623 | FABRICACIÓN DE OTRAS ESTRUCTURAS DE MADERA Y PIEZAS DE CARPINTERÍA Y EBANISTERÍA PARA LA CONSTRUCCIÓN. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+1624 | C1624 | FABRICACIÓN DE ENVASES Y EMBALAJES DE MADERA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+1629 | C1629 | FABRICACIÓN DE OTROS PRODUCTOS DE MADERA; ARTÍCULOS DE CORCHO, CESTERÍA Y ESPARTERÍA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS O SE EMPLEEN ≥ DE 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO DE SUSTANCIAS PELIGROSAS < 100 KG/AÑO O SE EMPLEEN MENOS DE 100KG/AÑO SUSTANCIAS PELIGROSAS
+17 | C17 | INDUSTRIA DEL PAPEL. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+181 | C181 | ARTES GRÁFICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+1812 | C1812 | OTRAS ACTIVIDADES DE IMPRESIÓN Y ARTES GRÁFICAS: IMPRESIÓN DE PERIÓDICOS, LIBROS Y REVISTAS. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+1813 | C1813 | SERVICIOS DE PREIMPRESIÓN Y PREPARACIÓN DE SOPORTES: COMPOSICIÓN Y FOTOGRABADO. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+1814 | C1814 | ENCUADERNACIÓN Y SERVICIOS RELACIONADOS CON LA MISMA. | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO SE REALIZAN TRATAMIENTOS QUÍMICOS QUE IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+20 | C20 | INDUSTRIA QUÍMICA (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA). |  |  |  | 
+2011 | C2011 | FABRICACIÓN DE GASES INDUSTRIALES. | X | SIN UMBRAL |  | 
+2012 | C2012 | FABRICACIÓN DE COLORANTES Y PIGMENTOS. | X | SIN UMBRAL |  | 
+2013 | C2013 | FABRICACIÓN DE OTROS PRODUCTOS BÁSICOS DE QUÍMICA INORGÁNICA. | X | SIN UMBRAL |  | 
+2014 | C2014 | FABRICACIÓN DE OTROS PRODUCTOS BÁSICOS DE QUÍMICA ORGÁNICA. | X | SIN UMBRAL |  | 
+2015 | C2015 | FABRICACIÓN DE FERTILIZANTES Y COMPUESTOS NITROGENADOS. | X | SIN UMBRAL |  | 
+2016 | C2016 | FABRICACIÓN DE PLÁSTICOS EN FORMAS PRIMARIAS. | X | SIN UMBRAL |  | 
+2017 | C2017 | FABRICACIÓN DE CAUCHO SINTÉTICO EN FORMAS PRIMARIAS. | X | SIN UMBRAL |  | 
+202 | C202 | FABRICACIÓN DE PESTICIDAS Y OTROS PRODUCTOS AGROQUÍMICOS. | X | SIN UMBRAL |  | 
+203 | C203 | FABRICACIÓN DE PINTURAS, BARNICES Y REVESTIMIENTOS SIMILARES; TINTAS DE IMPRENTA Y MASILLAS. | X | SIN UMBRAL |  | 
+204 | C204 | FABRICACIÓN DE JABONES, DETERGENTES Y OTROS ARTÍCULOS DE LIMPIEZA Y ABRILLANTAMIENTO; FABRICACIÓN DE PERFUMES Y COSMÉTICOS. | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+205 | C205 | FABRICACIÓN DE OTROS PRODUCTOS QUÍMICOS. | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+206 | C206 | FABRICACIÓN DE FIBRAS ARTIFICIALES Y SINTÉTICAS. | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+21 | C21 | FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS. | X | SIN UMBRAL |  | 
+22 | C22 | FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICOS. | X | SIN UMBRAL |  | 
+231 | C231 | FABRICACIÓN DE VIDRIO Y PRODUCTOS DE VIDRIO. | X | SIN UMBRAL |  | 
+232 | C232 | FABRICACIÓN DE PRODUCTOS CERÁMICOS REFRACTARIOS. | X | SIN UMBRAL |  | 
+2331 | C2331 | FABRICACIÓN DE AZULEJOS Y BALDOSAS DE CERÁMICA. | X | SIN UMBRAL |  | 
+2332 | C2332 | FABRICACIÓN DE LADRILLOS, TEJAS Y PRODUCTOS DE TIERRAS COCIDAS PARA LA CONSTRUCCIÓN. | X | SIN UMBRAL |  | 
+234 | C234 | FABRICACIÓN DE OTROS PRODUCTOS CERÁMICOS. | X | SIN UMBRAL |  | 
+235 | C235 | FABRICACIÓN DE CEMENTO, CAL Y YESO. | X | SIN UMBRAL |  | 
+236 | C236 | FABRICACIÓN DE ELEMENTOS DE HORMIGÓN, CEMENTO Y YESO. | X | SIN UMBRAL |  | 
+237 | C237 | CORTE, TALLADO Y ACABADO DE LA PIEDRA. | X | SIN UMBRAL |  | 
+239 | C239 | FABRICACIÓN DE PRODUCTOS ABRASIVOS Y PRODUCTOS MINERALES NO METÁLICOS N.C.O.P. | X | SIN UMBRAL |  | 
+24 | C24 | METALURGIA; FABRICACIÓN DE PRODUCTOS DE HIERRO, ACERO Y FERROALEACIONES. | X | SIN UMBRAL |  | 
+25 | C25 | FABRICACIÓN DE PRODUCTOS METÁLICOS, EXCEPTO MAQUINARIA Y EQUIPO. | X | SIN UMBRAL |  | 
+26 | C26 | FABRICACIÓN DE PRODUCTOS INFORMÁTICOS, ELECTRÓNICOS Y ÓPTICOS (SE EXCEPTÚA EL ENSAMBLAJE DE COMPONENTES). |  |  | X | SIN UMBRAL
+2611 | C2611 | FABRICACIÓN DE COMPONENTES ELECTRÓNICOS. |  |  | X | SIN UMBRAL
+2620 | C2620 | FABRICACIÓN DE ORDENADORES Y EQUIPOS PERIFÉRICOS. |  |  | X | SIN UMBRAL
+2630 | C2630 | FABRICACIÓN DE EQUIPOS DE TELECOMUNICACIONES. |  |  | X | SIN UMBRAL
+2640 | C2640 | FABRICACIÓN DE PRODUCTOS ELECTRÓNICOS DE CONSUMO. |  |  | X | SIN UMBRAL
+265 | C265 | FABRICACIÓN DE INSTRUMENTOS Y APARATOS DE MEDIDA, VERIFICACIÓN Y NAVEGACIÓN; FABRICACIÓN DE RELOJES. |  |  | X | SIN UMBRAL
+2660 | C2660 | FABRICACIÓN DE EQUIPOS DE RADIACIÓN, ELECTROMÉDICOS Y ELECTROTERAPÉUTICOS. |  |  | X | SIN UMBRAL
+2670 | C2670 | FABRICACIÓN DE INSTRUMENTOS DE ÓPTICA Y EQUIPO FOTOGRÁFICO. |  |  | X | SIN UMBRAL
+268 | C268 | FABRICACIÓN DE SOPORTES MAGNÉTICOS Y ÓPTICOS. |  |  | X | SIN UMBRAL
+27 | C27 | FABRICACIÓN DE MATERIAL Y EQUIPO ELÉCTRICO. |  |  | X | SIN UMBRAL
+28 | C28 | FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.O.P. |  |  | X | SIN UMBRAL
+29 | C29 | FABRICACIÓN DE VEHÍCULOS DE MOTOR, REMOLQUES Y SEMIRREMOLQUES. | X | SIN UMBRAL |  | 
+301 | C301 | CONSTRUCCIÓN NAVAL. | X | SIN UMBRAL |  | 
+302 | C302 | FABRICACIÓN DE LOCOMOTORAS Y MATERIAL FERROVIARIO. | X | SIN UMBRAL |  | 
+3091 | C3091 | FABRICACIÓN DE MOTOCICLETAS. | X | SIN UMBRAL |  | 
+3092 | C3092 | FABRICACIÓN DE BICICLETAS Y DE VEHÍCULOS PARA PERSONAS CON DISCAPACIDAD. | X | SIN UMBRAL |  | 
+3099 | C3099 | FABRICACIÓN DE OTRO MATERIAL DE TRANSPORTE N.C.O.P. | X | SIN UMBRAL |  | 
+31 | C31 | FABRICACIÓN DE MUEBLES. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+3103 | C3103 | FABRICACIÓN DE COLCHONES. | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILICEN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+3109 | C3109 | FABRICACIÓN DE OTROS MUEBLES. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+32 | C32 | OTRAS INDUSTRIAS MANUFACTURERAS. | X | SÓLO CUANDO SE UTILIZAN SUSTANCIAS PELIGROSAS EN CANTIDADES ≥ 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+321 | C321 | FABRICACIÓN DE ARTÍCULOS DE JOYERÍA, BISUTERÍA Y SIMILARES. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN SUSTANCIAS PELIGROSAS, CON CONSUMO < 100 KG/AÑO
+322 | C322 | FABRICACIÓN DE INSTRUMENTOS MUSICALES. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+323 | C323 | FABRICACIÓN DE ARTÍCULOS DE DEPORTE. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+324 | C324 | FABRICACIÓN DE JUEGOS Y JUGUETES. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+329 | C329 | INDUSTRIAS MANUFACTURERAS N.C.O.P. | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA EN CANTIDADES > 100 KG/AÑO | X | SÓLO CUANDO SE UTILIZAN TINTES, PINTURAS O BARNICES DE BASE NO ACUOSA, CON CONSUMO < 100 KG/AÑO
+- | - | RECICLAJE. | X | SIN UMBRAL |  | 
+36 | E36 | CAPTACIÓN Y TRATAMIENTO DE AGUAS PARA CONSUMO. | X | QUE NO ESTÉN SOMETIDAS A EIA NI AAI |  | 
+37 | E37 | TRATAMIENTO DE AGUAS RESIDUALES. | X | QUE NO ESTÉN SOMETIDAS A EIA NI AAI |  | 
+G | G | COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS DE MOTOR Y MOTOCICLETAS. |  |  |  | 
+452 | G452 | MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS DE MOTOR. | X | SIN UMBRAL |  | 
+E4520 | E4520 | LAVADO DE VEHÍCULOS A MOTOR, CISTERNAS Y REMOLQUES DE TRANSPORTE. | X | SIN UMBRAL |  | 
+H | H | TRANSPORTE Y ALMACENAMIENTO (SIEMPRE Y CUANDO NO ESTÉ SOMETIDO A AAI O EIA). |  |  |  | 
+521 | H521 | DEPÓSITO Y ALMACENAMIENTO Y VENTA DE PINTURAS, BARNICES Y DISOLVENTES. |  |  | X | SIN UMBRAL
+I | I | HOSTELERÍA. |  |  |  | 
+55 | I55 | SERVICIOS DE ALOJAMIENTO. | X | LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS |  | 
+561 | I561 | RESTAURANTES, BARES Y CAFETERÍAS. | X | LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS |  | 
+562 | I562 | PROVISIÓN DE COMIDAS PREPARADAS PARA EVENTOS Y OTROS SERVICIOS DE COMIDAS. | X | LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS |  | 
+5629 | I5629 | OTROS SERVICIOS DE COMIDAS. | X | LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS |  | 
+563 | I563 | ESTABLECIMIENTOS DE BEBIDAS. | X | LIMITADO A AQUELLAS CON COCINA CON EXTRACCIÓN DE HUIMOS |  | 
+M | M | ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS. |  |  |  | 
+75 | M75 | ACTIVIDADES VETERINARIAS. | X | CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER | X | SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+Q | Q | ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES. |  |  |  | 
+861 | Q861 | ACTIVIDADES HOSPITALARIAS (HOSPITALES Y CLÍNICAS). | X | CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER | X | SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+862 | Q862 | ACTIVIDADES MÉDICAS Y ODONTOLÓGICAS. | X | CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER | X | SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+869 | Q869 | SERVICIOS MÉDICOS CON REHABILITACIÓN. | X | CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER | X | SIN RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER
+ |  | TANATORIOS ( EN EL QUE SE LLEVEN A CABO OPERACIONES DE TANATOPRAXIA). | X | SIN UMBRAL |  | 
+9609 | s9609 | GUARDERÍAS PARA ANIMALES. | X | ASOCIADOS A CLÍNICAS VETERINARIAS O PARA ANIMALES NO PROPIOS |  | 
+S | S | OTROS SERVICIOS Y PROYECTOS. |  |  |  | 
+S9601 | S9601 | LAVADO Y LIMPIEZA DE PRENDAS TEXTILES Y DE PIEL. | X | SÓLO CUANDO IMPLIQUEN MANEJO ≥ 100KG/AÑO SUSTANCIAS PELIGROSAS | X | SÓLO CUANDO IMPLIQUEN MANEJO < 100KG/AÑO SUSTANCIAS PELIGROSAS
+c2399 | c2399 | PLANTAS ASFÁLTICAS MÓVILES. | X | SIN UMBRAL |  | 
+2399 | c2399 | PLANTAS DE TRATAMIENTO DE ÁRIDOS MÓVILES. | X | SIN UMBRAL |  | 
+H5221 | H5221 | ESTACIONAMIENTO DE VEHÍCULOS AUTOMÓVILES. | X | UNICAMENTE APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES QUE DISPONGAN DE ALGUNA PLANTA EN SÓTANO. |  | 
+Se modifica por el art. 25.4 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
+Téngase en cuenta que esta actualización será de aplicación a los expedientes presentados con posterioridad a la entrada en vigor de la citada Ley, según estalece su disposición adicional 5.
 Se modifica por el art. 14.9 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
