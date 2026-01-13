@@ -1,0 +1,3 @@
+Disposición adicional única. Procedimientos de elaboración de disposiciones normativas y de quejas y sugerencias.
+1. En la elaboración de normas de carácter general se estará a lo dispuesto en la normativa reguladora del procedimiento administrativo común de las Administraciones Públicas y en la de régimen jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria, en cuanto a los trámites de consulta, audiencia e información públicas.
+2. El procedimiento administrativo que tenga por objeto aportaciones ciudadanas que se traduzcan en la formulación de quejas o sugerencias se regirá por su normativa específica.
