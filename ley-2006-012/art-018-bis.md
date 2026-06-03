@@ -1,0 +1,5 @@
+Artículo 18 bis. Renovación de los cotos de caza.
+1. Doce meses antes de la finalización del plazo por el que se había constituido el coto, su titular podrá promover su renovación del mismo.
+2. Siempre que no se pretenda modificar las condiciones de titularidad del aprovechamiento cinegético y superficie, el coto de caza podrá renovarse por diez años tras un periodo de información pública y audiencia a los propietarios afectados, por un plazo no inferior a treinta días naturales. El anuncio de apertura del trámite de información pública y audiencia deberá publicarse en el "Boletín Oficial de Cantabria" y ser difundido por las entidades locales afectadas a todos los propietarios.
+3. La renovación del coto de caza se producirá mediante resolución del titular de la consejería competente, que dispone del plazo máximo de tres meses para resolver y notificar. El vencimiento de dicho plazo máximo sin notificación de la resolución habilita al interesado para entender estimada su petición.
+Se añade por el art. 1.5 de la Ley 6/2026, de 28 de mayo. Ref. BOE-A-2026-12522
