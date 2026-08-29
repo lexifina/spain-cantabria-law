@@ -1,4 +1,0 @@
-Artículo 26 ter. Plazos de las fases y trámites de la evaluación ambiental estratégica ordinaria.
-El plazo máximo previsto en el artículo 17.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para la elaboración del estudio ambiental estratégico, y para la realización de la información pública y de las consultas previstas en los artículos 20, 21, 22 y 23 será de quince meses desde la notificación al promotor del documento de alcance, en el caso de los instrumentos de planeamiento de desarrollo, de treinta meses para los proyectos singulares de interés regional, de cuarenta y cinco meses para los planes generales y de sesenta meses para el Plan Regional de Ordenación del Territorio.
-Se modifica, en la redacción dada a la disposición adicional 2.2 de la Ley 5/2022, de 15 de julio, por el art. 23.32 de la Ley 3/2023, de 26 de diciembre. Ref. BOE-A-2024-1373
-Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842

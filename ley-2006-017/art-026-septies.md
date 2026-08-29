@@ -1,4 +1,0 @@
-Artículo 26 septies. Publicidad del informe ambiental estratégico y de la aprobación del plan.
-1. El plazo previsto en el artículo 31 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano ambiental remita el informe ambiental estratégico para su publicación en el Boletín Oficial de Cantabria será de diez días hábiles desde que fue formulado, sin perjuicio de su publicación en la sede electrónica del órgano ambiental.
-2. El plazo previsto en el artículo 32 de la Ley de Cantabria 21/2013, de 9 de diciembre, de evaluación ambiental para que el órgano sustantivo remita para su publicación en el Boletín Oficial de Cantabria la documentación enunciada en dicho precepto será de diez días hábiles desde la aprobación del plan.
-Se añade por el art. 14.1 de la Ley 12/2020, de 28 de diciembre. Ref. BOE-A-2021-842
