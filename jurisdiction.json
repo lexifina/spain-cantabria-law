@@ -1,0 +1,11 @@
+{
+  "path": "es-cb",
+  "code": "ES-CB",
+  "name": "Cantabria",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-cantabria-law",
+  "build": "built: statute of autonomy and laws (151 norms, 742 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}

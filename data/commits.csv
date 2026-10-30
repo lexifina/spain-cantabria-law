@@ -1,0 +1,317 @@
+day,kind,law,acts,files,branch
+1982-01-31,start,boe-a-1982-635,estatuto-de-autonomia,74,main
+1983-07-04,start,,ley-1983-006,6,main
+1984-11-17,start,boe-a-1984-26617,ley-1984-006,59,main
+1985-01-09,start,boe-a-1985-2526,ley-1984-009,10,main
+1985-01-10,start,boe-a-1985-2527,ley-1984-008,10,main
+1985-07-16,start,boe-a-1985-19644,ley-1985-006,15,main
+1986-01-07,start,,ley-1985-010,36,main
+1986-07-26,start,boe-a-1986-24580,ley-1986-005,17,main
+1987-03-24,start,boe-a-1987-11089,ley-1987-002,26,main
+1987-03-24,start,boe-a-1987-11090,ley-1987-003,9,main
+1987-04-04,start,boe-a-1987-8958,ley-1987-005,51,main
+1987-04-07,start,boe-a-1987-9225,ley-1987-004,4,main
+1988-11-21,start,boe-a-1988-28709,ley-1988-004,13,main
+1990-04-10,start,boe-a-1991-1403,ley-1990-006,26,main
+1990-04-29,start,boe-a-1991-1267,ley-1990-004,19,main
+1990-05-29,start,,ley-1988-002,1,main
+1991-03-15,law,boe-a-1991-6823,estatuto-de-autonomia,1,main
+1991-03-27,law,boe-a-1991-9979,ley-1987-005,4,main
+1991-03-27,law,boe-a-1991-10360,ley-1986-005,5,main
+1991-05-07,start,boe-a-1991-14131,ley-1991-006,17,main
+1992-04-16,start,boe-a-1992-11685,ley-de-cantabria-1992-003,66,main
+1992-12-29,start,boe-a-1993-4195,ley-1992-008,10,main
+1992-12-31,start,boe-a-1993-5274,ley-de-cantabria-1992-009,27,main
+1993-04-21,start,boe-a-1993-13437,ley-de-cantabria-1993-004,98,main
+1993-07-05,start,boe-a-1993-21443,ley-1993-005,68,main
+1993-07-05,law,boe-a-1993-21443,ley-1986-005,1,main
+1993-07-22,law,boe-a-1993-19264,ley-de-cantabria-1993-004,1,main
+1993-08-26,law,boe-a-1993-22025,ley-1993-005,3,main
+1993-12-04,start,boe-a-1993-31102,ley-1993-008,14,main
+1993-12-14,law,boe-a-1993-29579,ley-de-cantabria-1993-004,1,main
+1994-01-05,law,boe-a-1994-249,ley-1993-005,3,main
+1994-01-14,law,boe-a-1994-2196,ley-1993-005,11,main
+1994-01-27,law,boe-a-1994-1908,ley-de-cantabria-1993-004,1,main
+1994-02-04,start,boe-a-1994-4735,ley-1994-002,6,main
+1994-04-14,law,boe-a-1994-6941,estatuto-de-autonomia,6,main
+1994-04-21,law,boe-a-1994-8982,ley-1993-005,1,main
+1994-06-04,start,boe-a-1994-15914,ley-1994-006,49,main
+1995-03-14,law,boe-a-1995-8772,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004,2,main
+1996-01-01,law,boe-a-1996-1954,ley-de-cantabria-1992-003,2,main
+1996-05-25,start,boe-a-1996-16125,ley-1996-001,22,main
+1996-10-22,start,boe-a-1996-24876,ley-1996-003,44,main
+1997-01-01,law,boe-a-1997-4275,ley-de-cantabria-1992-009,2,main
+1997-01-14,start,boe-a-1997-4272,ley-1996-005,46,main
+1997-11-15,start,boe-a-1997-25123,ley-de-cantabria-1997-005,70,main
+1997-12-31,law,boe-a-1998-2748,ley-de-cantabria-1992-003,17,main
+1998-01-01,start,boe-a-1998-2747,ley-1997-007,43,main
+1998-01-01,law,boe-a-1998-2747,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004,3,main
+1998-02-13,law,boe-a-1998-5829,ley-de-cantabria-1993-004,1,main
+1998-02-14,start,boe-a-1998-5830,ley-1998-002,8,main
+1998-03-18,start,boe-a-1998-10361,ley-1998-003,38,main
+1998-06-25,start,boe-a-1998-19940,ley-1998-007,24,main
+1998-06-30,start,boe-a-1998-19941,ley-1998-008,8,main
+1998-06-30,start,boe-a-1998-19942,ley-1998-009,8,main
+1998-11-22,law,boe-a-1988-28707,ley-1988-002,21,main
+1998-12-22,start,boe-a-1999-652,ley-1998-011,154,main
+1999-01-01,law,boe-a-1999-5940,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004,3,main
+1999-01-20,law,boe-a-1998-30152,estatuto-de-autonomia,61,main
+1999-02-20,start,boe-a-1999-5942,ley-1999-001,16,main
+1999-03-26,start,boe-a-1999-10362,ley-1999-003,29,main
+1999-03-26,start,boe-a-1999-10364,ley-1999-005,86,main
+1999-03-27,law,boe-a-1999-10365,ley-1987-005,4,main
+1999-05-07,start,boe-a-1999-11981,ley-1999-008,51,main
+1999-07-30,law,boe-a-1999-16572,ley-1993-005,1,main
+2000-01-01,start,boe-a-2000-2768,ley-1999-011,19,main
+2000-01-01,law,boe-a-2000-2768,ley-de-cantabria-1992-009,1,main
+2000-06-02,law,boe-a-2000-12604,ley-1987-005,4,main
+2000-07-12,start,boe-a-2000-14000,ley-2000-002,104,main
+2000-11-03,start,boe-a-2000-16368,ley-2000-003,56,main
+2000-11-21,start,,ley-2000-004,92,main
+2000-11-21,law,boe-a-2000-22307,ley-1990-004,5,main
+2000-12-30,law,boe-a-2001-2502,ley-de-cantabria-1992-009 ley-1998-011 ley-1986-005,4,main
+2001-04-15,start,boe-a-2001-7428,ley-2001-001,30,main
+2001-09-04,start,boe-a-2001-16695,ley-2001-002,287,main
+2001-09-04,law,boe-a-2001-16695,ley-2000-004,2,main
+2001-11-29,start,boe-a-2001-23922,ley-2001-005,40,main
+2001-11-29,law,boe-a-2001-23922,ley-1998-011,1,main
+2001-12-03,start,boe-a-2001-19610,ley-2001-003,40,main
+2002-01-01,start,boe-a-2002-1377,ley-2001-010,58,main
+2002-01-01,law,boe-a-2002-1376,ley-de-cantabria-1992-009 ley-1999-011 ley-2001-002,4,main
+2002-01-01,law,boe-a-2002-1377,ley-de-cantabria-1993-004,2,main
+2002-01-16,start,boe-a-2002-915,ley-2001-007,72,main
+2002-01-20,law,boe-a-1998-30152,estatuto-de-autonomia,1,main
+2002-03-07,start,boe-a-2002-6232,ley-2002-001,94,main
+2002-05-08,start,boe-a-2002-9789,ley-2002-002,68,main
+2002-07-03,law,boe-a-2002-13000,estatuto-de-autonomia,1,main
+2002-07-29,start,boe-a-2002-14840,ley-2002-003,45,main
+2002-07-29,law,boe-a-2002-14840,ley-1998-011,3,main
+2002-08-02,start,boe-a-2002-16627,ley-2002-005,9,main
+2002-12-19,start,boe-a-2003-323,ley-2002-007,128,main
+2002-12-19,law,boe-a-2003-323,ley-2001-010,1,main
+2003-01-01,law,boe-a-2003-1590,ley-de-cantabria-1992-003 ley-de-cantabria-1992-009 ley-2000-004 ley-2001-001 ley-2002-005 ley-2001-002,13,main
+2003-01-18,start,boe-a-2003-322,ley-2002-006,169,main
+2003-03-27,start,boe-a-2003-7405,ley-2003-001,51,main
+2003-08-02,start,boe-a-2003-16422,ley-2003-002,9,main
+2003-08-02,law,boe-a-2003-16422,ley-2001-002,3,main
+2004-01-01,law,boe-a-2004-1514,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1997-007 ley-2002-007 ley-2002-002,14,main
+2004-04-13,start,boe-a-2004-7685,ley-2004-001,32,main
+2004-09-29,law,boe-a-2004-18333,ley-2001-002,1,main
+2004-10-19,start,boe-a-2004-19173,ley-2004-003,9,main
+2004-10-28,start,boe-a-2004-18333,ley-2004-002,96,main
+2004-11-25,start,boe-a-2004-20890,ley-2004-005,73,main
+2005-01-01,law,boe-a-2005-1004,ley-de-cantabria-1992-003 ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1993-005 ley-de-cantabria-1997-005 ley-2001-007 ley-2002-001 ley-2002-007 ley-2001-002 ley-2002-002 ley-2002-006,35,main
+2005-05-25,start,boe-a-2005-9402,ley-2005-001,32,main
+2005-06-25,start,boe-a-2005-14924,ley-2005-002,9,main
+2005-11-06,start,boe-a-2005-18359,ley-2005-004,65,main
+2006-01-01,law,boe-a-2006-677,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1993-008 ley-1996-005 ley-2001-007 ley-2004-005 ley-2001-002 ley-2002-002 ley-2002-006,25,main
+2006-04-28,start,boe-a-2006-14082,ley-2006-003,188,main
+2006-04-28,law,boe-a-2006-14082,ley-2002-006,3,main
+2006-05-15,start,boe-a-2006-5810,ley-2006-001,67,main
+2006-06-02,start,boe-a-2006-14083,ley-2006-004,106,main
+2006-06-02,law,boe-a-2006-14083,ley-1988-004,10,main
+2006-06-07,law,boe-a-2006-14084,ley-2002-002,4,main
+2006-06-23,start,boe-a-2006-12691,ley-2006-007,24,main
+2006-06-23,law,boe-a-2006-12691,ley-2002-007,1,main
+2006-07-07,law,boe-a-2006-14315,ley-de-cantabria-1992-009 ley-2002-001,9,main
+2006-07-22,law,boe-a-2006-15079,ley-2004-005,29,main
+2006-08-01,start,boe-a-2006-15139,ley-2006-011,40,main
+2006-08-01,law,boe-a-2006-15139,ley-de-cantabria-1993-004,1,main
+2006-08-03,start,boe-a-2006-15162,ley-2006-012,94,main
+2006-08-03,law,boe-a-2006-15162,ley-de-cantabria-1992-003,1,main
+2006-09-16,start,boe-a-2006-14085,ley-2006-006,35,main
+2006-10-28,start,boe-a-2006-20768,ley-2006-015,53,main
+2006-11-06,start,boe-a-2006-20769,ley-2006-016,17,main
+2006-12-22,start,boe-a-2007-975,ley-2006-017,60,main
+2006-12-22,law,boe-a-2007-975,ley-2002-005,3,main
+2007-01-01,start,boe-a-2006-15113,ley-2006-010,91,main
+2007-01-01,start,boe-a-2006-20767,ley-2006-014,195,main
+2007-01-01,law,boe-a-2006-20767,ley-2002-006,1,main
+2007-01-01,law,boe-a-2007-1116,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-2001-002 ley-2002-002 ley-2002-006,9,main
+2007-03-10,start,boe-a-2007-8185,ley-2007-001,70,main
+2007-04-18,start,boe-a-2007-9330,ley-2007-003,73,main
+2007-04-18,start,boe-a-2007-9331,ley-2007-004,49,main
+2007-04-18,law,boe-a-2007-9332,ley-1997-007,2,main
+2007-04-18,law,boe-a-2007-9330,ley-de-cantabria-1992-003,3,main
+2007-07-03,start,boe-a-2007-8186,ley-2007-002,117,main
+2007-07-03,law,boe-a-2007-8186,ley-1996-003,1,main
+2008-01-01,law,boe-a-2008-2598,ley-2006-010 ley-2006-014,13,main
+2008-01-01,law,boe-a-2008-2599,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-2000-003 ley-2002-007 ley-2004-005 ley-2001-002 ley-2002-002,42,main
+2008-07-03,start,,decreto-legislativo-2008-062,21,main
+2008-07-10,start,boe-a-2008-12490,ley-2008-001,32,main
+2008-08-14,start,boe-a-2008-13911,ley-2008-002,23,main
+2008-08-14,law,boe-a-2008-13911,ley-2006-003 ley-2006-014,8,main
+2008-12-03,start,boe-a-2008-20584,ley-2008-004,47,main
+2008-12-31,start,boe-a-2009-1173,ley-2008-005,76,main
+2008-12-31,law,boe-a-2009-1175,ley-2006-001,1,main
+2009-01-01,law,boe-a-2009-1176,ley-2006-014,9,main
+2009-01-01,law,boe-a-2009-1177,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1999-003 ley-2002-007 ley-2007-002 ley-2002-002 ley-2002-006 ley-2006-017,11,main
+2009-02-13,start,boe-a-2009-1174,ley-2008-006,168,main
+2009-06-06,law,boe-a-2009-9471,ley-2002-001,1,main
+2009-07-11,law,boe-a-2009-13569,ley-2001-002,7,main
+2009-12-24,start,boe-a-2010-739,ley-2009-003,51,main
+2009-12-24,law,boe-a-2010-739,ley-de-cantabria-1993-004 ley-2007-002 ley-2002-006,13,main
+2009-12-25,start,boe-a-2010-929,ley-2009-004,14,main
+2009-12-25,law,boe-a-2010-929,ley-2008-001,3,main
+2010-01-01,start,,ley-2009-006,28,main
+2010-01-01,law,boe-a-2010-931,ley-de-cantabria-1992-009 ley-1993-008 ley-2001-007 ley-2002-007 ley-2006-003 ley-2006-010 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2008-002 ley-2001-002 ley-2002-002 ley-2002-006,49,main
+2010-01-28,law,boe-a-2010-1141,ley-2002-006,1,main
+2010-05-08,law,boe-a-2010-8506,ley-2006-011 ley-2002-006,10,main
+2010-05-15,law,boe-a-2010-8555,ley-2002-001 ley-2006-001,39,main
+2010-06-04,law,boe-a-2010-9422,ley-2001-001,12,main
+2010-06-07,law,boe-a-2010-8506,ley-2002-006,5,main
+2010-07-18,law,boe-a-2010-11414,estatuto-de-autonomia,1,main
+2010-08-13,start,boe-a-2010-13490,ley-2010-006,9,main
+2010-08-13,law,boe-a-2010-13490,ley-2001-002,6,main
+2010-12-17,law,boe-a-2010-19427,ley-2002-001,1,main
+2011-01-01,law,boe-a-2011-1651,ley-de-cantabria-1992-009 ley-1996-005 ley-1999-005 ley-2001-010 ley-2004-005 decreto-legislativo-2008-062 ley-2002-002 ley-2002-006 ley-2006-017,55,main
+2011-01-05,law,boe-a-2011-272,ley-2002-001,1,main
+2011-01-15,start,boe-a-2010-12140,ley-2010-004,52,main
+2011-01-28,start,boe-a-2011-1141,ley-2010-008,133,main
+2011-01-28,start,boe-a-2011-1142,ley-2010-009,115,main
+2011-01-28,law,boe-a-2011-1141,ley-2004-001 ley-2006-011 ley-2007-002 ley-2009-003,20,main
+2011-01-28,law,boe-a-2011-1142,ley-de-cantabria-1993-004 ley-2001-010,2,main
+2011-04-14,law,boe-a-2011-7635,ley-2006-001 ley-2001-002,4,main
+2011-04-14,law,boe-a-2011-7636,ley-2007-001,2,main
+2011-05-05,start,boe-a-2011-7406,ley-2011-001,60,main
+2011-12-31,law,boe-a-2012-552,decreto-legislativo-2008-062,1,main
+2012-01-01,law,boe-a-2011-552,ley-2001-002,1,main
+2012-01-01,law,boe-a-2012-552,ley-de-cantabria-1992-009 ley-1996-005 ley-1999-005 ley-2000-004 ley-2001-001 ley-2001-010 ley-2002-007 ley-2004-005 ley-2006-001 ley-2006-003 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2008-002 ley-2009-003 ley-2010-009 ley-2001-002 ley-2002-002 ley-2002-006 ley-2006-017,80,main
+2012-01-25,law,boe-a-2012-2026,decreto-legislativo-2008-062,2,main
+2012-06-02,start,boe-a-2012-7709,ley-2012-002,57,main
+2012-06-02,law,boe-a-2012-7709,ley-1987-005 ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-2006-014 ley-2007-002 ley-2008-002 ley-2008-004 ley-2002-006 ley-2006-017,26,main
+2012-06-30,law,boe-a-2012-9144,ley-2001-002,17,main
+2012-07-01,law,boe-a-2012-7709,ley-2012-002 ley-2002-002,5,main
+2012-10-20,start,boe-a-2012-13583,ley-2012-004,11,main
+2012-12-19,law,boe-a-2013-114,ley-2010-006 ley-2001-002,5,main
+2012-12-21,law,boe-a-2013-186,ley-de-cantabria-1993-004 ley-2002-006,9,main
+2012-12-29,start,boe-a-2013-498,ley-2012-008,47,main
+2013-01-01,law,boe-a-2013-627,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1996-005 ley-de-cantabria-1997-005 ley-2002-001 ley-2002-007 ley-2003-001 ley-2004-005 ley-2006-003 ley-2006-004 ley-2006-010 ley-2006-014 ley-2007-002 ley-2007-004 decreto-legislativo-2008-062 ley-2009-004 ley-2010-009 ley-2012-002 ley-2002-002,91,main
+2013-03-01,law,boe-a-2017-3025,ley-2010-009,1,main
+2013-05-23,law,boe-a-2013-5435,ley-2001-002,1,main
+2013-07-03,law,boe-a-2013-7913,ley-2006-004 ley-2001-002 ley-2006-017,4,main
+2013-07-16,start,boe-a-2013-8087,ley-2013-005,15,main
+2013-12-30,law,boe-a-2013-13350,ley-2004-002,6,main
+2014-01-01,law,boe-a-2014-509,ley-2006-014,11,main
+2014-01-01,law,boe-a-2014-510,ley-de-cantabria-1992-003 ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1998-011 ley-1999-005 ley-2000-002 ley-2000-004 ley-2001-007 ley-2002-007 ley-2003-001 ley-2004-005 ley-2006-001 ley-2006-003 ley-2006-010 ley-2006-011 ley-2007-002 ley-2007-003 decreto-legislativo-2008-062 ley-2008-001 ley-2008-002 ley-2010-009 ley-2001-002 ley-2002-002 ley-2002-006 ley-2006-015,93,main
+2014-01-18,start,boe-a-2013-12424,ley-2013-006,170,main
+2014-07-17,start,boe-a-2013-13232,ley-2013-007,38,main
+2014-12-02,start,boe-a-2014-12975,ley-2014-001,62,main
+2014-12-05,start,boe-a-2014-13624,ley-2014-002,69,main
+2014-12-05,law,boe-a-2014-13624,ley-de-cantabria-1992-009 ley-2009-006 ley-2002-002,71,main
+2014-12-30,start,boe-a-2015-683,ley-2014-005,80,main
+2015-01-01,law,boe-a-2015-685,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1999-005 ley-2001-007 ley-2002-001 ley-2004-005 ley-2006-001 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2008-002 ley-2009-006 ley-2010-008 ley-2010-009 ley-2012-002 ley-2013-006 ley-2013-007 ley-2001-002 ley-2002-006 ley-2006-015 ley-2006-017,83,main
+2015-01-29,start,boe-a-2015-682,ley-2014-004,29,main
+2015-01-29,law,boe-a-2015-682,ley-2001-002 ley-2006-017,2,main
+2015-03-20,law,boe-a-2015-3510,ley-2002-007 decreto-legislativo-2008-062,4,main
+2015-04-24,law,boe-a-2015-4512,ley-2004-002,4,main
+2015-10-03,start,boe-a-2015-11077,ley-2015-002,27,main
+2015-12-02,start,boe-a-2015-13493,ley-2015-004,10,main
+2016-01-01,start,boe-a-2016-478,ley-2015-006,44,main
+2016-01-01,law,boe-a-2015-478,decreto-legislativo-2008-062 ley-2014-002,2,main
+2016-01-01,law,boe-a-2016-477,ley-2006-014,2,main
+2016-01-01,law,boe-a-2016-478,ley-de-cantabria-1992-009 ley-2001-010 ley-2002-007 ley-2004-005 ley-2005-001 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2008-002 ley-2009-003 ley-2010-008 ley-2010-009 ley-2014-002 ley-2014-005 ley-2002-006 ley-2006-017,67,main
+2016-01-12,law,boe-a-2016-303,ley-2001-002,1,main
+2016-02-05,start,boe-a-2016-1404,ley-2016-001,10,main
+2016-02-05,start,boe-a-2016-1405,ley-2016-002,10,main
+2016-11-08,law,boe-a-2016-10774,ley-2001-002,4,main
+2016-11-22,start,boe-a-2016-11668,ley-2016-004,12,main
+2017-03-01,law,boe-a-2017-3024,ley-2006-014,3,main
+2017-03-01,law,boe-a-2017-3025,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1996-005 ley-1998-011 ley-1999-005 ley-2001-001 ley-2002-007 ley-2003-001 ley-2004-005 ley-2006-001 ley-2006-010 ley-2007-002 decreto-legislativo-2008-062 ley-2008-002 ley-2009-003 ley-2010-008 ley-2010-009 ley-2012-002 ley-2014-002 ley-2014-005 ley-2002-006 ley-2006-017,61,main
+2017-04-19,start,boe-a-2017-5043,ley-2017-003,80,main
+2017-04-19,law,boe-a-2017-5043,ley-2015-002,27,main
+2017-04-28,law,boe-a-2017-5196,ley-2011-001,16,main
+2017-05-25,law,boe-a-2017-6420,ley-2001-002 ley-2006-017,2,main
+2017-07-15,start,boe-a-2017-9487,ley-2017-006,38,main
+2017-07-15,law,boe-a-2017-9487,ley-1996-003,1,main
+2017-09-30,law,boe-a-2017-11712,ley-2001-002,1,main
+2017-12-30,law,boe-a-2018-856,decreto-legislativo-2008-062,1,main
+2018-01-01,law,boe-a-2018-856,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1993-005 ley-1998-011 ley-1999-005 ley-2001-005 ley-2002-001 ley-2006-001 ley-2006-003 ley-2006-010 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2010-009 ley-2012-002 ley-2014-001 ley-2014-002 ley-2014-005 ley-2001-002 ley-2006-015,72,main
+2018-05-18,start,boe-a-2018-7515,ley-2018-002,34,main
+2018-06-06,start,boe-a-2018-8793,ley-2018-003,9,main
+2018-06-06,law,boe-a-2018-8793,ley-2012-002,1,main
+2018-06-28,start,boe-a-2018-10581,ley-2018-004,30,main
+2018-08-17,law,boe-a-2018-11695,ley-2001-001,1,main
+2018-09-29,start,boe-a-2018-5393,ley-2018-001,70,main
+2018-12-11,start,boe-a-2019-397,ley-2018-006,47,main
+2018-12-11,law,boe-a-2019-397,ley-de-cantabria-1993-004,1,main
+2018-12-20,start,boe-a-2019-398,ley-2018-007,24,main
+2018-12-20,law,boe-a-2019-398,ley-1985-006,15,main
+2019-01-01,law,boe-a-2019-1631,ley-2006-014,2,main
+2019-01-01,law,boe-a-2019-1632,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-2000-002 ley-2003-001 ley-2004-002 ley-2006-010 ley-2006-012 ley-2007-002 decreto-legislativo-2008-062 ley-2008-001 ley-2008-002 ley-2009-004 ley-2010-008 ley-2010-009 ley-2012-002 ley-2014-005 ley-2018-003 ley-1986-005,53,main
+2019-01-03,start,boe-a-2018-17138,ley-2018-005,198,main
+2019-01-03,law,boe-a-2018-17138,ley-2006-003 ley-2006-010 ley-2006-011 ley-2006-014 ley-2002-006,182,main
+2019-01-12,start,boe-a-2019-1630,ley-2018-009,90,main
+2019-01-12,law,boe-a-2019-1630,ley-2007-002 ley-1996-003,45,main
+2019-02-26,start,boe-a-2019-3488,ley-2019-001,33,main
+2019-02-26,law,boe-a-2019-3488,ley-2012-002,1,main
+2019-03-09,start,,ley-2019-002,180,main
+2019-03-09,law,boe-a-2019-4565,ley-1987-005 ley-2006-010 ley-2006-014 ley-2018-005,7,main
+2019-04-17,start,boe-a-2019-6771,ley-2019-003,75,main
+2019-04-17,law,boe-a-2019-6771,ley-2007-001,70,main
+2019-07-01,start,boe-a-2019-399,ley-2018-008,29,main
+2020-01-01,law,boe-a-2020-504,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1997-007 ley-1998-011 ley-2000-002 ley-2001-007 ley-2004-002 ley-2005-001 ley-2006-001 ley-2006-010 ley-2006-014 decreto-legislativo-2008-062 ley-2008-002 ley-2014-001 ley-2014-002 ley-2017-003 ley-2018-005 ley-2018-006 ley-2018-008 ley-2019-002 ley-2001-002 ley-2006-015,148,main
+2020-05-28,start,,ley-2020-002,14,main
+2020-05-29,law,boe-a-2020-8848,ley-2004-002 ley-2001-002,2,main
+2020-07-02,start,boe-a-2020-8851,ley-2020-004,11,main
+2020-07-25,start,boe-a-2020-9903,ley-2020-005,16,main
+2020-08-04,start,boe-a-2020-9904,ley-2020-006,64,main
+2020-10-02,start,boe-a-2020-12899,ley-2020-007,9,main
+2020-10-02,law,boe-a-2020-12899,ley-2017-003,2,main
+2020-12-09,start,boe-a-2020-15880,ley-2020-008,57,main
+2020-12-31,law,boe-a-2021-842,decreto-legislativo-2008-062,6,main
+2021-01-01,law,boe-a-2021-842,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-2000-002 ley-2003-001 ley-2004-005 ley-2005-004 ley-2006-010 ley-2006-011 ley-2006-014 ley-2007-002 ley-2008-002 ley-2012-002 ley-2013-006 ley-2015-006 ley-2018-001 ley-2018-005 ley-2018-006 ley-2018-008 ley-2020-006 ley-2001-002 ley-2006-015 ley-2006-017,74,main
+2021-03-25,law,boe-a-2021-4567,estatuto-de-autonomia,2,main
+2021-04-22,start,boe-a-2021-8105,ley-2021-001,129,main
+2021-05-07,start,boe-a-2021-8106,ley-2021-002,11,main
+2021-05-07,law,boe-a-2021-8106,ley-2006-004,1,main
+2021-07-13,start,boe-a-2021-12057,ley-2021-007,11,main
+2021-07-13,law,boe-a-2021-12057,ley-1998-003,38,main
+2021-11-21,start,boe-a-2021-10670,ley-2021-004,60,main
+2021-11-21,law,boe-a-2021-10670,ley-de-cantabria-1993-004 ley-2018-006,3,main
+2021-11-25,start,boe-a-2022-1276,ley-2021-008,70,main
+2021-12-30,start,boe-a-2022-1277,ley-2021-009,33,main
+2021-12-31,law,boe-a-2022-2180,decreto-legislativo-2008-062,2,main
+2022-01-01,law,boe-a-2022-2180,ley-de-cantabria-1992-009 ley-de-cantabria-1993-004 ley-1999-005 ley-2000-002 ley-2001-010 ley-2003-001 ley-2004-005 ley-2006-001 ley-2006-003 ley-2006-004 ley-2006-014 ley-2007-002 ley-2008-002 ley-2008-004 ley-2008-005 ley-2009-003 ley-2010-004 ley-2012-002 ley-2014-001 ley-2014-002 ley-2018-001 ley-2018-005 ley-2021-001 ley-2006-017,88,main
+2022-03-11,law,boe-a-2022-9436,ley-2007-002,1,main
+2022-06-01,law,boe-a-2022-9437,ley-de-cantabria-1992-009,1,main
+2022-06-22,start,boe-a-2022-12386,ley-2022-003,51,main
+2022-06-22,law,boe-a-2022-12386,ley-1994-006,49,main
+2022-07-02,start,boe-a-2022-12387,ley-2022-004,78,main
+2022-07-02,law,boe-a-2022-12387,ley-2006-015,57,main
+2022-07-23,start,boe-a-2022-13844,ley-2022-005,13,main
+2022-07-23,law,boe-a-2022-13844,ley-2006-003 ley-2014-005,2,main
+2022-09-22,law,boe-a-2022-13844,ley-2004-002 ley-2022-005 ley-2001-002 ley-2006-017,634,main
+2022-11-12,start,boe-a-2022-20715,ley-2022-007,27,main
+2022-11-12,law,boe-a-2022-20715,ley-de-cantabria-1993-004 ley-1986-005,18,main
+2023-01-01,law,boe-a-2023-3297,ley-de-cantabria-1992-009 ley-de-cantabria-1997-005 ley-2000-004 ley-2001-001 ley-2001-007 ley-2004-002 ley-2006-001 ley-2006-003 ley-2006-010 ley-2006-011 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2009-006 ley-2010-008 ley-2010-009 ley-2012-004 ley-2018-005 ley-2019-001 ley-2022-003 ley-2022-005,120,main
+2023-01-05,start,boe-a-2023-3295,ley-2022-009,87,main
+2023-01-24,start,,ley-2022-008,38,main
+2023-01-24,law,boe-a-2023-3294,ley-2012-002,1,main
+2023-04-15,start,boe-a-2023-9958,ley-2023-001,44,main
+2024-01-01,law,boe-a-2024-1373,ley-de-cantabria-1992-009 ley-1999-005 ley-2001-010 ley-2002-007 ley-2003-001 ley-2004-002 ley-2005-001 ley-2006-001 ley-2006-010 ley-2006-014 ley-2007-002 decreto-legislativo-2008-062 ley-2008-005 ley-2009-003 ley-2010-009 ley-2012-002 ley-2014-002 ley-2017-003 ley-2018-005 ley-2018-009 ley-2019-001 ley-2019-002 ley-2020-002 ley-2022-005 ley-2022-009 ley-2023-001 ley-2006-017,169,main
+2024-11-13,law,boe-a-2024-24767,ley-2021-008,1,main
+2024-12-30,law,boe-a-2025-643,decreto-legislativo-2008-062,1,main
+2025-01-01,law,boe-a-2025-643,ley-de-cantabria-1992-009 ley-1996-005 ley-1999-005 ley-2002-007 ley-2006-010 ley-2006-014 decreto-legislativo-2008-062 ley-2008-002 ley-2014-002 ley-2014-005 ley-2018-005 ley-2018-009 ley-2022-005,25,main
+2025-03-07,law,boe-a-2025-4518,ley-2021-008,1,main
+2025-03-27,law,boe-a-2025-6951,ley-2021-009,33,main
+2025-04-05,start,boe-a-2025-10884,ley-2025-002,120,main
+2025-04-05,law,boe-a-2025-10884,ley-1998-007 ley-1998-011 ley-2002-007 ley-2004-002 ley-2006-003 ley-2006-004 ley-2006-010 ley-2006-014 ley-2007-002 ley-2010-004 ley-2010-009 ley-2013-006 ley-2014-002 ley-2014-005 ley-2018-001 ley-2018-003 ley-2018-005 ley-2019-003 ley-2020-006 ley-2022-005 ley-2022-007 ley-2022-008 ley-2006-017,107,main
+2025-07-09,law,boe-a-2025-14084,ley-2021-008,1,main
+2025-10-16,start,boe-a-2025-21451,ley-2025-004,45,main
+2025-10-16,start,boe-a-2025-21452,ley-2025-005,9,main
+2025-12-19,law,boe-a-2026-74,ley-2023-001,9,main
+2026-01-01,start,boe-a-2025-14604,ley-2025-003,73,main
+2026-01-13,start,,ley-2026-001,40,main
+2026-01-13,law,boe-a-2026-1258,ley-2018-001,2,main
+2026-02-04,law,boe-a-2026-2551,ley-2007-002 ley-2025-002,2,main
+2026-03-06,law,boe-a-2026-5718,ley-2010-009,1,main
+2026-03-12,law,boe-a-2026-6548,ley-2023-001,9,main
+2026-05-01,law,boe-a-2026-10431,ley-de-cantabria-1992-009 ley-1996-005 ley-2001-010 ley-2002-007 ley-2006-010 decreto-legislativo-2008-062 ley-2008-002 ley-2008-005 ley-2010-009 ley-2012-002 ley-2018-005 ley-2019-003 ley-2022-005,24,main
+2026-06-03,law,boe-a-2026-12522,ley-2006-012,5,main
+2026-06-05,law,boe-a-2026-12184,ley-2007-002 ley-2025-002,2,main
+2026-06-12,law,boe-a-2026-13372,ley-2022-009,4,main
+2026-07-16,start,boe-a-2026-14659,ley-2026-008,44,main
+2026-07-16,law,boe-a-2026-14659,ley-2014-001,1,main
+2026-08-29,start,boe-a-2026-17287,ley-de-cantabria-2026-009,91,main
+2026-08-29,law,boe-a-2026-17287,ley-1998-011 ley-2018-005 ley-2006-017,77,main
