@@ -140,7 +140,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2021-008` | Ley 8/2021, de 17 de noviembre, de Memoria Histórica y Democrática de Cantabria. | 4 | 2021-11-25 to 2025-07-09 |
 | `ley-2022-003` | Ley 3/2022, de 14 de junio, de Entidades Locales Menores. | 2 | 2022-06-22 to 2023-01-01 |
 | `ley-2022-004` | Ley 4/2022, de 24 de junio, de Regulación del Juego de Cantabria. | 1 | 2022-07-02 to 2022-07-02 |
-| `ley-2022-005` | Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria. | 7 | 2022-07-23 to 2026-05-01 |
+| `ley-2022-005` | Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria. | 8 | 2022-07-23 to 2026-10-17 |
 | `ley-2022-007` | Ley 7/2022, de 3 de noviembre, de creación del Instituto Cántabro de Administración Pública "Rafael de la Sierra". | 2 | 2022-11-12 to 2025-04-05 |
 | `ley-2022-008` | Ley 8/2022, de 27 de diciembre, de Ciencia, Tecnología e Innovación de Cantabria. | 2 | 2023-01-24 to 2025-04-05 |
 | `ley-2022-009` | Ley 9/2022, de 27 de diciembre, de Coordinación de Policías Locales de Cantabria. | 3 | 2023-01-05 to 2026-06-12 |
@@ -166,19 +166,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2015-002` | Ley 2/2015, de 1 de octubre, por la que se aprueba el régimen sancionador en materia de espectáculos públicos, actividades recreativas y establecimientos públicos en la Comunidad Autónoma de Cantabria. | 2 | 2015-10-03 to 2017-04-19 |
 | `ley-2021-009` | Ley 9/2021, de 20 de diciembre, del Plan Estadístico 2021-2024. | 2 | 2021-12-30 to 2025-03-27 |
 
-The build made 316 commits:
+The build made 317 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 151 | first version of an act |
-| 165 | one law on its in-force day |
+| 166 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 257 laws in the record.
-- 989 tags.
+- 258 laws in the record.
+- 991 tags.
 
 ## Dates
 
@@ -190,13 +190,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5a2989f102f5e2bd43a0124d0e3fdec212f39f8c63be1243c4aa81461af561fe` (26827093 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `0fad90cf931c453951234ecf904d05ee79f3ec7e`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `84e5c37100bde152a97336a3d9e7b9aae04c55e90a89e24ed05c70f5ef8a2588` (27975078 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-742 versions of 151 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -210,6 +210,7 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- Updates: when the BOE updates the consolidated text of a published norm, its published versions stay as they are and the newer versions are appended, each dated by its fecha_vigencia; a norm the BOE has since repealed ends with a commit that removes its text on the fecha_derogacion, credited to the repealing norm, and keeps that repeal in its record. An update that would change a version already published is held for review, never applied.
 
 ## What AI did and did not do
 

@@ -12,7 +12,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-151 norms with 742 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 13 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+151 norms with 743 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 13 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -142,7 +142,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2021-008/` | Ley 8/2021, de 17 de noviembre, de Memoria Histórica y Democrática de Cantabria. | 4 | as first published, then each change: 25 November 2021 to 9 July 2025 | 2025-12-20 |
 | `ley-2022-003/` | Ley 3/2022, de 14 de junio, de Entidades Locales Menores. | 2 | as first published, then each change: 22 June 2022 to 1 January 2023 | 2026-03-02 |
 | `ley-2022-004/` | Ley 4/2022, de 24 de junio, de Regulación del Juego de Cantabria. | 1 | as first published: 2 July 2022 | 2025-12-20 |
-| `ley-2022-005/` | Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria. | 7 | as first published, then each change: 23 July 2022 to 1 May 2026 | 2026-10-16 |
 | `ley-2022-007/` | Ley 7/2022, de 3 de noviembre, de creación del Instituto Cántabro de Administración Pública "Rafael de la Sierra". | 2 | as first published, then each change: 12 November 2022 to 5 April 2025 | 2025-12-20 |
 | `ley-2022-008/` | Ley 8/2022, de 27 de diciembre, de Ciencia, Tecnología e Innovación de Cantabria. | 2 | oldest version available, then each change: 24 January 2023 to 5 April 2025 | 2026-03-02 |
 | `ley-2022-009/` | Ley 9/2022, de 27 de diciembre, de Coordinación de Policías Locales de Cantabria. | 3 | as first published, then each change: 5 January 2023 to 12 June 2026 | 2026-06-22 |
@@ -167,6 +166,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2007-001/` | Ley 1/2007, de 1 de marzo, de Protección Civil y Gestión de Emergencias de Cantabria. | 3 | as first published, then each change: 10 March 2007 to 17 April 2019; **repealed** 17 April 2019 by Ley 3/2019, de 8 de abril (BOE-A-2019-6771) | 2025-12-19 |
 | `ley-2015-002/` | Ley 2/2015, de 1 de octubre, por la que se aprueba el régimen sancionador en materia de espectáculos públicos, actividades recreativas y establecimientos públicos en la Comunidad Autónoma de Cantabria. | 2 | as first published, then each change: 3 October 2015 to 19 April 2017; **repealed** 19 April 2017 by Ley 3/2017, de 5 de abril (BOE-A-2017-5043) | 2025-12-19 |
 | `ley-2021-009/` | Ley 9/2021, de 20 de diciembre, del Plan Estadístico 2021-2024. | 2 | as first published, then each change: 30 December 2021 to 27 March 2025; **repealed** 27 March 2025 by Ley 1/2025, de 19 de marzo (BOE-A-2025-6951) | 2025-12-20 |
+| `ley-2022-005/` | Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria. | 8 | as first published, then each change: 23 July 2022 to 17 October 2026 | 2026-11-06 |
 
 ## Source
 

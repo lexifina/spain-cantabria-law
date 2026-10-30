@@ -4674,6 +4674,12 @@
      "units": 330,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13844",
      "sha256": "aa658bdcddf9ad3611944e1890a80dd08ea2de4a0eabd132b14c118cd4e5507d"
+    },
+    {
+     "from": "2026-10-17",
+     "units": 330,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-13844",
+     "sha256": "cbfa680f1f740edb9728f28602fb425a89e795705e5df985a02d189a0587dcdf"
     }
    ]
   },

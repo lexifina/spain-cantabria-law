@@ -1,6 +1,6 @@
 # Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria.
 
-Ley 5/2022, de 15 de julio · 7 versions, from 2022-07-23 (latest in force: 2026-05-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-2022-13844>
+Ley 5/2022, de 15 de julio · 8 versions, from 2022-07-23 (latest in force: 2026-10-17) · <https://www.boe.es/buscar/act.php?id=BOE-A-2022-13844>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -64,7 +64,7 @@ Ley 5/2022, de 15 de julio · 7 versions, from 2022-07-23 (latest in force: 2026
 | Artículo 58 | [art-058.md](art-058.md) | 1 | 2022-09-22 |
 | Artículo 59 | [art-059.md](art-059.md) | 1 | 2022-09-22 |
 | Artículo 60 | [art-060.md](art-060.md) | 1 | 2022-09-22 |
-| Artículo 61 | [art-061.md](art-061.md) | 1 | 2022-09-22 |
+| Artículo 61 | [art-061.md](art-061.md) | 2 | 2026-10-17 |
 | Artículo 62 | [art-062.md](art-062.md) | 1 | 2022-09-22 |
 | Artículo 63 | [art-063.md](art-063.md) | 1 | 2022-09-22 |
 | Artículo 64 | [art-064.md](art-064.md) | 1 | 2022-09-22 |

@@ -175,6 +175,12 @@
     "ley-2021-009"
    ],
    "sha256": "dfd39cccd30a8e5298ecc3c52f99c10190bf376fdb8b9b6cf853b5a6dabc0361"
+  },
+  "98-update-20261106-32normas03.json": {
+   "acts": [
+    "ley-2022-005"
+   ],
+   "sha256": "a81036863759dd2e0bda48c8500afbd8c96e2405f78f36a4728242f9f7ad720d"
   }
  },
  "schema": 1
