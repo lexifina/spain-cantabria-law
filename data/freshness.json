@@ -6,10 +6,10 @@
  "totals": {
   "acts": 151,
   "by_status": {
-   "current": 146,
-   "pending-change": 5,
+   "current": 10,
+   "pending-change": 0,
    "stale": 0,
-   "unverified": 0,
+   "unverified": 141,
    "source-unavailable": 0
   }
  },
