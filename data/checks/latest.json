@@ -1,0 +1,50 @@
+{
+ "generated": "2026-11-23T01:09:07Z",
+ "latest": {
+  "boe-autonomico|spain/cantabria/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "awaiting_text": 0,
+    "current": 146,
+    "gone": 0,
+    "held": 151,
+    "listed_without_text": 0,
+    "newest_at_source": "BOE-A-2026-17287",
+    "newest_in_repo": "BOE-A-2026-17287",
+    "out_of_scope": 2,
+    "pending": 5,
+    "repo": 151,
+    "source_in_scope": 153
+   },
+   "check_id": "es-boe-autonomico-20261123T010809Z",
+   "commits": null,
+   "corpus": "spain/cantabria/acts",
+   "error": null,
+   "finished": "2026-11-23T01:08:10Z",
+   "flags": [],
+   "gap": 7,
+   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-11-06; 2 norms whose force ran out at the BOE are not held: outside this repository's scope; first check: the BOE's entries were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch spain (f95b387938)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20T13:08:24Z",
+   "source": "boe-autonomico",
+   "started": "2026-11-23T01:08:09Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
