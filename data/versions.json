@@ -5666,6 +5666,20 @@
      "sha256": "db8ad9c3471a08d354c359d8b437af6abc4fb22a73cac32d5d6d62622054f4c3"
     }
    ]
+  },
+  {
+   "slug": "ley-de-cantabria-2026-011",
+   "short": "Ley de Cantabria 11/2026, de 10 de noviembre",
+   "title": "Ley de Cantabria 11/2026, de 10 de noviembre, de Autoridad del Profesorado y de la Convivencia Escolar en los centros educativos de la Comunidad Autónoma de Cantabria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-24504",
+   "versions": [
+    {
+     "from": "2026-11-17",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-24504",
+     "sha256": "759487a907d26cd91439e6a60392293a2a5deb9c2bfc74b18c1d938d5724e0d2"
+    }
+   ]
   }
  ]
 }
